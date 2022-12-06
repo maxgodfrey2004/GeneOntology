@@ -1,4 +1,9 @@
-.PHONY: clean install
+.PHONY: clean run install
+
+PY := python3
+
+run:
+	$(PY) ontology.py
 
 install:
 	@echo "> Downloading go-basic.obo ..."
