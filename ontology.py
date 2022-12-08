@@ -139,7 +139,7 @@ if __name__ == '__main__':
   for interactor in INTERACTORS:
     mf_ids = mf_ids.union(get_molecular_function(interactor))
   entries = [goid + ',' + GO_DATA[goid].def_ for goid in mf_ids]
-  entries.sort(key=lambda x: x.split()[1])
+  entries.sort(key=lambda x: x.split('"')[1])
   print(*entries, sep='\n', file=open('results/molecular_function.csv', 'w'))
 
   # Retrieve all cellular components in the system
@@ -147,7 +147,7 @@ if __name__ == '__main__':
   for interactor in INTERACTORS:
     mf_ids = mf_ids.union(get_cellular_component(interactor))
   entries = [goid + ',' + GO_DATA[goid].def_ for goid in mf_ids]
-  entries.sort(key=lambda x: x.split()[1])
+  entries.sort(key=lambda x: x.split('"')[1])
   print(*entries, sep='\n', file=open('results/cellular_component.csv', 'w'))
 
   # Retrieve all biological processes in the system
@@ -155,6 +155,6 @@ if __name__ == '__main__':
   for interactor in INTERACTORS:
     mf_ids = mf_ids.union(get_biological_process(interactor))
   entries = [goid + ',' + GO_DATA[goid].def_ for goid in mf_ids]
-  entries.sort(key=lambda x: x.split()[1])
+  entries.sort(key=lambda x: x.split('"')[1])
   print(*entries, sep='\n', file=open('results/biological_process.csv', 'w'))
 
