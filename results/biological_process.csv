@@ -1,0 +1,707 @@
+GO:0006289,A DNA repair process in which a small region of the strand surrounding the damage is removed from the DNA helix as an oligonucleotide. The small gap left in the DNA helix is filled in by the sequential action of DNA polymerase and DNA ligase. Nucleotide excision repair recognizes a wide range of substrates, including damage caused by UV irradiation (pyrimidine dimers and 6-4 photoproducts) and chemicals (intrastrand cross-links and bulky adducts).
+GO:1903461,Any DNA replication, Okazaki fragment processing that is involved in mitotic cell cycle DNA replication.
+GO:1902975,Any DNA replication initiation involved in mitotic cell cycle DNA replication.
+GO:0006261,A DNA replication process that uses parental DNA as a template for the DNA-dependent DNA polymerases that synthesize the new strands.
+GO:1904161,Any DNA synthesis that is involved in UV-damage excision repair.
+GO:0007611,The acquisition and processing of information and/or the storage and retrieval of this information over time.
+GO:0007613,The activities involved in the mental information processing system that receives (registers), modifies, stores, and retrieves informational stimuli. The main stages involved in the formation and retrieval of memory are encoding (processing of received information by acquisition), storage (building a permanent record of received information as a result of consolidation) and retrieval (calling back the stored information and use it in a suitable way to execute a given task).
+GO:0007416,The aggregation, arrangement and bonding together of a set of components to form a synapse. This process ends when the synapse is mature (functional).
+GO:0001765,The aggregation, arrangement and bonding together of a set of components to form a membrane raft, a small (10-200 nm), heterogeneous, highly dynamic, sterol- and sphingolipid-enriched membrane domains that compartmentalizes cellular processes.
+GO:0000730,The aggregation, arrangement and bonding together of strand exchange proteins (recombinases) into higher order oligomers on single-stranded DNA.
+GO:0006334,The aggregation, arrangement and bonding together of a nucleosome, the beadlike structural units of eukaryotic chromatin composed of histones and DNA.
+GO:1904887,The aggregation, arrangement and bonding together of a set of components to form a Wnt signalosome.
+GO:0071163,The aggregation, arrangement and bonding together of a set of components to form the DNA replication preinitiation complex, a protein-DNA complex that is assembled at DNA replication origins immediately prior to the initiation of DNA replication. The complex consists of proteins that initiate the DNA binding, melt the helix and enable helicase activity.
+GO:0065003,The aggregation, arrangement and bonding together of a set of macromolecules to form a protein-containing complex.
+GO:0010259,An aging process that has as participant a whole multicellular organism. Multicellular organism aging includes loss of functions such as resistance to disease, homeostasis, and fertility, as well as wear and tear. Multicellular organisms aging includes processes like cellular senescence and organ senescence, but is more inclusive. May precede death (GO:0016265) of an organism and may succeed developmental maturation (GO:0021700).
+GO:0051402,Any apoptotic process in a neuron, the basic cellular unit of nervous tissue. Each neuron consists of a body, an axon, and dendrites. Their purpose is to receive, conduct, and transmit impulses in the nervous system.
+GO:0002381,The appearance of immunoglobulin due to biosynthesis or secretion following a cellular stimulus during an immune response, resulting in an increase in its intracellular or extracellular levels.
+GO:0006325,The assembly or remodeling of chromatin composed of DNA complexed with histones, other associated proteins, and sometimes RNA.
+GO:0098609,The attachment of one cell to another cell via adhesion molecules.
+GO:0045116,Covalent attachment of the ubiquitin-like protein NEDD8 (RUB1) to another protein.
+GO:0006284,In base excision repair, an altered base is removed by a DNA glycosylase enzyme, followed by excision of the resulting sugar phosphate. The small gap left in the DNA helix is filled in by the sequential action of DNA polymerase and DNA ligase.
+GO:0007160,The binding of a cell to the extracellular matrix via adhesion molecules.
+GO:0002503,The binding of a peptide to the antigen binding groove of an MHC class II protein complex.
+GO:0042592,Any biological process involved in the maintenance of an internal steady state.
+GO:0071897,The biosynthetic process resulting in the formation of DNA.
+GO:0006978,A cascade of processes induced by the cell cycle regulator phosphoprotein p53, or an equivalent protein, resulting in the induction of the transcription of p21 (also known as WAF1, CIP1 and SDI1) or any equivalent protein, in response to the detection of DNA damage.
+GO:0006977,A cascade of processes induced by the cell cycle regulator phosphoprotein p53, or an equivalent protein, in response to the detection of DNA damage and resulting in the stopping or reduction in rate of the cell cycle.
+GO:0042770,A cascade of processes induced by the detection of DNA damage within a cell.
+GO:0090398,A cell aging process stimulated in response to cellular stress, whereby normal cells lose the ability to divide through irreversible cell cycle arrest.
+GO:0007099,The cell cycle process in which a daughter centriole is formed perpendicular to an existing centriole. An immature centriole contains a ninefold radially symmetric array of single microtubules; mature centrioles consist of a radial array of nine microtubule triplets, doublets, or singlets depending upon the species and cell type. Duplicated centrioles also become the ciliary basal body in cells that form cilia during G0.
+GO:0070318,A cell cycle process that activates or increases the rate or extent of the transition from the G0 quiescent state to the G1 phase.
+GO:0051315,The cell cycle process in which spindle microtubules become physically associated with the proteins making up the kinetochore complex as part of mitotic metaphase plate congression.
+GO:0007098,The cell cycle process in which centrosome duplication and separation takes place. The centrosome cycle can operate with a considerable degree of independence from other processes of the cell cycle.
+GO:0090399,A cell aging process associated with the dismantling of a cell as a response to telomere shortening and/or cellular aging.
+GO:0007131,The cell cycle process in which double strand breaks are formed and repaired through a single or double Holliday junction intermediate. This results in the equal exchange of genetic material between non-sister chromatids in a pair of homologous chromosomes. These reciprocal recombinant products ensure the proper segregation of homologous chromosomes during meiosis I and create genetic diversity.
+GO:0007141,A cell cycle process comprising the steps by which a cell progresses through male meiosis I, the first meiotic division in the male germline.
+GO:0044772,The cell cycle process by which a cell commits to entering the next mitotic cell cycle phase.
+GO:0090400,A cellular senescence process associated with the dismantling of a cell as a response to environmental factors such as hydrogen peroxide or X-rays.
+GO:0006914,The cellular catabolic process in which cells digest parts of their own cytoplasm; allows for both recycling of macromolecular constituents under conditions of cellular stress and remodeling the intracellular structure for cell differentiation.
+GO:0006259,Any cellular metabolic process involving deoxyribonucleic acid. This is one of the two main types of nucleic acid, consisting of a long, unbranched macromolecule formed from one, or more commonly, two, strands of linked deoxyribonucleotides.
+GO:0007165,The cellular process in which a signal is conveyed to trigger a change in the activity or state of a cell. Signal transduction begins with reception of a signal (e.g. a ligand binding to a receptor or receptor activation by a stimulus such as light), or for signal transduction in the absence of ligand, signal-withdrawal or the activity of a constitutively active receptor. Signal transduction ends with regulation of a downstream cellular process, e.g. regulation of transcription or regulation of a metabolic process. Signal transduction covers signaling from receptors located on the surface of the cell and signaling via molecules located within the cell. For signaling between cells, signal transduction is restricted to events at and within the receiving cell.
+GO:0046716,The cellular homeostatic process that preserves a muscle cell in a stable functional or structural state.
+GO:0090166,A cellular process that results in the breakdown of a Golgi apparatus that contributes to Golgi inheritance.
+GO:0006260,The cellular metabolic process in which a cell duplicates one or more molecules of DNA. DNA replication begins when specific sequences, known as origins of replication, are recognized and bound by initiation proteins, and ends when the original DNA molecule has been completely duplicated and the copies topologically separated. The unit of replication usually corresponds to the genome of the cell, an organelle, or a virus. The template for replication can either be an existing DNA molecule or RNA.
+GO:0042789,The cellular synthesis of messenger RNA (mRNA) from a DNA template by RNA polymerase II, originating at an RNA polymerase II promoter.
+GO:0006412,The cellular metabolic process in which a protein is formed, using the sequence of a mature mRNA or circRNA molecule to specify the sequence of amino acids in a polypeptide chain. Translation is mediated by the ribosome, and begins with the formation of a ternary complex between aminoacylated initiator methionine tRNA, GTP, and initiation factor 2, which subsequently associates with the small subunit of the ribosome and an mRNA or circRNA. Translation ends with the release of a polypeptide chain from the ribosome.
+GO:0001764,The characteristic movement of an immature neuron from germinal zones to specific positions where they will reside as they mature.
+GO:0043161,The chemical reactions and pathways resulting in the breakdown of a protein or peptide by hydrolysis of its peptide bonds, initiated by the covalent attachment of ubiquitin, and mediated by the proteasome.
+GO:0006754,The chemical reactions and pathways resulting in the formation of ATP, adenosine 5'-triphosphate, a universally important coenzyme and enzyme regulator.
+GO:0046166,The chemical reactions and pathways resulting in the formation of glyceraldehyde-3-phosphate, an important intermediate in glycolysis.
+GO:0019242,The chemical reactions and pathways resulting in the formation of methylglyoxal, CH3-CO-CHO, the aldehyde of pyruvic acid.
+GO:0009265,The chemical reactions and pathways resulting in the formation of a 2'-deoxyribonucleotide, a compound consisting of 2'-deoxyribonucleoside (a base linked to a 2'-deoxyribose sugar) esterified with a phosphate group at either the 3' or 5'-hydroxyl group of the sugar.
+GO:0090502,The chemical reactions and pathways involving the hydrolysis of internal 3',5'-phosphodiester bonds in one or two strands of ribonucleotides.
+GO:0046475,The chemical reactions and pathways resulting in the breakdown of glycerophospholipids, any derivative of glycerophosphate that contains at least one O-acyl, O-alkyl, or O-alkenyl group attached to the glycerol residue.
+GO:0006006,The chemical reactions and pathways involving glucose, the aldohexose gluco-hexose. D-glucose is dextrorotatory and is sometimes known as dextrose; it is an important source of energy for living organisms and is found free as well as combined in homo- and hetero-oligosaccharides and polysaccharides.
+GO:0006511,The chemical reactions and pathways resulting in the breakdown of a protein or peptide by hydrolysis of its peptide bonds, initiated by the covalent attachment of a ubiquitin group, or multiple ubiquitin groups, to the protein.
+GO:0030388,The chemical reactions and pathways involving fructose 1,6-bisphosphate, also known as FBP. The D enantiomer is a metabolic intermediate in glycolysis and gluconeogenesis.
+GO:0016078,The chemical reactions and pathways resulting in the breakdown of tRNA, transfer RNA, a class of relatively small RNA molecules responsible for mediating the insertion of amino acids into the sequence of nascent polypeptide chains during protein synthesis.
+GO:0032801,The chemical reactions and pathways resulting in the breakdown of a receptor molecule, a macromolecule that undergoes combination with a hormone, neurotransmitter, drug or intracellular messenger to initiate a change in cell function.
+GO:0006695,The chemical reactions and pathways resulting in the formation of cholesterol, cholest-5-en-3 beta-ol, the principal sterol of vertebrates and the precursor of many steroids, including bile acids and steroid hormones.
+GO:0009185,The chemical reactions and pathways involving a ribonucleoside diphosphate, a compound consisting of a nucleobase linked to a ribose sugar esterified with diphosphate on the sugar.
+GO:0006651,The chemical reactions and pathways resulting in the formation of diacylglycerol, a glyceride in which any two of the R groups (positions not specified) are acyl groups while the remaining R group can be either H or an alkyl group.
+GO:0006096,The chemical reactions and pathways resulting in the breakdown of a carbohydrate into pyruvate, with the concomitant production of a small amount of ATP and the reduction of NAD(P) to NAD(P)H. Glycolysis begins with the metabolism of a carbohydrate to generate products that can enter the pathway and ends with the production of pyruvate. Pyruvate may be converted to acetyl-coenzyme A, ethanol, lactate, or other small molecules.
+GO:0072593,The chemical reactions and pathways involving a reactive oxygen species, any molecules or ions formed by the incomplete one-electron reduction of oxygen. They contribute to the microbicidal activity of phagocytes, regulation of signal transduction and gene expression, and the oxidative damage to biopolymers.
+GO:0006000,The chemical reactions and pathways involving fructose, the ketohexose arabino-2-hexulose. Fructose exists in a open chain form or as a ring compound. D-fructose is the sweetest of the sugars and is found free in a large number of fruits and honey.
+GO:0046039,The chemical reactions and pathways involving GTP, guanosine triphosphate.
+GO:0009263,The chemical reactions and pathways resulting in the formation of a deoxyribonucleotide, a compound consisting of deoxyribonucleoside (a base linked to a deoxyribose sugar) esterified with a phosphate group at either the 3' or 5'-hydroxyl group of the sugar.
+GO:0019563,The chemical reactions and pathways resulting in the breakdown of glycerol, 1,2,3-propanetriol, a sweet, hygroscopic, viscous liquid, widely distributed in nature as a constituent of many lipids.
+GO:0016477,The controlled self-propelled movement of a cell from one site to a destination guided by molecular cues. Cell migration is a central process in the development and maintenance of multicellular organisms.
+GO:0042276,The conversion of DNA-damage induced single-stranded gaps into large molecular weight DNA after replication by using a specialized DNA polymerase or replication complex to insert a defined nucleotide across the lesion. This process does not remove the replication-blocking lesions and causes an increase in the endogenous mutation level. For example, in E. coli, a low fidelity DNA polymerase, pol V, copies lesions that block replication fork progress. This produces mutations specifically targeted to DNA template damage sites, but it can also produce mutations at undamaged sites.
+GO:0070987,The conversion of DNA-damage induced single-stranded gaps into large molecular weight DNA after replication by using a specialized DNA polymerase or replication complex to insert a defined nucleotide across the lesion. This process does not remove the replication-blocking lesions but does not causes an increase in the endogenous mutation level. For S. cerevisiae, RAD30 encodes DNA polymerase eta, which incorporates two adenines. When incorporated across a thymine-thymine dimer, it does not increase the endogenous mutation level.
+GO:0006301,The conversion of DNA-damage induced single-stranded gaps into large molecular weight DNA after replication. Includes pathways that remove replication-blocking lesions in conjunction with DNA replication.
+GO:0090116,The covalent transfer of a methyl group to C-5 of cytosine in a DNA molecule.
+GO:0016570,The covalent alteration of one or more amino acid residues within a histone protein.
+GO:0043045,The covalent transfer of a methyl group to C-5 of cytosine that contributes to the epigenetic regulation of embryonic gene expression.
+GO:0006306,The covalent transfer of a methyl group to either N-6 of adenine or C-5 or N-4 of cytosine.
+GO:0006400,The covalent alteration of one or more nucleotides within a tRNA molecule to produce a tRNA molecule with a sequence that differs from that coded genetically.
+GO:0036211,The covalent alteration of one or more amino acids occurring in proteins, peptides and nascent polypeptides (co-translational, post-translational modifications). Includes the modification of charged tRNAs that are destined to occur in a protein (pre-translation modification).
+GO:0006968,A defense response that is mediated by cells.
+GO:0021819,The detachment of cells from radial glial fibers at the appropriate time when they cease to migrate and form distinct layer in the cerebral cortex.
+GO:0007519,The developmental sequence of events leading to the formation of adult skeletal muscle tissue. The main events are: the fusion of myoblasts to form myotubes that increase in size by further fusion to them of myoblasts, the formation of myofibrils within their cytoplasm and the establishment of functional neuromuscular junctions with motor neurons. At this stage they can be regarded as mature muscle fibers.
+GO:0007283,The developmental process by which male germ line stem cells self renew or give rise to successive cell types resulting in the development of a spermatozoa.
+GO:0007568,A developmental process that is a deterioration and loss of function over time. Aging includes loss of functions such as resistance to disease, homeostasis, and fertility, as well as wear and tear. Aging includes cellular senescence, but is more inclusive. May precede death and may succeed developmental maturation (GO:0021700).
+GO:0001556,A developmental process, independent of morphogenetic (shape) change, that is required for an oocyte to attain its fully functional state. Oocyte maturation commences after reinitiation of meiosis commonly starting with germinal vesicle breakdown, and continues up to the second meiotic arrest prior to fertilization.
+GO:0060319,Erythrocyte differentiation which occurs as part of the process of primitive hemopoiesis.
+GO:0070509,The directed movement of calcium ions into a cell or organelle.
+GO:0051168,The directed movement of substances out of the nucleus.
+GO:0006813,The directed movement of potassium ions (K+) into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0006913,The directed movement of molecules between the nucleus and the cytoplasm.
+GO:0006935,The directed movement of a motile cell or organism, or the directed growth of a cell guided by a specific chemical concentration gradient. Movement may be towards a higher concentration (positive chemotaxis) or towards a lower concentration (negative chemotaxis).
+GO:0006829,The directed movement of zinc (Zn II) ions into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0006886,The directed movement of proteins in a cell, including the movement of proteins between specific compartments or structures within a cell, such as organelles of a eukaryotic cell.
+GO:0006826,The directed movement of iron (Fe) ions into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0015701,The directed movement of bicarbonate into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0048489,The directed movement of synaptic vesicles.
+GO:0001913,The directed killing of a target cell by a T cell through the release of granules containing cytotoxic mediators or through the engagement of death receptors.
+GO:0051028,The directed movement of mRNA, messenger ribonucleic acid, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0006606,The directed movement of a protein from the cytoplasm to the nucleus.
+GO:0062111,The directed import of zinc(2+) from the cytosol, across an organelle membrane, into the organelle.
+GO:0030301,The directed movement of cholesterol, cholest-5-en-3-beta-ol, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0035377,The directed movement of water (H2O) from one side of an epithelium to the other.
+GO:0006405,The directed movement of RNA from the nucleus to the cytoplasm.
+GO:0030317,The directed, self-propelled movement of a cilium (aka flagellum) that contributes to the movement of a flagellated sperm.
+GO:0048675,Long distance growth of a single axon process involved in cellular development.
+GO:0006338,A dynamic process of chromatin reorganization resulting in changes to chromatin structure. These changes allow DNA metabolic processes such as transcriptional regulation, DNA recombination, DNA repair, and DNA replication.
+GO:0030337,An enzyme regulator activity that increases the processivity of polymerization by DNA polymerase, by allowing the polymerase to move rapidly along DNA while remaining topologically bound to it.
+GO:0000727,The error-free repair of a double-strand break in DNA in which the centromere-proximal end of a broken chromosome searches for a homologous region in an intact chromosome. DNA synthesis initiates from the 3' end of the invading DNA strand, using the intact chromosome as the template, and progresses to the end of the chromosome.
+GO:0000724,The error-free repair of a double-strand break in DNA in which the broken DNA molecule is repaired using homologous sequences. A strand in the broken DNA searches for a homologous region in an intact chromosome to serve as the template for DNA synthesis. The restoration of two intact DNA molecules results in the exchange, reciprocal or nonreciprocal, of genetic material between the intact DNA molecule and the broken DNA molecule.
+GO:0006900,The evagination of a membrane, resulting in formation of a vesicle.
+GO:0006312,The exchange, reciprocal or nonreciprocal, of genetic material between one DNA molecule and a homologous DNA region that occurs during mitotic cell cycles.
+GO:0060215,A first transient wave of blood cell production that, in vertebrates, gives rise to erythrocytes (red blood cells) and myeloid cells.
+GO:1990426,Replication fork processing that includes recombination between DNA near the arrested fork and homologous sequences. Proteins involved in homologous recombination are required for replication restart.
+GO:0051289,The formation of a protein homotetramer, a macromolecular structure consisting of four noncovalently associated identical subunits.
+GO:0051290,The formation of a protein heterotetramer, a macromolecular structure consisting of four noncovalently associated subunits, of which not all are identical.
+GO:0006094,The formation of glucose from noncarbohydrate precursors, such as pyruvate, amino acids and glycerol.
+GO:0006335,The formation of nucleosomes on newly synthesized DNA, coupled to strand elongation.
+GO:0030070,The formation of mature insulin by proteolysis of the precursor preproinsulin. The signal sequence is first cleaved from preproinsulin to form proinsulin; proinsulin is then cleaved to release the C peptide, leaving the A and B chains of mature insulin linked by disulfide bridges.
+GO:1990000,The generation of amyloid fibrils, insoluble fibrous protein aggregates exhibiting beta sheet structure, from proteins.
+GO:0061621,The glycolytic process that begins with the conversion of glucose to glucose-6-phosphate by glucokinase activity. Glycolytic processes are the  chemical reactions and pathways resulting in the breakdown of a carbohydrate into pyruvate, with the concomitant production of a small amount of ATP.
+GO:0006508,The hydrolysis of proteins into smaller polypeptides and/or amino acids by cleavage of their peptide bonds.
+GO:0045087,Innate immune responses are defense responses mediated by germline encoded components that directly recognize components of potential pathogens.
+GO:0019731,An immune response against bacteria mediated through a body fluid. Examples of this process are the antibacterial humoral responses in Mus musculus and Drosophila melanogaster.
+GO:0061844,An immune response against microbes mediated by anti-microbial peptides in body fluid.
+GO:0016226,The incorporation of iron and exogenous sulfur into a metallo-sulfur cluster.
+GO:0044571,The incorporation of two iron atoms and two sulfur atoms into an iron-sulfur cluster.
+GO:0006904,The initial attachment of a vesicle membrane to a target membrane, mediated by proteins protruding from the membrane of the vesicle and the target membrane, that contributes to exocytosis.
+GO:0007202,The initiation of the activity of the inactive enzyme phospolipase C as the result of The series of molecular signals generated as a consequence of a G protein-coupled receptor binding to its physiological ligand.
+GO:0007254,An intracellular protein kinase cascade containing at least a JNK (a MAPK), a JNKK (a MAPKK) and a JUN3K (a MAP3K). The cascade can also contain an additional tier: the upstream MAP4K. The kinases in each tier phosphorylate and activate the kinases in the downstream tier to transmit a signal within a cell.
+GO:0000165,An intracellular protein kinase cascade containing at least a MAPK, a MAPKK and a MAP3K. The cascade can also contain an additional tiers: the upstream MAP4K. The kinases in each tier phosphorylate and activate the kinase in the downstream tier to transmit a signal within a cell.
+GO:0019722,Any intracellular signal transduction in which the signal is passed on within the cell via calcium ions.
+GO:0070371,An intracellular protein kinase cascade containing at least ERK1 or ERK2 (MAPKs), a MEK (a MAPKK) and a MAP3K. The cascade may involve 4 different kinases, as it can also contain an additional tier: the upstream MAP4K. The kinases in each tier phosphorylate and activate the kinase in the downstream tier to transmit a signal within a cell.
+GO:0007004,The maintenance of proper telomeric length by the addition of telomeric repeats by telomerase.
+GO:0007129,The meiotic cell cycle process where side by side pairing and physical juxtaposition of homologous chromosomes is created during meiotic prophase. Homologous chromosome pairing begins when the chromosome arms begin to pair from the clustered telomeres and ends when synaptonemal complex or linear element assembly is complete.
+GO:0007344,The merging of two pronuclei in a fertilized egg to fuse and produce a single zygotic genome.
+GO:0018021,The methylation of peptidyl-L-histidine to form peptidyl-L-1'-methyl-L-histidine (otherwise known as tau-methylhistidine, tele-methylhistidine) or peptidyl-L-3'-methyl-L-histidine (otherwise known as pi-methylhistidine, pros-methylhistidine).
+GO:0018027,The methylation of peptidyl-lysine to form peptidyl-N6,N6-dimethyl-L-lysine.
+GO:0018026,The methylation of peptidyl-lysine to form peptidyl-N6-methyl-L-lysine.
+GO:0022028,The migration of cells in the telencephalon from the subventricular zone to the olfactory bulb in which cells move orthogonally to the direction of radial migration and do not use radial glial cell processes as substrates for migration.
+GO:0031573,A mitotic cell cycle checkpoint that slows DNA synthesis in response to DNA damage by the prevention of new origin firing and the stabilization of slow replication fork progression.
+GO:0000082,The mitotic cell cycle transition by which a cell in G1 commits to S phase. The process begins with the build up of G1 cyclin-dependent kinase (G1 CDK), resulting in the activation of transcription of G1 cyclins. The process ends with the positive feedback of the G1 cyclins on the G1 CDK which commits the cell to S phase, in which DNA replication is initiated.
+GO:0007084,The mitotic cell cycle process involving ESCRTIII that results in reformation of the nuclear envelope after mitotic nuclear division. In organisms undergoing closed mitosis this involves resealing or 'repair' of the nuclear envelope in the nuclear bridge.
+GO:0007095,A mitotic cell cycle checkpoint that detects and negatively regulates progression through the G2/M transition of the cell cycle in response to DNA damage.
+GO:0000086,The mitotic cell cycle transition by which a cell in G2 commits to M phase. The process begins when the kinase activity of M cyclin/CDK complex reaches a threshold high enough for the cell cycle to proceed. This is accomplished by activating a positive feedback loop that results in the accumulation of unphosphorylated and active M cyclin/CDK complex.
+GO:0035518,The modification of histone H2A by addition of a single ubiquitin group.
+GO:0030047,Covalent modification of an actin molecule.
+GO:0008283,The multiplication or reproduction of cells, resulting in the expansion of a cell population.
+GO:0033598,The multiplication or reproduction of mammary gland epithelial cells, resulting in the expansion of a cell population. Mammary gland epithelial cells make up the covering of surfaces of the mammary gland. The mammary gland is a large compound sebaceous gland that in female mammals is modified to secrete milk.
+GO:0048144,The multiplication or reproduction of fibroblast cells, resulting in the expansion of the fibroblast population.
+GO:0007409,De novo generation of a long process of a neuron, including the terminal branched region. Refers to the morphogenesis or creation of shape or form of the developing axon, which carries efferent (outgoing) action potentials from the cell body towards target cells.
+GO:1902969,Any nuclear DNA replication that is involved in a mitotic cell cycle.
+GO:0090305,The nucleic acid metabolic process in which the phosphodiester bonds between nucleotides are cleaved by hydrolysis.
+GO:0016446,Mutations occurring somatically that result in amino acid changes in the rearranged V regions of immunoglobulins.
+GO:0036297,Removal of a DNA interstrand crosslink (a covalent attachment of DNA bases on opposite strands of the DNA) and restoration of the DNA. DNA interstrand crosslinks occur when both strands of duplex DNA are covalently tethered together (e.g. by an exogenous or endogenous agent), thus preventing the strand unwinding necessary for essential DNA functions such as transcription and replication.
+GO:0035606,Transfer of a nitric oxide (NO) group from one cysteine residue to another.
+GO:0006297,Repair of the gap in the DNA helix by DNA polymerase and DNA ligase after the portion of the strand containing the lesion has been removed by pyrimidine-dimer repair enzymes.
+GO:0000209,Addition of multiple ubiquitin groups to a protein, forming a ubiquitin chain.
+GO:0016079,Fusion of intracellular membrane-bounded vesicles with the pre-synaptic membrane of the neuronal cell resulting in release of neurotransmitter into the synaptic cleft.
+GO:0030041,Assembly of actin filaments by the addition of actin monomers to a filament.
+GO:0006287,Repair of the damaged strand by the combined action of an apurinic endouclease that degrades a few bases on the damaged strand and a polymerase that synthesizes a 'patch' in the 5' to 3' direction, using the undamaged strand as a template.
+GO:0006513,Addition of a single ubiquitin group to a protein.
+GO:0006346,Repression of transcription by methylation of DNA, leading to the formation of heterochromatin.
+GO:0000731,Synthesis of DNA that proceeds from the broken 3' single-strand DNA end and uses the homologous intact duplex as the template.
+GO:0045004,Correction of replication errors by DNA polymerase using a 3'-5' exonuclease activity.
+GO:0000701,Catalysis of the removal of purines present in mismatches, especially opposite oxidized purines, by cleaving the N-C1' glycosidic bond between the target damaged DNA base and the deoxyribose sugar. The reaction releases a free base and leaves an apurinic (AP) site.
+GO:0043137,Removal of the Okazaki RNA primer from the lagging strand of replicating DNA, by a combination of the actions of DNA polymerase, DNA helicase and an endonuclease.
+GO:0008340,The pathways that regulate the duration of the adult phase of the life-cycle of an animal.
+GO:1903125,A peptidyl-threonine phosphorylation that results in negative regulation of thioredoxin peroxidase activity.
+GO:0045730,A phase of elevated metabolic activity, during which oxygen consumption increases; this leads to the production, by an NADH dependent system, of hydrogen peroxide (H2O2), superoxide anions and hydroxyl radicals.
+GO:0006119,The phosphorylation of ADP to ATP that accompanies the oxidation of a metabolite through the operation of the respiratory chain. Oxidation of compounds establishes a proton gradient across the membrane, providing the energy for ATP synthesis.
+GO:0046777,The phosphorylation by a protein of one or more of its own amino acid residues (cis-autophosphorylation), or residues on an identical protein (trans-autophosphorylation).
+GO:0018107,The phosphorylation of peptidyl-threonine to form peptidyl-O-phospho-L-threonine.
+GO:0018105,The phosphorylation of peptidyl-serine to form peptidyl-O-phospho-L-serine.
+GO:1902426,A positive regulation of the mitotic metaphase/anaphase transition that results from deactivation of the mitotic spindle assembly checkpoint.
+GO:0033601,Any process that activates or increases the rate or extent of mammary gland epithelial cell proliferation.
+GO:0048678,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an axon injury stimulus.
+GO:0009611,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus indicating damage to the organism.
+GO:0042325,Any process that modulates the frequency, rate or extent of addition of phosphate groups into a molecule.
+GO:0007528,A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of a neuromuscular junction.
+GO:0044090,Any process that activates or increases the frequency, rate or extent of a process involved in the formation, arrangement of constituent parts, or disassembly of a vacuole.
+GO:0045921,Any process that activates or increases the frequency, rate or extent of exocytosis.
+GO:0033077,The process in which a precursor cell type acquires the specialized features of a T cell via a differentiation pathway dependent upon transit through the thymus.
+GO:2000774,Any process that activates or increases the frequency, rate or extent of cellular senescence.
+GO:0045737,Any process that activates or increases the frequency, rate or extent of CDK activity.
+GO:0036035,The process whose specific outcome is the progression of a osteoclast from its formation to the mature structure. Cell development does not include the steps involved in committing a cell to a specific fate. An osteoclast is a specialized phagocytic cell associated with the absorption and removal of the mineralized matrix of bone tissue.
+GO:0071494,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a UV-C radiation stimulus. UV-C radiation (UV-C light) spans the wavelengths 100 to 280 nm.
+GO:0045656,Any process that stops, prevents, or reduces the frequency, rate or extent of monocyte differentiation.
+GO:0035556,The process in which a signal is passed on to downstream components within the cell, which become activated themselves to further propagate the signal and finally trigger a change in the function or state of the cell.
+GO:0010506,Any process that modulates the frequency, rate or extent of autophagy. Autophagy is the process in which cells digest parts of their own cytoplasm.
+GO:1902459,Any process that activates or increases the frequency, rate or extent of stem cell population maintenance.
+GO:0014002,The process aimed at the progression of an astrocyte over time, from initial commitment of the cell to a specific fate, to the fully functional differentiated cell. An astrocyte is the most abundant type of glial cell. Astrocytes provide support for neurons and regulate the environment in which they function.
+GO:0007015,A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of cytoskeletal structures comprising actin filaments. Includes processes that control the spatial distribution of actin filaments, such as organizing filaments into meshworks, bundles, or other structures, as by cross-linking.
+GO:0034352,Any process that activates or increases the frequency, rate, or extent of glial cell apoptotic process.
+GO:0034502,Any process in which a protein is transported to, or maintained at, a specific location on a chromosome.
+GO:0051412,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a corticosterone stimulus. Corticosterone is a 21 carbon steroid hormone of the corticosteroid type, produced in the cortex of the adrenal glands. In many species, corticosterone is the principal glucocorticoid, involved in regulation of fuel metabolism, immune reactions, and stress responses.
+GO:0030857,Any process that stops, prevents, or reduces the frequency, rate or extent of epithelial cell differentiation.
+GO:0010951,Any process that decreases the frequency, rate or extent of endopeptidase activity, the endohydrolysis of peptide bonds within proteins.
+GO:0034756,Any process that modulates the frequency, rate or extent of the directed movement of iron ions (Fe) into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0060161,Any process that activates or increases the frequency, rate or extent of the dopamine receptor protein signaling pathway. A dopamine receptor signaling pathway is the series of molecular signals generated as a consequence of a dopamine receptor binding to one of its physiological ligands.
+GO:0001819,Any process that activates or increases the frequency, rate or extent of production of a cytokine.
+GO:0014044,The process aimed at the progression of a Schwann cell over time, from initial commitment of the cell to a specific fate, to the fully functional differentiated cell. Schwann cells are found in the peripheral nervous system, where they insulate neurons and axons, and regulate the environment in which neurons function.
+GO:0046718,The process that occurs after viral attachment by which a virus, or viral nucleic acid, breaches the plasma membrane or cell envelope and enters the host cell. The process ends when the viral nucleic acid is released into the host cell cytoplasm.
+GO:0002091,Any process that stops, prevents, or reduces the frequency, rate or extent of receptor internalization.
+GO:0031914,A process that decreases synaptic plasticity, the ability of synapses to change as circumstances require. They may alter function, such as increasing or decreasing their sensitivity, or they may increase or decrease in actual numbers.
+GO:0043570,Any process involved in sustaining the fidelity and copy number of DNA repeat elements.
+GO:0046826,Any process that stops, prevents, or reduces the frequency, rate or extent of the directed movement of proteins from the nucleus into the cytoplasm.
+GO:0045444,The process in which a relatively unspecialized cell acquires specialized features of an adipocyte, an animal connective tissue cell specialized for the synthesis and storage of fat.
+GO:0001916,Any process that activates or increases the frequency, rate or extent of T cell mediated cytotoxicity.
+GO:0021954,The process whose specific outcome is the progression of a neuron whose cell body is located in the central nervous system, from initial commitment of the cell to a neuronal fate, to the fully functional differentiated neuron.
+GO:0051646,Any process in which a mitochondrion or mitochondria are transported to, and/or maintained in, a specific location within the cell.
+GO:0046890,Any process that modulates the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of lipids.
+GO:0001921,Any process that activates or increases the frequency, rate or extent of receptor recycling.
+GO:0070192,A process of chromosome organization that is involved in a meiotic cell cycle.
+GO:0033197,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a vitamin E stimulus.
+GO:0045740,Any process that activates or increases the frequency, rate or extent of DNA replication.
+GO:0032431,Any process that initiates the activity of the inactive enzyme phospholipase A2.
+GO:0032880,Any process that modulates the frequency, rate or extent of any process in which a protein is transported to, or maintained in, a specific location.
+GO:1900022,Any process that modulates the frequency, rate or extent of D-erythro-sphingosine kinase activity.
+GO:0016525,Any process that stops, prevents, or reduces the frequency, rate or extent of angiogenesis.
+GO:0071230,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an amino acid stimulus. An amino acid is a carboxylic acids containing one or more amino groups.
+GO:1905686,Any process that activates or increases the frequency, rate or extent of plasma membrane repair.
+GO:0046683,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an organophosphorus stimulus. Organophosphorus is a compound containing phosphorus bound to an organic molecule; several organophosphorus compounds are used as insecticides, and they are highly toxic cholinesterase inhibitors.
+GO:2000773,Any process that stops, prevents or reduces the frequency, rate or extent of cellular senescence.
+GO:0006272,The process in which an existing DNA strand is extended continuously in a 5' to 3' direction by activities including the addition of nucleotides to the 3' end of the strand, complementary to an existing template, as part of DNA replication. Leading strand elongation proceeds in the same direction as the replication fork.
+GO:1904631,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a glucoside stimulus.
+GO:0045662,Any process that stops, prevents, or reduces the frequency, rate or extent of myoblast differentiation. A myoblast is a mononucleate cell type that, by fusion with other myoblasts, gives rise to the myotubes that eventually develop into skeletal muscle fibers.
+GO:0016567,The process in which one or more ubiquitin groups are added to a protein.
+GO:0002726,Any process that activates or increases the frequency, rate, or extent of T cell cytokine production.
+GO:0010043,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a zinc ion stimulus.
+GO:0046330,Any process that activates or increases the frequency, rate or extent of signal transduction mediated by the JNK cascade.
+GO:0006974,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus indicating damage to its DNA from environmental insults or errors during metabolism.
+GO:0032869,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an insulin stimulus. Insulin is a polypeptide hormone produced by the islets of Langerhans of the pancreas in mammals, and by the homologous organs of other organisms.
+GO:0006310,Any process in which a new genotype is formed by reassortment of genes resulting in gene combinations different from those that were present in the parents. In eukaryotes genetic recombination can occur by chromosome assortment, intrachromosomal recombination, or nonreciprocal interchromosomal recombination. Interchromosomal recombination occurs by crossing over. In bacteria it may occur by genetic transformation, conjugation, transduction, or F-duction.
+GO:1900264,Any process that activates or increases the frequency, rate or extent of DNA-directed DNA polymerase activity.
+GO:0009267,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of deprivation of nourishment.
+GO:0010569,Any process that modulates the frequency, rate or extent of the error-free repair of a double-strand break in DNA in which the broken DNA molecule is repaired using homologous sequences.
+GO:0046688,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a copper ion stimulus.
+GO:0048709,The process in which a relatively unspecialized cell acquires the specialized features of an oligodendrocyte. An oligodendrocyte is a type of glial cell involved in myelinating the axons of neurons in the central nervous system.
+GO:0001666,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus indicating lowered oxygen tension. Hypoxia, defined as a decline in O2 levels below normoxic levels of 20.8 - 20.95%, results in metabolic adaptation at both the cellular and organismal level.
+GO:0035563,Any process that increases the frequency, rate or extent of chromatin binding. Chromatin binding is the selective interaction with chromatin, the network of fibers of DNA, protein, and sometimes RNA, that make up the chromosomes of the eukaryotic nucleus during interphase.
+GO:0042752,Any process that modulates the frequency, rate or extent of a circadian rhythm. A circadian rhythm is a biological process in an organism that recurs with a regularity of approximately 24 hours.
+GO:0032024,Any process that activates or increases the frequency, rate or extent of the regulated release of insulin.
+GO:0050767,Any process that modulates the frequency, rate or extent of neurogenesis, the generation of cells in the nervous system.
+GO:0045732,Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways resulting in the breakdown of a protein by the destruction of the native, active configuration, with or without the hydrolysis of peptide bonds.
+GO:0042501,The process of introducing a phosphate group to a serine residue of a STAT (Signal Transducer and Activator of Transcription) protein.
+GO:1905775,Any process that stops, prevents or reduces the frequency, rate or extent of ATP-dependent DNA helicase activity.
+GO:0002237,Any process that results in a change in state or activity of an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus by molecules of bacterial origin such as peptides derived from bacterial flagellin.
+GO:0048699,The process in which nerve cells are generated. This includes the production of neuroblasts and their differentiation into neurons.
+GO:0007030,A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of the Golgi apparatus.
+GO:0048148,Any process that results in a change in the behavior of an organism as a result of a cocaine stimulus.
+GO:0045596,Any process that stops, prevents, or reduces the frequency, rate or extent of cell differentiation.
+GO:0035751,Any process that modulates the pH of the lysosomal lumen, measured by the concentration of the hydrogen ion.
+GO:0042730,A process that solubilizes fibrin in the bloodstream of a multicellular organism, chiefly by the proteolytic action of plasmin.
+GO:0043687,The process of covalently altering one or more amino acids in a protein after the protein has been completely translated and released from the ribosome.
+GO:2000145,Any process that modulates the frequency, rate or extent of cell motility.
+GO:0090314,Any process that increases the frequency, rate or extent of the process of directing proteins towards a membrane, usually using signals contained within the protein.
+GO:0010756,Any process that increases the rate, frequency or extent of plasminogen activation. Plasminogen activation is the process in which plasminogen is processed to plasmin.
+GO:0043406,Any process that activates or increases the frequency, rate or extent of MAP kinase activity.
+GO:0042327,Any process that activates or increases the frequency, rate or extent of addition of phosphate groups to a molecule.
+GO:0106004,The process whereby a guanine in a tRNA is methylated at the N7 position of guanine.
+GO:0006941,A process in which force is generated within striated muscle tissue, resulting in the shortening of the muscle. Force generation involves a chemo-mechanical energy conversion step that is carried out by the actin/myosin complex activity, which generates force through ATP hydrolysis. Striated muscle is a type of muscle in which the repeating units (sarcomeres) of the contractile myofibrils are arranged in registry throughout the cell, resulting in transverse or oblique striations observable at the level of the light microscope.
+GO:0051106,Any process that activates or increases the frequency, rate or extent of DNA ligation, the re-formation of a broken phosphodiester bond in the DNA backbone, carried out by DNA ligase.
+GO:0003323,The process whose specific outcome is the progression of a type B pancreatic cell over time, from its formation to the mature structure. A type B pancreatic cell is a cell located towards center of the islets of Langerhans that secretes insulin.
+GO:0010224,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a UV-B radiation stimulus. UV-B radiation (UV-B light) spans the wavelengths 280 to 315 nm.
+GO:0030335,Any process that activates or increases the frequency, rate or extent of cell migration.
+GO:0007420,The process whose specific outcome is the progression of the brain over time, from its formation to the mature structure. Brain development begins with patterning events in the neural tube and ends with the mature structure that is the center of thought and emotion. The brain is responsible for the coordination and control of bodily activities and the interpretation of information from the senses (sight, hearing, smell, etc.).
+GO:0071346,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an interferon-gamma stimulus. Interferon gamma is the only member of the type II interferon found so far.
+GO:0050821,Any process involved in maintaining the structure and integrity of a protein and preventing it from degradation or aggregation.
+GO:1903217,Any process that stops, prevents or reduces the frequency, rate or extent of protein processing involved in protein targeting to mitochondrion.
+GO:1903076,Any process that modulates the frequency, rate or extent of protein localization to plasma membrane.
+GO:0010508,Any process that activates, maintains or increases the rate of autophagy. Autophagy is the process in which cells digest parts of their own cytoplasm.
+GO:0050994,Any process that modulates the frequency, rate, or extent of the chemical reactions and pathways resulting in the breakdown of lipids.
+GO:0010225,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a UV-C radiation stimulus. UV-C radiation (UV-C light) spans the wavelengths 100 to 280 nm.
+GO:1905581,Any process that activates or increases the frequency, rate or extent of low-density lipoprotein particle clearance.
+GO:0045944,Any process that activates or increases the frequency, rate or extent of transcription from an RNA polymerase II promoter.
+GO:0019885,The process in which an antigen-presenting cell expresses a peptide antigen of endogenous origin on its cell surface in association with an MHC class I protein complex. The peptide antigen is typically, but not always, processed from a whole protein. Class I here refers to classical class I molecules.
+GO:1901215,Any process that stops, prevents or reduces the frequency, rate or extent of neuron death.
+GO:0032201,The process in which telomeric DNA is synthesized semi-conservatively by the conventional replication machinery and telomeric accessory factors as part of cell cycle DNA replication.
+GO:2000469,Any process that stops, prevents or reduces the frequency, rate or extent of peroxidase activity.
+GO:0048511,Any process pertinent to the generation and maintenance of rhythms in the physiology of an organism.
+GO:0032148,Any process that initiates the activity of the inactive enzyme protein kinase B.
+GO:2000279,Any process that stops, prevents or reduces the frequency, rate or extent of DNA biosynthetic process.
+GO:0090394,Any process that prevents the establishment or decreases the extent of the excitatory postsynaptic potential (EPSP) which is a temporary increase in postsynaptic potential due to the flow of positively charged ions into the postsynaptic cell. The flow of ions that causes an EPSP is an excitatory postsynaptic current (EPSC) and makes it easier for the neuron to fire an action potential.
+GO:0061469,Any process that modulates the frequency, rate or extent of type B pancreatic cell proliferation.
+GO:1903421,Any process that modulates the frequency, rate or extent of synaptic vesicle recycling.
+GO:0001932,Any process that modulates the frequency, rate or extent of addition of phosphate groups into an amino acid in a protein.
+GO:0031065,Any process that activates or increases the frequency, rate or extent of the removal of acetyl groups from histones.
+GO:0043066,Any process that stops, prevents, or reduces the frequency, rate or extent of cell death by apoptotic process.
+GO:1905806,Any process that modulates the frequency, rate or extent of synapse pruning.
+GO:1904628,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a phorbol 13-acetate 12-myristate stimulus.
+GO:0031639,The process in which inactive plasminogen is processed to active plasmin. This process includes cleavage at an internal Arg-Val site to form an N-terminal A-chain and C-terminal B-chain held together by a disulfide bond, and can include further proteolytic cleavage events to remove the preactivation peptide.
+GO:1902595,Any process that modulates the frequency, rate or extent of DNA replication origin binding.
+GO:1904434,Any process that activates or increases the frequency, rate or extent of ferrous iron binding.
+GO:0034198,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of deprivation of amino acids.
+GO:0034976,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stress acting at the endoplasmic reticulum. ER stress usually results from the accumulation of unfolded or misfolded proteins in the ER lumen.
+GO:0045786,Any process that stops, prevents or reduces the rate or extent of progression through the cell cycle.
+GO:0006264,The process in which new strands of DNA are synthesized in the mitochondrion.
+GO:0070472,Any process that modulates the frequency, rate or extent of uterine smooth muscle contraction.
+GO:1900122,Any process that activates or increases the frequency, rate or extent of a protein or other molecule binding to a receptor.
+GO:0008285,Any process that stops, prevents or reduces the rate or extent of cell proliferation.
+GO:1904707,Any process that activates or increases the frequency, rate or extent of vascular smooth muscle cell proliferation.
+GO:0043524,Any process that stops, prevents, or reduces the frequency, rate or extent of cell death by apoptotic process in neurons.
+GO:1904714,Any process that modulates the frequency, rate or extent of chaperone-mediated autophagy.
+GO:0070973,A process in which a protein is transported to, or maintained in, a location at an endoplasmic reticulum exit site.
+GO:0071281,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an iron ion stimulus.
+GO:1902692,Any process that modulates the frequency, rate or extent of neuroblast proliferation.
+GO:0046686,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a cadmium (Cd) ion stimulus.
+GO:0042391,Any process that modulates the establishment or extent of a membrane potential, the electric potential existing across any membrane arising from charges in the membrane itself and from the charges present in the media on either side of the membrane.
+GO:1905599,Any process that activates or increases the frequency, rate or extent of low-density lipoprotein receptor activity.
+GO:0072708,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a sorbitol stimulus.
+GO:0030308,Any process that stops, prevents, or reduces the frequency, rate, extent or direction of cell growth.
+GO:0070301,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a hydrogen peroxide (H2O2) stimulus.
+GO:0032088,Any process that stops, prevents, or reduces the frequency, rate or extent of the activity of the transcription factor NF-kappaB.
+GO:1903926,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a bisphenol A stimulus.
+GO:0050680,Any process that stops, prevents or reduces the rate or extent of epithelial cell proliferation.
+GO:0060159,Any process that modulates the frequency, rate or extent of a dopamine receptor signaling pathway activity. A dopamine receptor signaling pathway is the series of molecular signals generated as a consequence of a dopamine receptor binding to one of its physiological ligands.
+GO:0007286,The process whose specific outcome is the progression of a spermatid over time, from its formation to the mature structure.
+GO:0034341,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an interferon-gamma stimulus. Interferon-gamma is also known as type II interferon.
+GO:0071364,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an epidermal growth factor stimulus.
+GO:1900121,Any process that stops, prevents or reduces the frequency, rate or extent of a protein or other molecule binding to a receptor.
+GO:0007029,A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of the endoplasmic reticulum.
+GO:0031668,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an extracellular stimulus.
+GO:0006273,The process in which an existing DNA strand is extended in a net 3' to 5' direction by activities including the addition of nucleotides to the 3' end of the strand, complementary to an existing template, as part of DNA replication. Lagging strand DNA elongation proceeds by discontinuous synthesis of short stretches of DNA, known as Okazaki fragments, from RNA primers; these fragments are then joined by DNA ligase. Although each segment of nascent DNA is synthesized in the 5' to 3' direction, the overall direction of lagging strand synthesis is 3' to 5', mirroring the progress of the replication fork.
+GO:1902803,Any process that modulates the frequency, rate or extent of synaptic vesicle transport.
+GO:1905931,Any process that stops, prevents or reduces the frequency, rate or extent of vascular smooth muscle cell differentiation involved in phenotypic switching.
+GO:0045646,Any process that modulates the frequency, rate or extent of erythrocyte differentiation.
+GO:0006281,The process of restoring DNA after damage. Genomes are subject to damage by chemical and physical agents in the environment (e.g. UV and ionizing radiations, chemical mutagens, fungal and bacterial toxins, etc.) and by free radicals or alkylating agents endogenously generated in metabolism. DNA is also damaged because of errors during its replication. A variety of different DNA repair pathways have been reported that include direct reversal, base excision repair, nucleotide excision repair, photoreactivation, bypass, double-strand break repair pathway, and mismatch repair pathway.
+GO:0030334,Any process that modulates the frequency, rate or extent of cell migration.
+GO:0009653,The process in which anatomical structures are generated and organized. Morphogenesis pertains to the creation of form.
+GO:0099509,Any process that regulates the concentration of calcium in the presynaptic cytosol.
+GO:0090309,Any process that increases the rate, frequency, or extent of DNA methylation-dependent heterochromatin formation.
+GO:0070175,Any process that activates or increases the frequency, rate or extent of enamel mineralization, the deposition of calcium salts in tooth enamel.
+GO:0042026,The process carried out by a cell that restores the biological activity of an unfolded or misfolded protein, using helper proteins such as chaperones.
+GO:0021697,The process that gives rise to the cerebellar cortex. This process pertains to the initial formation of a structure from unspecified parts. The cerebellar cortex is a thin mantle of gray matter that covers the surface of each cerebral hemisphere. It has a characteristic morphology with convolutions (gyri) and crevices (sulci) that have specific functions. Six layers of nerve cells and the nerve pathways that connect them comprise the cerebellar cortex. Together, these regions are responsible for the processes of conscious thought, perception, emotion and memory as well as advanced motor function.
+GO:0060081,The process in which membrane potential increases with respect to its steady-state potential, usually from negative potential to a more negative potential. For example, during the repolarization phase of an action potential the membrane potential often becomes more negative or hyperpolarized before returning to the steady-state resting potential.
+GO:1902065,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an L-glutamate stimulus.
+GO:0055015,The process whose specific outcome is the progression of a ventricular cardiac muscle cell over time, from its formation to the mature state. Cardiac muscle cells are striated muscle cells that are responsible for heart contraction. The ventricle is the part of the heart that pumps blood out of the organ.
+GO:2000379,Any process that activates or increases the frequency, rate or extent of reactive oxygen species metabolic process.
+GO:0060628,Any process that modulates the rate, frequency, or extent of ER to Golgi vesicle-mediated transport, the directed movement of substances from the endoplasmic reticulum (ER) to the Golgi, mediated by COP II vesicles. Small COP II coated vesicles form from the ER and then fuse directly with the cis-Golgi. Larger structures are transported along microtubules to the cis-Golgi.
+GO:1902455,Any process that stops, prevents or reduces the frequency, rate or extent of stem cell population maintenance.
+GO:0099533,Any process that increases the concentration of calcium ions in the presynaptic cytosol.
+GO:0032436,Any process that activates or increases the frequency, rate or extent of the breakdown of a protein or peptide by hydrolysis of its peptide bonds, initiated by the covalent attachment of ubiquitin, and mediated by the proteasome.
+GO:0042307,Any process that activates or increases the frequency, rate or extent of movement of proteins from the cytoplasm into the nucleus.
+GO:0045876,Any process that activates or increases the frequency, rate or extent of sister chromatid cohesion.
+GO:0048146,Any process that activates or increases the frequency, rate or extent of multiplication or reproduction of fibroblast cells.
+GO:0071353,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an interleukin-4 stimulus.
+GO:0060218,The process in which a relatively unspecialized cell acquires specialized features of a hematopoietic stem cell. A stem cell is a cell that retains the ability to divide and proliferate throughout life to provide progenitor cells that can differentiate into specialized cells.
+GO:0051383,A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of the kinetochore, a multisubunit complex that is located at the centromeric region of DNA and provides an attachment point for the spindle microtubules.
+GO:1905341,Any process that stops, prevents or reduces the frequency, rate or extent of protein localization to kinetochore.
+GO:0007059,The process in which genetic material, in the form of chromosomes, is organized into specific structures and then physically separated and apportioned to two or more sets. In eukaryotes, chromosome segregation begins with the condensation of chromosomes, includes chromosome separation, and ends when chromosomes have completed movement to the spindle poles.
+GO:0016241,Any process that modulates the frequency, rate or extent of macroautophagy.
+GO:0006355,Any process that modulates the frequency, rate or extent of cellular DNA-templated transcription.
+GO:0030182,The process in which a relatively unspecialized cell acquires specialized features of a neuron.
+GO:1901727,Any process that activates or increases the frequency, rate or extent of histone deacetylase activity.
+GO:0032479,Any process that modulates the frequency, rate, or extent of interferon type I production. Type I interferons include the interferon-alpha, beta, delta, episilon, zeta, kappa, tau, and omega gene families.
+GO:0071316,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a nicotine stimulus.
+GO:0032026,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a magnesium ion stimulus.
+GO:2000251,Any process that activates or increases the frequency, rate or extent of actin cytoskeleton reorganization.
+GO:0032091,Any process that stops, prevents, or reduces the frequency, rate or extent of protein binding.
+GO:0051984,Any process that activates or increases the frequency, rate or extent of chromosome segregation, the process in which genetic material, in the form of chromosomes, is organized and then physically separated and apportioned to two or more sets.
+GO:0001938,Any process that activates or increases the rate or extent of endothelial cell proliferation.
+GO:0031334,Any process that activates or increases the frequency, rate or extent of protein complex assembly.
+GO:0019886,The process in which an antigen-presenting cell expresses a peptide antigen of exogenous origin on its cell surface in association with an MHC class II protein complex. The peptide antigen is typically, but not always, processed from a whole protein.
+GO:0040014,Any process that modulates the frequency, rate or extent of growth of the body of an organism so that it reaches its usual body size.
+GO:0040012,Any process that modulates the frequency, rate or extent of locomotion of a cell or organism.
+GO:0090140,Any process that modulates the rate, frequency or extent of mitochondrial fission. Mitochondrial fission is the division of a mitochondrion within a cell to form two or more separate mitochondrial compartments.
+GO:0032760,Any process that activates or increases the frequency, rate or extent of tumor necrosis factor production.
+GO:0030199,Any process that determines the size and arrangement of collagen fibrils within an extracellular matrix.
+GO:0051770,Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of a nitric oxide synthase enzyme.
+GO:1901214,Any process that modulates the frequency, rate or extent of neuron death.
+GO:0060612,The process whose specific outcome is the progression of adipose tissue over time, from its formation to the mature structure. Adipose tissue is specialized tissue that is used to store fat.
+GO:0034599,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of oxidative stress, a state often resulting from exposure to high levels of reactive oxygen species, e.g. superoxide anions, hydrogen peroxide (H2O2), and hydroxyl radicals.
+GO:1902462,Any process that activates or increases the frequency, rate or extent of mesenchymal stem cell proliferation.
+GO:0014041,Any process that modulates the frequency, rate or extent of neuron maturation, the process leading to the attainment of the full functional capacity of a neuron. This process is independent of morphogenetic change.
+GO:1905289,Any process that modulates the frequency, rate or extent of CAMKK-AMPK signaling cascade.
+GO:0021670,The process whose specific outcome is the progression of the lateral ventricles over time, from the formation to the mature structure. The two lateral ventricles are a cavity in each of the cerebral hemispheres derived from the cavity of the embryonic neural tube. They are separated from each other by the septum pellucidum, and each communicates with the third ventricle by the foramen of Monro, through which also the choroid plexuses of the lateral ventricles become continuous with that of the third ventricle.
+GO:0048812,The process in which the anatomical structures of a neuron projection are generated and organized. A neuron projection is any process extending from a neural cell, such as axons or dendrites.
+GO:0030855,The process in which a relatively unspecialized cell acquires specialized features of an epithelial cell, any of the cells making up an epithelium.
+GO:0001933,Any process that stops, prevents or reduces the rate of addition of phosphate groups to amino acids within a protein.
+GO:0071168,Any process in which a protein is transported to, or maintained at, a part of a chromosome that is organized into chromatin.
+GO:0051259,The process of creating protein oligomers, compounds composed of a small number, usually between three and ten, of component monomers; protein oligomers may be composed of different or identical monomers. Oligomers may be formed by the polymerization of a number of monomers or the depolymerization of a large protein polymer.
+GO:1905448,Any process that activates or increases the frequency, rate or extent of mitochondrial ATP synthesis coupled electron transport.
+GO:0031397,Any process that stops, prevents, or reduces the frequency, rate or extent of the addition of ubiquitin groups to a protein.
+GO:1905179,Any process that stops, prevents or reduces the frequency, rate or extent of cardiac muscle tissue regeneration.
+GO:0042981,Any process that modulates the occurrence or rate of cell death by apoptotic process.
+GO:0008284,Any process that activates or increases the rate or extent of cell proliferation.
+GO:2000300,Any process that modulates the frequency, rate or extent of synaptic vesicle exocytosis.
+GO:0031297,The process in which a DNA replication fork that has stalled is restored to a functional state and replication is restarted. The stalling may be due to DNA damage, DNA secondary structure, bound proteins, dNTP shortage, or other causes.
+GO:0033140,Any process that stops, prevents, or reduces the frequency, rate or extent of the phosphorylation of a serine residue of a STAT (Signal Transducer and Activator of Transcription) protein.
+GO:0010039,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an iron ion stimulus.
+GO:1900244,Any process that activates or increases the frequency, rate or extent of synaptic vesicle endocytosis.
+GO:0032508,The process in which interchain hydrogen bonds between two strands of DNA are broken or 'melted', generating a region of unpaired single strands.
+GO:0001953,Any process that stops, prevents, or reduces the rate or extent of cell adhesion to the extracellular matrix.
+GO:0071407,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an organic cyclic compound stimulus.
+GO:0031398,Any process that activates or increases the frequency, rate or extent of the addition of ubiquitin groups to a protein.
+GO:0042063,The process that results in the generation of glial cells. This includes the production of glial progenitors and their differentiation into mature glia.
+GO:2000104,Any process that stops, prevents, or reduces the frequency, rate or extent of DNA-dependent DNA replication.
+GO:0000079,Any process that modulates the frequency, rate or extent of cyclin-dependent protein serine/threonine kinase activity.
+GO:0001890,The process whose specific outcome is the progression of the placenta over time, from its formation to the mature structure. The placenta is an organ of metabolic interchange between fetus and mother, partly of embryonic origin and partly of maternal origin.
+GO:0071222,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a lipopolysaccharide stimulus; lipopolysaccharide is a major component of the cell wall of gram-negative bacteria.
+GO:0071287,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a manganese ion stimulus.
+GO:0070141,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a UV-A radiation stimulus. UV-A radiation (UV-A light) spans the wavelengths 315 to 400 nm.
+GO:0008584,The process whose specific outcome is the progression of the male gonad over time, from its formation to the mature structure.
+GO:0050768,Any process that stops, prevents, or reduces the frequency, rate or extent of neurogenesis, the generation of cells within the nervous system.
+GO:0009725,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a hormone stimulus.
+GO:0071310,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an organic substance stimulus.
+GO:0045638,Any process that stops, prevents, or reduces the frequency, rate or extent of myeloid cell differentiation.
+GO:0035418,Any process in which a protein is transported to, and/or maintained at the synapse, the junction between a nerve fiber of one neuron and another neuron or muscle fiber or glial cell.
+GO:0045736,Any process that stops, prevents, or reduces the frequency, rate or extent of cyclin-dependent protein serine/threonine kinase activity.
+GO:2000772,Any process that modulates the frequency, rate or extent of cellular senescence.
+GO:0030890,Any process that activates or increases the rate or extent of B cell proliferation.
+GO:0071283,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an iron(III) ion stimulus.
+GO:0050870,Any process that activates or increases the frequency, rate or extent of T cell activation.
+GO:0030866,A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of actin-based cytoskeletal structures in the cell cortex, i.e. just beneath the plasma membrane.
+GO:0071493,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a UV-B radiation stimulus. UV-B radiation (UV-B light) spans the wavelengths 280 to 315 nm.
+GO:0051726,Any process that modulates the rate or extent of progression through the cell cycle.
+GO:2000111,Any process that activates or increases the frequency, rate or extent of macrophage apoptotic process.
+GO:0032355,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of stimulus by estradiol, a C18 steroid hormone hydroxylated at C3 and C17 that acts as a potent estrogen.
+GO:1903351,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a dopamine stimulus.
+GO:0006268,The process in which interchain hydrogen bonds between two strands of DNA are broken or 'melted', generating unpaired template strands for DNA replication.
+GO:0045933,Any process that activates or increases the frequency, rate or extent of muscle contraction.
+GO:1904637,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an ionomycin stimulus.
+GO:0016479,Any process that stops, prevents, or reduces the frequency, rate or extent of transcription mediated by RNA polymerase I.
+GO:0045893,Any process that activates or increases the frequency, rate or extent of cellular DNA-templated transcription.
+GO:0043123,Any process that activates or increases the frequency, rate or extent of I-kappaB kinase/NF-kappaB signaling.
+GO:2000172,Any process that modulates the frequency, rate or extent of branching morphogenesis of a nerve.
+GO:0048026,Any process that activates or increases the rate or extent of mRNA splicing via a spliceosomal mechanism.
+GO:0048167,A process that modulates synaptic plasticity, the ability of synapses to change as circumstances require. They may alter function, such as increasing or decreasing their sensitivity, or they may increase or decrease in actual numbers.
+GO:0006270,The process in which DNA-dependent DNA replication is started; this begins with the ATP dependent loading of an initiator complex onto the DNA, this is followed by DNA melting and helicase activity. In bacteria, the gene products that enable the helicase activity are loaded after the initial melting and in archaea and eukaryotes, the gene products that enable the helicase activity are inactive when they are loaded and subsequently activate.
+GO:0060627,Any process that modulates the rate, frequency, or extent of vesicle-mediated transport, the directed movement of substances, either within a vesicle or in the vesicle membrane, into, out of or within a cell.
+GO:0051966,Any process that modulates the frequency, rate or extent of glutamatergic synaptic transmission, the process of communication from a neuron to another neuron across a synapse using the neurotransmitter glutamate.
+GO:1901387,Any process that activates or increases the frequency, rate or extent of voltage-gated calcium channel activity.
+GO:0030336,Any process that stops, prevents, or reduces the frequency, rate or extent of cell migration.
+GO:0030512,Any process that stops, prevents, or reduces the frequency, rate or extent of any TGF-beta receptor signaling pathway.
+GO:0045861,Any process that stops, prevents, or reduces the frequency, rate or extent of the hydrolysis of a peptide bond or bonds within a protein.
+GO:0016242,Any process that stops, prevents, or reduces the frequency, rate or extent of macroautophagy.
+GO:0010629,Any process that decreases the frequency, rate or extent of gene expression. Gene expression is the process in which a gene's coding sequence is converted into a mature gene product (protein or RNA).
+GO:0002481,The process in which an antigen-presenting cell expresses a peptide antigen of exogenous origin on its cell surface in association with an MHC class Ib protein complex following intracellular transport via a TAP (transporter associated with antigen processing) pathway. The peptide is typically a fragment of a larger exogenous protein which has been degraded within the cell and is dependent on TAP transport from the cytosol to ER for association with the MHC class Ib molecule. Class Ib here refers to non-classical class I molecules, such as those of the HLA-E gene family.
+GO:0000122,Any process that stops, prevents, or reduces the frequency, rate or extent of transcription mediated by RNA polymerase II.
+GO:0072757,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a camptothecin stimulus.
+GO:0000083,Any process that regulates transcription such that the target genes are involved in the transition between G1 and S phase of the mitotic cell cycle.
+GO:0016447,The process in which immunoglobulin genes are formed through recombination of the germline genetic elements, as known as immunoglobulin gene segments, within a single locus.
+GO:0090263,Any process that increases the rate, frequency, or extent of the Wnt signaling pathway through beta-catenin, the series of molecular signals initiated by binding of a Wnt protein to a frizzled family receptor on the surface of the target cell, followed by propagation of the signal via beta-catenin, and ending with a change in transcription of target genes.
+GO:0035774,Any process that increases the frequency, rate or extent of the regulated release of insulin that contributes to the response of a cell to glucose.
+GO:1902476,The process in which chloride is transported across a membrane.
+GO:0010628,Any process that increases the frequency, rate or extent of gene expression. Gene expression is the process in which a gene's coding sequence is converted into a mature gene product (protein or RNA).
+GO:0045860,Any process that activates or increases the frequency, rate or extent of protein kinase activity.
+GO:1902236,Any process that stops, prevents or reduces the frequency, rate or extent of an endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway.
+GO:1903215,Any process that stops, prevents or reduces the frequency, rate or extent of protein targeting to mitochondrion.
+GO:0032119,The process of binding or confining zinc ions such that they are separated from other components of a biological system.
+GO:0043627,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of stimulus by an estrogen, C18 steroid hormones that can stimulate the development of female sexual characteristics.
+GO:0033327,The process in which a relatively unspecialized cell acquires specialized structural and/or functional features of a Leydig cell. A Leydig cell is a testosterone-secreting cell in the interstitial area, between the seminiferous tubules, in the testis.
+GO:0071479,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a ionizing radiation stimulus. Ionizing radiation is radiation with sufficient energy to remove electrons from atoms and may arise from spontaneous decay of unstable isotopes, resulting in alpha and beta particles and gamma rays. Ionizing radiation also includes X-rays.
+GO:1904437,Any process that activates or increases the frequency, rate or extent of transferrin receptor binding.
+GO:0006110,Any process that modulates the frequency, rate or extent of glycolysis.
+GO:0071320,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a cAMP (cyclic AMP, adenosine 3',5'-cyclophosphate) stimulus.
+GO:0031340,Any process that activates or increases the frequency, rate or extent of vesicle fusion.
+GO:0040009,Any process that modulates the rate of growth of all or part of an organism.
+GO:0009615,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus from a virus.
+GO:0048312,Any process that establishes the spatial arrangement of mitochondria within the cell.
+GO:0055072,Any process involved in the maintenance of an internal steady state of iron ions within an organism or cell.
+GO:1905279,Any process that modulates the frequency, rate or extent of retrograde transport, endosome to Golgi.
+GO:1902823,Any process that stops, prevents or reduces the frequency, rate or extent of late endosome to lysosome transport.
+GO:0032092,Any process that activates or increases the frequency, rate or extent of protein binding.
+GO:0021542,The process whose specific outcome is the progression of the dentate gyrus over time, from its formation to the mature structure. The dentate gyrus is one of two interlocking gyri of the hippocampus. It contains granule cells, which project to the pyramidal cells and interneurons of the CA3 region of the ammon gyrus.
+GO:0019724,Any process involved with the carrying out of an immune response by a B cell, through, for instance, the production of antibodies or cytokines, or antigen presentation to T cells.
+GO:0043065,Any process that activates or increases the frequency, rate or extent of cell death by apoptotic process.
+GO:0034393,Any process that activates or increases the frequency, rate, or extent of smooth muscle cell apoptotic process.
+GO:0043525,Any process that activates or increases the frequency, rate or extent of cell death of neurons by apoptotic process.
+GO:0060079,A process that leads to a temporary increase in postsynaptic potential due to the flow of positively charged ions into the postsynaptic cell. The flow of ions that causes an EPSP is an excitatory postsynaptic current (EPSC) and makes it easier for the neuron to fire an action potential.
+GO:0046626,Any process that modulates the frequency, rate or extent of insulin receptor signaling.
+GO:0008542,Any process in an organism in which a change in behavior of an individual occurs in response to repeated exposure to a visual cue.
+GO:0031453,Any process that activates or increases the frequency, rate or extent of heterochromatin formation.
+GO:0072711,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a hydroxyurea stimulus.
+GO:0001701,The process whose specific outcome is the progression of the embryo in the uterus over time, from formation of the zygote in the oviduct, to birth. An example of this process is found in Mus musculus.
+GO:0031647,Any process that affects the structure and integrity of a protein, altering the likelihood of its degradation or aggregation.
+GO:0007005,A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of a mitochondrion; includes mitochondrial morphogenesis and distribution, and replication of the mitochondrial genome as well as synthesis of new mitochondrial components.
+GO:0071466,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus from a xenobiotic, a compound foreign to the organism exposed to it. It may be synthesized by another organism (like ampicilin) or it can be a synthetic chemical.
+GO:0006282,Any process that modulates the frequency, rate or extent of DNA repair.
+GO:1905602,Any process that activates or increases the frequency, rate or extent of receptor-mediated endocytosis involved in cholesterol transport.
+GO:0006271,The process in which an existing DNA strand is extended by activities including the addition of nucleotides to the 3' end of the strand, complementary to an existing template, as part of DNA replication.
+GO:0008045,The process in which the migration of an axon growth cone of a motor neuron is directed to a specific target site in response to a combination of attractive and repulsive cues.
+GO:0034501,Any process in which a protein is transported to, or maintained at, the kinetochore.
+GO:0031640,Any process in an organism that results in the killing of cells of another organism, including in some cases the death of the other organism. Killing here refers to the induction of death in one cell by another cell, not cell-autonomous death due to internal or other environmental conditions.
+GO:0050714,Any process that activates or increases the frequency, rate or extent of the controlled release of a protein from a cell.
+GO:0048298,Any process that activates or increases the frequency, rate or extent of isotype switching to IgA isotypes.
+GO:0010738,Any process that modulates the rate, frequency, or extent of protein kinase A signaling. PKA signaling is the series of reactions, mediated by the intracellular serine/threonine kinase protein kinase A, which occurs as a result of a single trigger reaction or compound.
+GO:0007281,The process whose specific outcome is the progression of an immature germ cell over time, from its formation to the mature structure (gamete). A germ cell is any reproductive cell in a multicellular organism.
+GO:1903298,Any process that stops, prevents or reduces the frequency, rate or extent of hypoxia-induced intrinsic apoptotic signaling pathway.
+GO:0045892,Any process that stops, prevents, or reduces the frequency, rate or extent of cellular DNA-templated transcription.
+GO:0009650,Any process in which an organism or cell protects itself from ultraviolet radiation (UV), which may also result in resistance to repeated exposure to UV.
+GO:0071480,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a gamma radiation stimulus. Gamma radiation is a form of electromagnetic radiation (EMR) or light emission of a specific frequency produced from sub-atomic particle interaction, such as electron-positron annihilation and radioactive decay. Gamma rays are generally characterized as EMR having the highest frequency and energy, and also the shortest wavelength, within the electromagnetic radiation spectrum.
+GO:0007154,Any process that mediates interactions between a cell and its surroundings. Encompasses interactions such as signaling or attachment between one cell and another cell, between a cell and an extracellular matrix, or between a cell and any other aspect of its environment.
+GO:0051873,Any process mediated by an organism that results in the death of cells in the symbiont organism. The symbiont is defined as the smaller of the organisms involved in a symbiotic interaction.
+GO:0006882,Any process involved in the maintenance of an internal steady state of zinc ions at the level of a cell.
+GO:1905342,Any process that activates or increases the frequency, rate or extent of protein localization to kinetochore.
+GO:0044829,A process in which a host organism activates or increases the frequency, rate or extent of  viral genome replication.
+GO:0051096,Any process that activates or increases the activity of a helicase.
+GO:0045956,Any process that activates or increases the frequency, rate or extent of calcium ion-dependent exocytosis.
+GO:0045668,Any process that stops, prevents, or reduces the frequency, rate or extent of osteoblast differentiation.
+GO:1904646,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a amyloid-beta stimulus.
+GO:0010833,Any process that contributes to the maintenance of proper telomeric length and structure by affecting and monitoring the activity of telomeric proteins and lengthening the telomeric DNA.
+GO:0030174,Any process that modulates the frequency, rate or extent of initiation of DNA-dependent DNA replication; the process in which DNA becomes competent to replicate. In eukaryotes, replication competence is established in early G1 and lost during the ensuing S phase.
+GO:0008360,Any process that modulates the surface configuration of a cell.
+GO:0071901,Any process that decreases the rate, frequency, or extent of protein serine/threonine kinase activity.
+GO:0000226,A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of cytoskeletal structures comprising microtubules and their associated proteins.
+GO:0071732,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a nitric oxide stimulus.
+GO:1904030,Any process that stops, prevents or reduces the frequency, rate or extent of cyclin-dependent protein kinase activity.
+GO:0010243,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an organonitrogen stimulus. An organonitrogen compound is formally a compound containing at least one carbon-nitrogen bond.
+GO:2001020,Any process that modulates the frequency, rate or extent of response to DNA damage stimulus.
+GO:0006468,The process of introducing a phosphate group on to a protein.
+GO:2000978,Any process that stops, prevents or reduces the frequency, rate or extent of forebrain neuron differentiation.
+GO:0060828,Any process that modulates the rate, frequency, or extent of the Wnt signaling pathway through beta-catenin, the series of molecular signals initiated by binding of a Wnt protein to a frizzled family receptor on the surface of the target cell, followed by propagation of the signal via beta-catenin, and ending with a change in transcription of target genes.
+GO:0070997,The process of cell death in a neuron.
+GO:0051149,Any process that activates or increases the frequency, rate or extent of muscle cell differentiation.
+GO:2000105,Any process that activates or increases the frequency, rate or extent of DNA-templated DNA replication.
+GO:1904322,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a forskolin stimulus.
+GO:0017148,Any process that stops, prevents, or reduces the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of proteins by the translation of mRNA or circRNA.
+GO:0016310,The process of introducing a phosphate group into a molecule, usually with the formation of a phosphoric ester, a phosphoric anhydride or a phosphoric amide.
+GO:0000723,Any process that contributes to the maintenance of proper telomeric length and structure by affecting and monitoring the activity of telomeric proteins, the length of telomeric DNA and the replication and repair of the DNA. These processes includes those that shorten, lengthen, replicate and repair the telomeric DNA sequences.
+GO:0051345,Any process that activates or increases the frequency, rate or extent of hydrolase activity, the catalysis of the hydrolysis of various bonds.
+GO:1905597,Any process that activates or increases the frequency, rate or extent of low-density lipoprotein particle receptor binding.
+GO:0071548,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a dexamethasone stimulus.
+GO:0051775,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus indicating redox state. Redox state refers to the balance of oxidized versus reduced forms of electron donors and acceptors in an organelle, cell or organ; plastoquinone, glutathione (GSH/GSSG), and nicotinamide nucleotides (NAD+/NADH and NADP+/NADPH) are among the most important.
+GO:0097186,The process whose specific outcome is the formation of tooth enamel, occurring in two stages: secretory stage and maturation stage.
+GO:0022038,The process whose specific outcome is the progression of the corpus callosum over time, from its formation to the mature structure. The corpus callosum is a thick bundle of nerve fibers comprising a commissural plate connecting the two cerebral hemispheres. It consists of contralateral axon projections that provide communication between the right and left cerebral hemispheres.
+GO:0051454,Any process that increases the internal pH of a cell, measured by the concentration of the hydrogen ion.
+GO:0032804,Any process that stops, prevents, or reduces the frequency, rate or extent of the chemical reactions and pathways resulting in the breakdown of low-density lipoprotein receptors.
+GO:0033262,Any process that modulates the frequency, rate or extent of The DNA-dependent DNA replication that occurs in the nucleus of eukaryotic organisms as part of the cell cycle.
+GO:0001934,Any process that activates or increases the frequency, rate or extent of addition of phosphate groups to amino acids within a protein.
+GO:0140058,The process in which the anatomical structures of a neuron projection are generated and organized into branches. A neuron projection is any process extending from a neural cell, such as axons or dendrites.
+GO:2000001,Any process that modulates the frequency, rate or extent of a DNA damage checkpoint.
+GO:0048304,Any process that activates or increases the frequency, rate or extent of isotype switching to IgG isotypes.
+GO:0010165,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of X-ray radiation. An X-ray is a form of electromagnetic radiation with a wavelength in the range of 10 nanometers to 100 picometers (corresponding to frequencies in the range 30 PHz to 3 EHz).
+GO:0010955,Any process that decreases the rate, frequency or extent of protein maturation by peptide bond cleavage.
+GO:0002204,The process in which immunoglobulin genes are formed through recombination of the germline genetic elements, also known as immunoglobulin gene segments, within a single locus following the induction of and contributing to an immune response.
+GO:0030517,Any process that stops, prevents, or reduces the frequency, rate or extent of axon outgrowth.
+GO:0070555,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an interleukin-1 stimulus.
+GO:0007339,The process in which the sperm binds to the zona pellucida glycoprotein layer of the egg. The process begins with the attachment of the sperm plasma membrane to the zona pellucida and includes attachment of the acrosome inner membrane to the zona pellucida after the acrosomal reaction takes place.
+GO:0009410,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus from a xenobiotic, a compound foreign to the organim exposed to it. It may be synthesized by another organism (like ampicilin) or it can be a synthetic chemical.
+GO:0043697,The process in which a specialized cell loses the structural or functional features that characterize it in the mature organism, or some other relatively stable phase of the organism's life history. Under certain conditions, these cells can revert back to the features of the stem cells that were their ancestors.
+GO:0050891,Any process involved in the maintenance of an internal steady state of water within a tissue, organ, or a multicellular organism.
+GO:0009314,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an electromagnetic radiation stimulus. Electromagnetic radiation is a propagating wave in space with electric and magnetic components. These components oscillate at right angles to each other and to the direction of propagation.
+GO:0050790,Any process that modulates the activity of an enzyme.
+GO:1902902,Any process that stops, prevents or reduces the frequency, rate or extent of autophagosome assembly.
+GO:1903755,Any process that activates or increases the frequency, rate or extent of SUMO transferase activity.
+GO:0071456,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus indicating lowered oxygen tension. Hypoxia, defined as a decline in O2 levels below normoxic levels of 20.8 - 20.95%, results in metabolic adaptation at both the cellular and organismal level.
+GO:0033044,Any process that modulates the frequency, rate or extent of a process involved in the formation, arrangement of constituent parts, or disassembly of a chromosome.
+GO:0031175,The process whose specific outcome is the progression of a neuron projection over time, from its formation to the mature structure. A neuron projection is any process extending from a neural cell, such as axons or dendrites (collectively called neurites).
+GO:0014038,Any process that modulates the frequency, rate or extent of Schwann cell differentiation.
+GO:0009636,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a toxic stimulus.
+GO:1905460,Any process that stops, prevents or reduces the frequency, rate or extent of vascular associated smooth muscle cell apoptotic process.
+GO:0061088,Any process that modulates the rate, frequency, or extent of sequestering of zinc ion. Sequestering of zinc ion is the process of binding or confining zinc ions such that they are separated from other components of a biological system.
+GO:0061001,Any process that modulates the rate, frequency, or extent of dendritic spine morphogenesis, the process in which the anatomical structures of a dendritic spine are generated and organized. A dendritic spine is a protrusion from a dendrite and a specialized subcellular compartment involved in synaptic transmission.
+GO:0006979,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of oxidative stress, a state often resulting from exposure to high levels of reactive oxygen species, e.g. superoxide anions, hydrogen peroxide (H2O2), and hydroxyl radicals.
+GO:0051301,The process resulting in division and partitioning of components of a cell to form more cells; may or may not be accompanied by the physical separation of a cell into distinct, individually membrane-bounded daughter cells.
+GO:1903206,Any process that stops, prevents or reduces the frequency, rate or extent of hydrogen peroxide-induced cell death.
+GO:1902499,Any process that activates or increases the frequency, rate or extent of protein autoubiquitination.
+GO:0010468,Any process that modulates the frequency, rate or extent of gene expression. Gene expression is the process in which a gene's coding sequence is converted into a mature gene product (protein or RNA).
+GO:0042148,The process in which the nucleoprotein complex (composed of the broken single-strand DNA and the recombinase) searches and identifies a region of homology in intact duplex DNA. The broken single-strand DNA displaces the like strand and forms Watson-Crick base pairs with its complement, forming a duplex in which each strand is from one of the two recombining DNA molecules.
+GO:2001171,Any process that activates or increases the frequency, rate or extent of ATP biosynthetic process.
+GO:1900745,Any process that activates or increases the frequency, rate or extent of p38MAPK cascade.
+GO:0001954,Any process that activates or increases the rate or extent of cell adhesion to an extracellular matrix.
+GO:1903980,Any process that activates or increases the frequency, rate or extent of microglial cell activation.
+GO:0045471,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an ethanol stimulus.
+GO:1902161,Any process that activates or increases the frequency, rate or extent of cyclic nucleotide-gated ion channel activity.
+GO:0008104,Any process in which a protein is transported to, or maintained in, a specific location.
+GO:0060260,Any process that modulates the rate, frequency or extent of a process involved in starting transcription from an RNA polymerase II promoter.
+GO:1904706,Any process that stops, prevents or reduces the frequency, rate or extent of vascular smooth muscle cell proliferation.
+GO:0034644,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an ultraviolet radiation (UV light) stimulus. Ultraviolet radiation is electromagnetic radiation with a wavelength in the range of 10 to 380 nanometers.
+GO:0051592,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a calcium ion stimulus.
+GO:0030511,Any process that activates or increases the frequency, rate or extent of TGF-beta receptor signaling pathway activity.
+GO:0045739,Any process that activates or increases the frequency, rate or extent of DNA repair.
+GO:0010977,Any process that decreases the rate, frequency or extent of neuron projection development. Neuron projection development is the process whose specific outcome is the progression of a neuron projection over time, from its formation to the mature structure. A neuron projection is any process extending from a neural cell, such as axons or dendrites (collectively called neurites).
+GO:0044321,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a leptin stimulus. Leptin is a hormone manufactured primarily in the adipocytes of white adipose tissue, and the level of circulating leptin is directly proportional to the total amount of fat in the body. It plays a key role in regulating energy intake and energy expenditure, including appetite and metabolism].
+GO:0014823,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an activity stimulus.
+GO:0051900,Any process that modulates the frequency, rate or extent of the change in the membrane potential of the mitochondria from negative to positive.
+GO:0070588,A process in which a calcium ion is transported from one side of a membrane to the other by means of some agent such as a transporter or pore.
+GO:0055089,Any process involved in the maintenance of an internal steady state of fatty acid within an organism or cell.
+GO:0030183,The process in which a precursor cell type acquires the specialized features of a B cell. A B cell is a lymphocyte of B lineage with the phenotype CD19-positive and capable of B cell mediated immunity.
+GO:0016480,Any process that stops, prevents, or reduces the frequency, rate or extent of transcription mediated by RNA polymerase III.
+GO:0042326,Any process that stops, prevents or decreases the rate of addition of phosphate groups to a molecule.
+GO:0098869,Any process carried out at the cellular level that reduces or removes the toxicity superoxide radicals or hydrogen peroxide.
+GO:0055085,The process in which a solute is transported across a lipid bilayer, from one side of a membrane to the other.
+GO:0045454,Any process that maintains the redox environment of a cell or compartment within a cell.
+GO:1904031,Any process that activates or increases the frequency, rate or extent of cyclin-dependent protein kinase activity.
+GO:0071260,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a mechanical stimulus.
+GO:0007040,A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of a lysosome. A lysosome is a cytoplasmic, membrane-bounded organelle that is found in most animal cells and that contains a variety of hydrolases.
+GO:0048240,A process required for sperm to reach fertilization competence. Sperm undergo an incompletely understood series of morphological and molecular maturational processes, termed capacitation, involving, among other processes, protein tyrosine phosphorylation and increased intracellular calcium.
+GO:0016925,The process in which a SUMO protein (small ubiquitin-related modifier) is conjugated to a target protein via an isopeptide bond between the carboxy-terminus of SUMO with an epsilon-amino group of a lysine residue of the target protein.
+GO:0009749,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a glucose stimulus.
+GO:1900182,Any process that activates or increases the frequency, rate or extent of protein localization to nucleus.
+GO:0090618,The process of removing the PCNA complex from DNA when Okazaki fragments are completed or the replication fork terminates.
+GO:0072719,Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a cisplatin stimulus.
+GO:1905784,Any process that modulates the frequency, rate or extent of anaphase-promoting complex-dependent catabolic process.
+GO:0048813,The process in which the anatomical structures of a dendrite are generated and organized.
+GO:0014075,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an amine stimulus. An amine is a compound formally derived from ammonia by replacing one, two or three hydrogen atoms by hydrocarbyl groups.
+GO:0048662,Any process that stops, prevents or reduces the rate or extent of smooth muscle cell proliferation.
+GO:0044806,The process by which G-quadruplex (also known as G4) DNA, which is a four-stranded DNA structure held together by guanine base pairing, is unwound or 'melted'.
+GO:0043456,Any process that modulates the frequency, rate or extent of the pentose-phosphate shunt, the process in which glucose is oxidized, coupled to NADPH synthesis.
+GO:0032298,Any process that activates or increases the frequency, rate or extent of initiation of DNA-dependent DNA replication.
+GO:1902943,Any process that activates or increases the frequency, rate or extent of voltage-gated chloride channel activity.
+GO:0045995,Any process that modulates the frequency, rate or extent of embryonic development.
+GO:0060548,Any process that decreases the rate or frequency of cell death. Cell death is the specific activation or halting of processes within a cell so that its vital functions markedly cease, rather than simply deteriorating gradually over time, which culminates in cell death.
+GO:0032481,Any process that activates or increases the frequency, rate, or extent of type I interferon production. Type I interferons include the interferon-alpha, beta, delta, episilon, zeta, kappa, tau, and omega gene families.
+GO:0060045,Any process that activates or increases the frequency, rate or extent of cardiac muscle cell proliferation.
+GO:0035564,Any process that modulates the size of a kidney.
+GO:0043068,Any process that activates or increases the frequency, rate or extent of programmed cell death, cell death resulting from activation of endogenous cellular processes.
+GO:0048260,Any process that activates or increases the frequency, rate or extent of receptor mediated endocytosis, the uptake of external materials by cells, utilizing receptors to ensure specificity of transport.
+GO:0032077,Any process that activates or increases the frequency, rate or extent of deoxyribonuclease activity, the hydrolysis of ester linkages within deoxyribonucleic acid.
+GO:0009411,Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an ultraviolet radiation (UV light) stimulus. Ultraviolet radiation is electromagnetic radiation with a wavelength in the range of 10 to 380 nanometers.
+GO:0045910,Any process that stops, prevents, or reduces the frequency, rate or extent of DNA recombination.
+GO:0010216,Any process involved in maintaining the methylation state of a nucleotide sequence.
+GO:0070585,A process in which a protein is transported to, or maintained in, a location within the mitochondrion.
+GO:0001541,The process whose specific outcome is the progression of the ovarian follicle over time, from its formation to the mature structure.
+GO:0071577,A process in which a zinc II ion is transported from one side of a membrane to the other by means of some agent such as a transporter or pore.
+GO:0043537,Any process that stops, prevents, or reduces the frequency, rate or extent of the migration of the endothelial cells of blood vessels.
+GO:0007507,The process whose specific outcome is the progression of the heart over time, from its formation to the mature structure. The heart is a hollow, muscular organ, which, by contracting rhythmically, keeps up the circulation of the blood.
+GO:0098530,Any process that increases the rate, frequency or extent of strand invasion. Strand invasion is the process in which the nucleoprotein complex (composed of the broken single-strand DNA and the recombinase) searches and identifies a region of homology in intact duplex DNA. The broken single-strand DNA displaces the like strand and forms Watson-Crick base pairs with its complement, forming a duplex in which each strand is from one of the two recombining DNA molecules.
+GO:1902166,Any process that stops, prevents or reduces the frequency, rate or extent of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator.
+GO:1902036,Any process that modulates the frequency, rate or extent of hematopoietic stem cell differentiation.
+GO:0051649,Any process, occuring in a cell, that localizes a substance or cellular component. This may occur via movement, tethering or selective degradation.
+GO:0006915,A programmed cell death process which begins when a cell receives an internal (e.g. DNA damage) or external signal (e.g. an extracellular death ligand), and proceeds through a series of biochemical events (signaling pathway phase) which trigger an execution phase. The execution phase is the last step of an apoptotic process, and is typically characterized by rounding-up of the cell, retraction of pseudopodes, reduction of cellular volume (pyknosis), chromatin condensation, nuclear fragmentation (karyorrhexis), plasma membrane blebbing and fragmentation of the cell into apoptotic bodies. When the execution phase is completed, the cell has died.
+GO:0090102,The progression of the cochlea over time from its formation to the mature structure. The cochlea is the snail-shaped portion of the inner ear that is responsible for the detection of sound.
+GO:0007049,The progression of biochemical and morphological phases and events that occur in a cell during successive cell replication or nuclear replication events. Canonically, the cell cycle comprises the replication and segregation of genetic material followed by the division of the cell, but in endocycles or syncytial cells nuclear replication or nuclear division may not be followed by cell division.
+GO:0060749,The progression of the mammary gland alveolus over time, from its formation to its mature state. The mammary gland alveolus is a sac-like structure that is found in the mature gland.
+GO:0021756,The progression of the striatum over time from its initial formation until its mature state. The striatum is a region of the forebrain consisting of the caudate nucleus, putamen and fundus striati.
+GO:0021772,The progression of the olfactory bulb over time from its initial formation until its mature state. The olfactory bulb coordinates neuronal signaling involved in the perception of smell. It receives input from the sensory neurons and outputs to the olfactory cortex.
+GO:0021766,The progression of the hippocampus over time from its initial formation until its mature state.
+GO:0030261,The progressive compaction of dispersed interphase chromatin into threadlike chromosomes prior to mitotic or meiotic nuclear division, or during apoptosis, in eukaryotic cells.
+GO:0006266,The re-formation of a broken phosphodiester bond in the DNA backbone, carried out by DNA ligase.
+GO:0043113,The receptor metabolic process that results in grouping of a set of receptors at a cellular location, often to amplify the sensitivity of a signaling response.
+GO:0000722,Any recombinational process that contributes to the maintenance of proper telomeric length.
+GO:0031100,The regrowth of a lost or destroyed animal organ.
+GO:0042246,The regrowth of lost or destroyed tissues.
+GO:0097421,The regrowth of lost or destroyed liver.
+GO:0030073,The regulated release of proinsulin from secretory granules accompanied by cleavage of proinsulin to form mature insulin. In vertebrates, insulin is secreted from B granules in the B cells of the vertebrate pancreas and from insulin-producing cells in insects.
+GO:0007595,The regulated release of milk from the mammary glands and the period of time that a mother lactates to feed her young.
+GO:0016579,The removal of one or more ubiquitin groups from a protein.
+GO:0106300,The removal of covalent cross-link between DNA and a protein.
+GO:1990414,The repair of a replication-born double-strand DNA break in which the DNA molecule is repaired using the homologous sequence of the sister chromatid which serves as a template to repair the breaks.
+GO:0006302,The repair of double-strand breaks in DNA via homologous and nonhomologous mechanisms to reform a continuous DNA helix.
+GO:0006303,The repair of a double-strand break in DNA in which the two broken ends are rejoined with little or no sequence complementarity. Information at the DNA ends may be lost due to the modification of broken DNA ends. This term covers instances of separate pathways, called classical (or canonical) and alternative nonhomologous end joining (C-NHEJ and A-NHEJ). These in turn may further branch into sub-pathways, but evidence is still unclear.
+GO:0006290,The repair of UV-induced T-T, C-T and C-C dimers.
+GO:0019985,The replication of damaged DNA by synthesis across a lesion in the template strand; a specialized DNA polymerase or replication complex inserts a defined nucleotide across from the lesion which allows DNA synthesis to continue beyond the lesion. This process can be mutagenic depending on the damaged nucleotide and the inserted nucleotide.
+GO:0051298,The replication of a centrosome, a structure comprised of a pair of centrioles and peri-centriolar material from which a microtubule spindle apparatus is organized.
+GO:0072520,The reproductive developmental process whose specific outcome is the progression of the seminiferous tubule over time, from its formation to the mature structure. Seminiferous tubules are ducts located in the testicles, and are the specific location of meiosis, and the subsequent creation of gametes, namely spermatozoa.
+GO:0000320,The resumption of the mitotic cell division cycle by cells that were in a quiescent or other non-dividing state.
+GO:0048133,The self-renewing division of a germline stem cell in the male gonad, to produce a daughter stem cell and a daughter germ cell, which will divide to form the male gametes.
+GO:0060070,The series of molecular signals initiated by binding of a Wnt protein to a frizzled family receptor on the surface of the target cell, followed by propagation of the signal via beta-catenin, and ending with a change in transcription of target genes. In this pathway, the activated receptor signals via downstream effectors that result in the inhibition of beta-catenin phosphorylation, thereby preventing degradation of beta-catenin. Stabilized beta-catenin can then accumulate and travel to the nucleus to trigger changes in transcription of target genes.
+GO:0042771,The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a cell. The pathway is induced by the cell cycle regulator phosphoprotein p53, or an equivalent protein, in response to the detection of DNA damage, and ends when the execution phase of apoptosis is triggered.
+GO:0016055,The series of molecular signals initiated by binding of a Wnt protein to a frizzled family receptor on the surface of the target cell and ending with a change in cell state.
+GO:0050851,The series of molecular signals initiated by the cross-linking of an antigen receptor on a B or T cell.
+GO:0008630,The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a cell. The pathway is induced by the detection of DNA damage, and ends when the execution phase of apoptosis is triggered.
+GO:0030968,The series of molecular signals generated as a consequence of the presence of unfolded proteins in the endoplasmic reticulum (ER) or other ER-related stress; results in changes in the regulation of transcription and translation.
+GO:0019233,The series of events required for an organism to receive a painful stimulus, convert it to a molecular signal, and recognize and characterize the signal. Pain is medically defined as the physical sensation of discomfort or distress caused by injury or illness, so can hence be described as a harmful stimulus which signals current (or impending) tissue damage. Pain may come from extremes of temperature, mechanical damage, electricity or from noxious chemical substances. This is a neurological process.
+GO:0097193,The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a cell. The pathway starts with reception of an intracellular signal (e.g. DNA damage, endoplasmic reticulum stress, oxidative stress etc.), and ends when the execution phase of apoptosis is triggered. The intrinsic apoptotic signaling pathway is crucially regulated by permeabilization of the mitochondrial outer membrane (MOMP).
+GO:0007265,The series of molecular signals within the cell that are mediated by a member of the Ras superfamily of proteins switching to a GTP-bound active state.
+GO:0007608,The series of events required for an organism to receive an olfactory stimulus, convert it to a molecular signal, and recognize and characterize the signal. Olfaction involves the detection of chemical composition of an organism's ambient medium by chemoreceptors. This is a neurological process.
+GO:0007219,The series of molecular signals initiated by an extracellular ligand binding to the receptor Notch on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.
+GO:0042060,The series of events that restore integrity to a damaged tissue, following an injury.
+GO:0031571,A signal transduction process that contributes to a mitotic cell cycle G1/S transition DNA damage checkpoint.
+GO:0000076,A signal transduction process that contributes to a DNA replication checkpoint, that prevents the initiation of nuclear division until DNA replication is complete, thereby ensuring that progeny inherit a full complement of the genome.
+GO:1902806,Any signalling pathway that modulates the activity of a cell cycle cyclin-dependent protein kinase to modulate the switch from G1 phase to S phase of the cell cycle.
+GO:0010389,Any signalling pathway that modulates the activity of a cell cycle cyclin-dependent protein kinase to modulate the switch from G2 phase to M phase of the mitotic cell cycle.
+GO:0010971,Any signalling pathway that activates or increases the activity of a cell cycle cyclin-dependent protein kinase to modulate the switch from G2 phase to M phase of the mitotic cell cycle.
+GO:1900087,Any signalling pathway that increases or activates a cell cycle cyclin-dependent protein kinase to modulate the switch from G1 phase to S phase of the mitotic cell cycle.
+GO:2000045,Any signalling pathway that modulates the activity of a cell cycle cyclin-dependent protein kinase to modulate the switch from G1 phase to S phase of the mitotic cell cycle.
+GO:0035641,The specific movement from place to place of an organism in response to a novel environment.
+GO:0035640,The specific behavior of an organism in response to a novel environment or stimulus.
+GO:0006414,The successive addition of amino acid residues to a nascent polypeptide chain during protein biosynthesis.
+GO:0045190,The switching of activated B cells from IgM biosynthesis to biosynthesis of other isotypes of immunoglobulin, accomplished through a recombination process involving an intrachromosomal deletion involving switch regions that reside 5' of each constant region gene segment in the immunoglobulin heavy chain locus.
+GO:0009303,The synthesis of ribosomal RNA (rRNA), any RNA that forms part of the ribosomal structure, from a DNA template.
+GO:0006351,The synthesis of an RNA transcript from a DNA template.
+GO:0006269,The synthesis of a short RNA polymer, usually 4-15 nucleotides long, using one strand of unwound DNA as a template; the RNA then serves as a primer from which DNA polymerases extend synthesis.
+GO:0000710,A system for the identification and correction of base-base mismatches, small insertion-deletion loops, and regions of heterology that are present in duplex DNA formed with strands from two recombining molecules. Correction of the mismatch can result in non-Mendelian segregation of alleles following meiosis.
+GO:0006298,A system for the correction of errors in which an incorrect base, which cannot form hydrogen bonds with the corresponding base in the parent strand, is incorporated into the daughter strand. The mismatch repair system promotes genomic fidelity by repairing base-base mismatches, insertion-deletion loops and heterologies generated during DNA replication and recombination.
+GO:0048568,Development, taking place during the embryonic phase, of a tissue or tissues that work together to perform a specific function or functions. Development pertains to the process whose specific outcome is the progression of a structure over time, from its formation to the mature structure. Organs are commonly observed as visibly distinct structures, but may also exist as loosely associated clusters of cells that work together to perform a specific function or functions.
+GO:1902990,Any telomere maintenance via semi-conservative replication that is involved in mitotic cell cycle.
+GO:0090656,A telomere maintenance process that results in the formation of a telomeric circle, or t-circle. A t-circle is an extrachromosomal duplex or single-stranded circular DNA molecule composed of t-arrays. T-circles are involved in the control of telomere length via alternative-lengthening of telomeres (ALT) pathway and telomere rapid deletion (TRD).
+GO:0061820,A telomere loop disassembly process that results in the disassembly of telomeric D-loops. A telomeric D-loop is a three-stranded DNA displacement loop that forms at the site where the telomeric 3' single-stranded DNA overhang (formed of the repeat sequence TTAGGG in mammals) is tucked back inside the double-stranded component of telomeric DNA molecule, thus forming a t-loop or telomeric-loop and protecting the chromosome terminus.
+GO:0051321,Progression through the phases of the meiotic cell cycle, in which canonically a cell replicates to produce four offspring with half the chromosomal content of the progenitor cell via two nuclear divisions.
+GO:0000278,Progression through the phases of the mitotic cell cycle, the most common eukaryotic cell cycle, which canonically comprises four successive phases called G1, S, G2, and M and includes replication of the genome and the subsequent segregation of chromosomes into daughter cells. In some variant cell cycles nuclear replication or nuclear division may not be followed by cell division, or G1 and G2 phases may be absent.
+GO:0001895,A tissue homeostatic process involved in the maintenance of an internal equilibrium within the retina of the eye, including control of cellular proliferation and death and control of metabolic function.
+GO:0005515,Binding to a protein.
+GO:0042802,Binding to an identical protein or proteins.
+GO:0035035,Binding to an histone acetyltransferase.
+GO:0008022,Binding to a protein C-terminus, the end of a peptide chain at which the 1-carboxyl function of a constituent amino acid is not attached in peptide linkage to another amino-acid residue.
+GO:0032405,Binding to a MutLalpha mismatch repair complex.
+GO:0070182,Binding to a DNA polymerase.
+GO:0030971,Binding to a receptor that possesses protein tyrosine kinase activity.
+GO:0003684,Binding to damaged DNA.
+GO:0030331,Binding to a nuclear estrogen receptor.
+GO:0044877,Binding to a macromolecular complex.
+GO:0003682,Binding to chromatin, the network of fibers of DNA, protein, and sometimes RNA, that make up the chromosomes of the eukaryotic nucleus during interphase.
+GO:0032139,Binding to a double-stranded DNA region containing a dinucleotide insertion or deletion.
+GO:0019899,Binding to an enzyme, a protein with catalytic activity.
+GO:0050832,Reactions triggered in response to the presence of a fungus that act to protect the cell or organism.
+GO:0050830,Reactions triggered in response to the presence of a Gram-positive bacterium that act to protect the cell or organism.
+GO:0044849,A type of ovulation cycle, which occurs in most mammalian therian females, where the endometrium is resorbed if pregnancy does not occur.
+GO:0051865,The ubiquitination by a protein of one or more of its own amino acid residues, or residues on an identical protein. Ubiquitination occurs on the lysine residue by formation of an isopeptide crosslink.
+GO:0006897,A vesicle-mediated transport process in which cells take up external materials or membrane constituents by the invagination of a small region of the plasma membrane to form a new membrane-bounded vesicle.
+GO:0048488,A vesicle-mediated transport process, in which the synaptic vesicle membrane constituents are retrieved from the presynaptic membrane on the axon terminal after neurotransmitter secretion by exocytosis. Synaptic vesicle endocytosis can occur via clathrin-dependent and clathrin-independent mechanisms.
+GO:0035249,The vesicular release of glutamate from a presynapse, across a chemical synapse, the subsequent activation of glutamate receptors at the postsynapse of a target cell (neuron, muscle, or secretory cell) and the effects of this activation on the postsynaptic membrane potential and ionic composition of the postsynaptic cytosol. This process encompasses both spontaneous and evoked release of neurotransmitter and all parts of synaptic vesicle exocytosis. Evoked transmission starts with the arrival of an action potential at the presynapse.
+GO:0007268,The vesicular release of classical neurotransmitter molecules from a presynapse, across a chemical synapse, the subsequent activation of neurotransmitter receptors at the postsynapse of a target cell (neuron, muscle, or secretory cell) and the effects of this activation on the postsynaptic membrane potential and ionic composition of the postsynaptic cytosol. This process encompasses both spontaneous and evoked release of neurotransmitter and all parts of synaptic vesicle exocytosis. Evoked transmission starts with the arrival of an action potential at the presynapse.
+GO:0001963,The vesicular release of dopamine. from a presynapse, across a chemical synapse, the subsequent activation of dopamine receptors at the postsynapse of a target cell (neuron, muscle, or secretory cell) and the effects of this activation on the postsynaptic membrane potential and ionic composition of the postsynaptic cytosol. This process encompasses both spontaneous and evoked release of neurotransmitter and all parts of synaptic vesicle exocytosis. Evoked transmission starts with the arrival of an action potential at the presynapse.
+GO:0001525,Blood vessel formation when new vessels emerge from the proliferation of pre-existing blood vessels.
+GO:0016540,Processing which a protein carries out itself. This involves actions such as the autolytic removal of residues to generate the mature form of the protein.

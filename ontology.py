@@ -4,14 +4,19 @@ from __future__ import print_function
 
 from collections import namedtuple
 
+import sys
+
 GOEntry = namedtuple('GOEntry', 'goid name def_ is_a')
 HumanAnnotation = namedtuple('HumanAnnotation', 'symbol relation goid')
 
 # Stores a basic version of the gene ontology. Keys are GOids.
 GO_DATA = {}
 
-# Contains Human Genetic Annotations
+# Contains Human Genetic Annotations.
 HUMAN_DATA = []
+
+# Contains PCNA interactors.
+INTERACTORS = []
 
 def load_go_obo():
   '''Loads the information in data/go-basic.obo.
@@ -26,16 +31,19 @@ def load_go_obo():
     for line in infile:
       line = line.strip()
       if line == '[Term]':
+        # A new entity is being defined.
         in_term = True
         goid = None
         name = None
         def_ = None
         is_a = []
       elif line == '':
+        # The entity has finished being defined: add it to the GO_DATA map.
         entry = GOEntry(goid, name, def_, is_a)
         in_term = False
         GO_DATA[entry.goid] = entry
       elif in_term:
+        # There is more information to parse about the current entity.
         if line.startswith('is_a'):
           is_a.append(line.split()[1])
         elif line.startswith('def'):
@@ -46,7 +54,7 @@ def load_go_obo():
           name = ' '.join(line.split()[1:])
 
 def load_goa_human_gaf():
-  '''Loads the information in data/goa_human.gaf
+  '''Loads the information in data/goa_human.gaf.
   '''
   global HUMAN_DATA
   with open('data/goa_human.gaf', 'r') as infile:
@@ -63,10 +71,20 @@ def load_goa_human_gaf():
       annotation = HumanAnnotation(line[2], line[3], line[4])
       HUMAN_DATA.append(annotation)
 
-print('Loading go-basic.obo')
-load_go_obo()
-print('Loading goa_human.gaf')
-load_goa_human_gaf()
+def load_interactors():
+  '''Loads the interactor information in the static folder.
+  '''
+  global INTERACTORS
+  unique_interactors = set()
+  with open('static/reactome-results.txt', 'r') as infile:
+    for line in infile:
+      line = line.strip()
+      unique_interactors.add(line.split()[1])
+  with open('static/string-results.txt', 'r') as infile:
+    for line in infile:
+      line = line.strip()
+      unique_interactors.add(line)
+  INTERACTORS = list(unique_interactors)
 
 def get_cellular_component(symbol):
   '''Returns the GOids of the cellular components a gene pertains to.
@@ -75,7 +93,7 @@ def get_cellular_component(symbol):
   for annotation in HUMAN_DATA:
     if annotation.symbol == symbol and annotation.relation == 'located_in':
       ids.add(annotation.goid)
-  return [(goid, GO_DATA[goid].def_) for goid in ids]
+  return list(ids)
 
 def get_biological_process(symbol):
   '''Returns the GOids of the biological processes a gene pertains to.
@@ -84,7 +102,7 @@ def get_biological_process(symbol):
   for annotation in HUMAN_DATA:
     if annotation.symbol == symbol and annotation.relation == 'involved_in':
       ids.add(annotation.goid)
-  return [(goid, GO_DATA[goid].def_) for goid in ids]
+  return list(ids)
 
 def get_molecular_function(symbol):
   '''Returns the GOids of the molecular functions a gene pertains to.
@@ -93,10 +111,50 @@ def get_molecular_function(symbol):
   for annotation in HUMAN_DATA:
     if annotation.symbol == symbol and annotation.relation == 'enables':
       ids.add(annotation.goid)
-  return [(goid, GO_DATA[goid].def_) for goid in ids]
-  
+  return list(ids)
+
+try:
+  print('Loading go-basic.obo')
+  load_go_obo()
+  print('Loading goa_human.gaf')
+  load_goa_human_gaf()
+except FileNotFoundError:
+  print('Error: GO files not found. Run `make install`.', file=sys.stderr)
+  sys.exit(1)
+try:
+  print('Loading interactors')
+  load_interactors()
+except FileNotFoundError:
+  print('Error: Static Interactor files not found. Pull them from github.',
+        file=sys.stderr)
 
 if __name__ == '__main__':
-  print(get_biological_process('PCNA'))
-  print(get_cellular_component('PCNA'))
-  print(get_molecular_function('PCNA'))
+  # Sanity checks for annotation information retrieval
+  # print(get_biological_process('PCNA'))
+  # print(get_cellular_component('PCNA'))
+  # print(get_molecular_function('PCNA'))
+
+  # Retrieve all molecular functions in the system
+  mf_ids = set(get_molecular_function('PCNA'))
+  for interactor in INTERACTORS:
+    mf_ids = mf_ids.union(get_molecular_function(interactor))
+  entries = [goid + ',' + GO_DATA[goid].def_ for goid in mf_ids]
+  entries.sort(key=lambda x: x.split()[1])
+  print(*entries, sep='\n', file=open('results/molecular_function.csv', 'w'))
+
+  # Retrieve all cellular components in the system
+  mf_ids = set(get_molecular_function('PCNA'))
+  for interactor in INTERACTORS:
+    mf_ids = mf_ids.union(get_cellular_component(interactor))
+  entries = [goid + ',' + GO_DATA[goid].def_ for goid in mf_ids]
+  entries.sort(key=lambda x: x.split()[1])
+  print(*entries, sep='\n', file=open('results/cellular_component.csv', 'w'))
+
+  # Retrieve all biological processes in the system
+  mf_ids = set(get_molecular_function('PCNA'))
+  for interactor in INTERACTORS:
+    mf_ids = mf_ids.union(get_biological_process(interactor))
+  entries = [goid + ',' + GO_DATA[goid].def_ for goid in mf_ids]
+  entries.sort(key=lambda x: x.split()[1])
+  print(*entries, sep='\n', file=open('results/biological_process.csv', 'w'))
+
