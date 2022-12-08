@@ -135,26 +135,32 @@ if __name__ == '__main__':
   # print(get_molecular_function('PCNA'))
 
   # Retrieve all molecular functions in the system
-  mf_ids = set(get_molecular_function('PCNA'))
+  mf_id_counts = {goid:1 for goid in get_molecular_function('PCNA')}
   for interactor in INTERACTORS:
-    mf_ids = mf_ids.union(get_molecular_function(interactor))
-  entries = [goid + ',' + GO_DATA[goid].def_ for goid in mf_ids]
-  entries.sort(key=lambda x: x.split('"')[1])
+    for goid in get_molecular_function(interactor):
+      mf_id_counts[goid] = mf_id_counts.get(goid, 0) + 1
+  entries = [f'{goid},{GO_DATA[goid].def_},{mf_id_counts[goid]}' for goid in mf_id_counts]
+  entries.sort(key=lambda x: int(x.split(',')[-1]), reverse=True)
+  entries = ['GOid', 'Molecular Function Annotation Description', 'Frequency'] + entries
   print(*entries, sep='\n', file=open('results/molecular_function.csv', 'w'))
 
   # Retrieve all cellular components in the system
-  mf_ids = set(get_molecular_function('PCNA'))
+  cc_id_counts = {goid:1 for goid in set(get_cellular_component('PCNA'))}
   for interactor in INTERACTORS:
-    mf_ids = mf_ids.union(get_cellular_component(interactor))
-  entries = [goid + ',' + GO_DATA[goid].def_ for goid in mf_ids]
-  entries.sort(key=lambda x: x.split('"')[1])
+    for goid in get_cellular_component(interactor):
+      cc_id_counts[goid] = cc_id_counts.get(goid, 0) + 1
+  entries = [f'{goid},{GO_DATA[goid].def_},{cc_id_counts[goid]}' for goid in cc_id_counts]
+  entries.sort(key=lambda x: int(x.split(',')[-1]), reverse=True)
+  entries = ['GOid', 'Cellular Component Annotation Description', 'Frequency'] + entries
   print(*entries, sep='\n', file=open('results/cellular_component.csv', 'w'))
 
   # Retrieve all biological processes in the system
-  mf_ids = set(get_molecular_function('PCNA'))
+  bp_id_counts = {goid:1 for goid in get_biological_process('PCNA')}
   for interactor in INTERACTORS:
-    mf_ids = mf_ids.union(get_biological_process(interactor))
-  entries = [goid + ',' + GO_DATA[goid].def_ for goid in mf_ids]
-  entries.sort(key=lambda x: x.split('"')[1])
+    for goid in get_biological_process(interactor):
+      bp_id_counts[goid] = bp_id_counts.get(goid, 0) + 1
+  entries = [f'{goid},{GO_DATA[goid].def_},{bp_id_counts[goid]}' for goid in bp_id_counts]
+  entries.sort(key=lambda x: int(x.split(',')[-1]), reverse=True)
+  entries = ['GOid', 'Biological Process Annotation Description', 'Frequency'] + entries
   print(*entries, sep='\n', file=open('results/biological_process.csv', 'w'))
 
