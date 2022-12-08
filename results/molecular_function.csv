@@ -1,242 +1,242 @@
-GO:0030549,Interacting (directly or indirectly) with acetylcholine receptors such that the proportion of receptors in the active form is increased.
-GO:0001227,A DNA-binding transcription factor activity that represses or decreases the transcription of specific gene sets transcribed by RNA polymerase II.
-GO:0061749,Unwinding a DNA helix containing forked DNA, driven by ATP hydrolysis.
-GO:0043138,Unwinding a DNA helix in the direction 5' to 3', driven by ATP hydrolysis.
-GO:0038023,Receiving a signal and transmitting it in the cell to initiate a change in cell activity. A signal is a physical entity or change in state that is used to transfer information in order to trigger a response.
-GO:0009378,Unwinding a DNA helix of DNA containing four-way junctions, including Holliday junctions, driven by ATP hydrolysis.
-GO:0017056,The action of a molecule that contributes to the structural integrity of the nuclear pore complex, a protein-lined channel in the nuclear envelope that allows the transfer of macromolecules.
-GO:0140359,Primary active transporter characterized by two nucleotide-binding domains and two transmembrane domains. Uses the energy generated from ATP hydrolysis to drive the transport of a substance across a membrane.
-GO:0042626,Primary active transporter of a solute across a membrane, via the reaction: ATP + H2O = ADP + phosphate, to directly drive the transport of a substance across a membrane. The transport protein may be transiently phosphorylated (P-type transporters), or not (ABC-type transporters and other families of transporters). Primary active transport occurs up the solute's concentration gradient and is driven by a primary energy source.
-GO:0005125,The activity of a soluble extracellular gene product that interacts with a receptor to effect a change in the activity of the receptor to control the survival, growth, differentiation and effector function of tissues and cells.
-GO:0008094,Catalytic activity that acts to modify DNA, driven by ATP hydrolysis.
-GO:0140658,An activity, driven by ATP hydrolysis, that modulates the contacts between histones and DNA, resulting in a change in chromosome architecture within the nucleosomal array, leading to chromatin remodeling.
-GO:0030674,The binding activity of a protein that brings together two or more macromolecules in contact, permitting those molecules to function in a coordinated way. The adaptor can bring together two proteins, or a protein and another macromolecule such as a lipid or a nucleic acid.
-GO:0060090,The binding activity of a molecule that brings together two or more molecules through a selective, non-covalent, often stoichiometric interaction, permitting those molecules to function in a coordinated way.
-GO:0030159,The binding activity of a molecule that provides a physical support for the assembly of a multiprotein receptor signaling complex.
-GO:0098641,Any cadherin binding that occurs as part of the process of cell-cell adhesion.
-GO:0097472,Cyclin-dependent catalysis of the phosphorylation of an amino acid residue in a protein, usually according to the reaction: a protein + ATP = a phosphoprotein + ADP.
-GO:0004693,Cyclin-dependent catalysis of the reactions: ATP + protein serine = ADP + protein serine phosphate, and ATP + protein threonine = ADP + protein threonine phosphate.
-GO:0034211,GTP dependent catalysis of the reaction: ATP + a protein serine/threonine = ADP + protein serine/threonine phosphate.
-GO:0030337,An enzyme regulator activity that increases the processivity of polymerization by DNA polymerase, by allowing the polymerase to move rapidly along DNA while remaining topologically bound to it.
-GO:0003746,Functions in chain elongation during polypeptide synthesis at the ribosome.
-GO:0003674,A molecular process that can be carried out by the action of a single macromolecular machine, usually via direct physical interactions with other molecular entities. Function in this sense denotes an action, or activity, that a gene product (or a complex) performs. These actions are described from two distinct but related perspectives: (1) biochemical activity, and (2) role as a component in a larger system/process.
-GO:0140678,A molecular function regulator that inhibits or decreases the activity of its target via non-covalent binding that does not result in covalent modification to the target.
-GO:0003677,Any molecular function by which a gene product interacts selectively and non-covalently with DNA (deoxyribonucleic acid).
-GO:0140677,A molecular function regulator that activates or increases the activity of its target via non-covalent binding that does not result in covalent modification to the target.
-GO:0140664,A molecule that recognises toxic DNA structures, and initiates a signalling response, driven by ATP hydrolysis.
-GO:0106310,Catalysis of the reactions: ATP + protein serine = ADP + protein serine phosphate.
-GO:0017125,Catalysis of the insertion of a dCMP residue opposite a template abasic site in DNA.
-GO:0004521,Catalysis of the hydrolysis of ester linkages within ribonucleic acid by creating internal breaks.
-GO:0046975,Catalysis of the reaction: S-adenosyl-L-methionine + histone H3 L-lysine (position 36) = S-adenosyl-L-homocysteine + histone H3 N6-methyl-L-lysine (position 36). This reaction is the addition of a methyl group to the lysine residue at position 36 of the histone H3 protein.
-GO:0004623,Catalysis of the reaction: a 1,2-diacyl-sn-glycero-3-phospholipid + H2O = 1-acyl-sn-glycero-3-phospholipid + a fatty acid. This reaction removes the fatty acid attached to the sn2-position. Substrates include phosphatidylcholine, phosphatidylethanolamine, choline plasmalogen and phosphatides.
-GO:0008310,Catalysis of the sequential cleavage of mononucleotides from a free 3' terminus of a single-stranded DNA molecule.
-GO:0035173,Catalysis of the transfer of a phosphate group to a histone.
-GO:0003886,Catalysis of the reaction: S-adenosyl-L-methionine + DNA containing cytosine = S-adenosyl-L-homocysteine + DNA containing 5-methylcytosine.
-GO:0004602,Catalysis of the reaction: 2 glutathione + hydrogen peroxide = oxidized glutathione + 2 H2O.
-GO:0004709,Catalysis of the phosphorylation and activation of a MAP kinase kinase; each MAP kinase kinase can be phosphorylated by any of several MAP kinase kinase kinases.
-GO:0008408,Catalysis of the hydrolysis of ester linkages within nucleic acids by removing nucleotide residues from the 3' end.
-GO:0004674,Catalysis of the reactions: ATP + protein serine = ADP + protein serine phosphate, and ATP + protein threonine = ADP + protein threonine phosphate.
-GO:0004519,Catalysis of the hydrolysis of ester linkages within nucleic acids by creating internal breaks.
-GO:0008296,Catalysis of the sequential cleavage of mononucleotides from a free 3' terminus of a DNA molecule.
-GO:0061630,Catalysis of the transfer of ubiquitin to a substrate protein via the reaction X-ubiquitin + S -> X + S-ubiquitin, where X is either an E2 or E3 enzyme, the X-ubiquitin linkage is a thioester bond, and the S-ubiquitin linkage is an amide bond: an isopeptide bond between the C-terminal glycine of ubiquitin and the epsilon-amino group of lysine residues in the substrate or, in the linear extension of ubiquitin chains, a peptide bond the between the C-terminal glycine and N-terminal methionine of ubiquitin residues.
-GO:0048256,Catalysis of the cleavage of a flap structure in DNA, but not other DNA structures; processes the ends of Okazaki fragments in lagging strand DNA synthesis.
-GO:0004706,Catalysis of the reaction: JNKK + ATP = JNKK phosphate + ADP. This reaction is the phosphorylation and activation of JUN kinase kinases (JNKKs).
-GO:0004222,Catalysis of the hydrolysis of internal, alpha-peptide bonds in a polypeptide chain by a mechanism in which water acts as a nucleophile, one or two metal ions hold the water molecule in place, and charged amino acid side chains are ligands for the metal ions.
-GO:0000150,Catalysis of the identification and base-pairing of homologous sequences between single-stranded DNA and double-stranded DNA.
-GO:0003924,Catalysis of the reaction: GTP + H2O = GDP + H+ + phosphate.
-GO:0051920,Catalysis of the reaction: [protein]-dithol + ROOH = [protein]-disulfide + H2O + ROH.
-GO:0008929,Catalysis of the reaction: glycerone phosphate = methylglyoxal + phosphate.
-GO:0003896,Catalysis of the synthesis of a short RNA primer on a DNA template, providing a free 3'-OH that can be extended by DNA-directed DNA polymerases.
-GO:0019912,Catalysis of the reaction: ATP + a protein = ADP + a phosphoprotein; increases the activity of a cyclin-dependent protein kinase (CDK).
-GO:0009008,Catalysis of the transfer of a methyl group to a DNA molecule.
-GO:0003678,Unwinding of a DNA helix, driven by ATP hydrolysis.
-GO:0061663,Catalysis of the transfer of NEDD8 to a substrate protein via the reaction X-NEDD8 + S --> X + S-NEDD8, where X is either an E2 or E3 enzyme, the X-NEDD8 linkage is a thioester bond, and the S-NEDD8 linkage is an isopeptide bond between the C-terminal amino acid of NEDD8 and the epsilon-amino group of lysine residues in the substrate.
-GO:0016818,Catalysis of the hydrolysis of any acid anhydride which contains phosphorus.
-GO:0061731,Catalysis of the formation of 2'-deoxyribonucleoside diphosphate from ribonucleoside diphosphate, using either thioredoxin disulfide or glutaredoxin disulfide as an acceptor.
-GO:0019789,Catalysis of the transfer of SUMO from one protein to another via the reaction X-SUMO + Y --> Y-SUMO + X, where both X-SUMO and Y-SUMO are covalent linkages.
-GO:0003909,Catalysis of the formation of a phosphodiester bond between the 3'-hydroxyl group at the end of one DNA chain and the 5'-phosphate group at the end of another. This reaction requires an energy source such as ATP or NAD+.
-GO:0046538,Catalysis of the reaction: 2-phospho-D-glycerate = 3-phospho-D-glycerate; this reaction requires the cofactor 2,3-bisphosphoglycerate.
-GO:0017116,Catalysis of the reaction: ATP + H2O = ADP + phosphate, in the presence of single-stranded DNA; drives the unwinding of a DNA helix.
-GO:0004634,Catalysis of the reaction: 2-phospho-D-glycerate = phosphoenolpyruvate + H2O.
-GO:0047134,Catalysis of the reaction: protein-dithiol + NAD(P)+ = protein-disulfide + NAD(P)H + H+.
-GO:0004618,Catalysis of the reaction: 3-phospho-D-glycerate + ATP = 3-phospho-D-glyceroyl phosphate + ADP + H+.
-GO:0004619,Catalysis of the reaction: 2-phospho-D-glycerate = 3-phospho-D-glycerate.
-GO:0035605,Catalysis of the transfer of a nitric oxide (NO) group to a sulphur atom within a cysteine residue of a protein.
-GO:0004527,Catalysis of the hydrolysis of ester linkages within nucleic acids by removing nucleotide residues from the 3' or 5' end.
-GO:0019788,Catalysis of the transfer of NEDD8 from one protein to another via the reaction X-NEDD8 + Y --> Y-NEDD8 + X, where both X-NEDD8 and Y-NEDD8 are covalent linkages.
-GO:0016301,Catalysis of the transfer of a phosphate group, usually from ATP, to a substrate molecule.
-GO:0016787,Catalysis of the hydrolysis of various bonds, e.g. C-O, C-N, C-C, phosphoric anhydride bonds, etc.
-GO:0016853,Catalysis of the geometric or structural changes within one molecule. Isomerase is the systematic name for any enzyme of EC class 5.
-GO:0004523,Catalysis of the endonucleolytic cleavage of RNA in RNA-DNA hybrids to 5'-phosphomonoesters.
-GO:0004386,Catalysis of the reaction: ATP + H2O = ADP + phosphate, to drive the unwinding of a DNA or RNA helix.
-GO:0004748,Catalysis of the reaction: 2'-deoxyribonucleoside diphosphate + thioredoxin disulfide + H2O = ribonucleoside diphosphate + thioredoxin. Thioredoxin disulfide is the oxidized form of thioredoxin.
-GO:0047499,Catalysis of the reaction: phosphatidylcholine + H2O = 1-acylglycerophosphocholine + a carboxylate. This reaction does not require Ca2+.
-GO:0008353,Catalysis of the reaction: ATP + RNA polymerase II large subunit CTD heptapeptide repeat (YSPTSPS) = ADP + H+ + phosphorylated RNA polymerase II.
-GO:0000701,Catalysis of the removal of purines present in mismatches, especially opposite oxidized purines, by cleaving the N-C1' glycosidic bond between the target damaged DNA base and the deoxyribose sugar. The reaction releases a free base and leaves an apurinic (AP) site.
-GO:0004722,Catalysis of the reaction: protein serine phosphate + H2O = protein serine + phosphate, and protein threonine phosphate + H2O = protein threonine + phosphate.
-GO:0042800,Catalysis of the reaction: S-adenosyl-L-methionine + histone H3 L-lysine (position 4) = S-adenosyl-L-homocysteine + histone H3 N6-methyl-L-lysine (position 4). This reaction is the addition of up to three methyl groups to the lysine residue at position 4 of the histone H3 protein.
-GO:0050321,Catalysis of the reaction: ATP + tau-protein = ADP + O-phospho-tau-protein.
-GO:0004082,Catalysis of the reaction: 3-phospho-D-glyceroyl phosphate = 2,3-bisphospho-D-glycerate.
-GO:0018064,Catalysis of the reaction: L-histidyl-[protein] + S-adenosyl-L-methionine = N(tele)-methyl-L-histidyl-[protein] + S-adenosyl-L-homocysteine.
-GO:0004540,Catalysis of the hydrolysis of phosphodiester bonds in chains of RNA.
-GO:0008409,Catalysis of the hydrolysis of ester linkages within nucleic acids by removing nucleotide residues from the 5' end.
-GO:0016887,Catalysis of the reaction: ATP + H2O = ADP + H+ phosphate. ATP hydrolysis is used in some reactions as an energy source, for example to catalyze a reaction or drive transport against a concentration gradient.
-GO:0008309,Catalysis of the sequential cleavage of mononucleotides from a free 5' or 3' terminus of a double-stranded DNA molecule.
-GO:0003910,Catalysis of the reaction: ATP + deoxyribonucleotide(n) + deoxyribonucleotide(m) = AMP + diphosphate + deoxyribonucleotide(n+m).
-GO:0003887,Catalysis of the reaction: deoxynucleoside triphosphate + DNA(n) = diphosphate + DNA(n+1); the synthesis of DNA from deoxyribonucleotide triphosphates in the presence of a DNA template and a 3'hydroxyl group.
-GO:0004332,Catalysis of the reaction: D-fructose 1,6-bisphosphate = glycerone phosphate + D-glyceraldehyde-3-phosphate.
-GO:0017108,Catalysis of the cleavage of a 5' flap structure in DNA, but not other DNA structures; processes the 5' ends of Okazaki fragments in lagging strand DNA synthesis.
-GO:0004807,Catalysis of the reaction: D-glyceraldehyde 3-phosphate = glycerone phosphate.
-GO:0004672,Catalysis of the phosphorylation of an amino acid residue in a protein, usually according to the reaction: a protein + ATP = a phosphoprotein + ADP.
-GO:0004365,Catalysis of the reaction: D-glyceraldehyde 3-phosphate + phosphate + NAD+ = 3-phospho-D-glyceroyl phosphate + NADH + H+.
-GO:0047184,Catalysis of the reaction: 1-acyl-sn-glycero-3-phosphocholine + acyl-CoA = phosphatidylcholine + CoA.
-GO:0005260,Enables passage of a chloride ion through a transmembrane channel that opens when ATP is bound by the channel complex or one of its constituent parts on the intracellular side of the plasma membrane.
-GO:0016538,Modulates the activity of a cyclin-dependent protein serine/threonine kinase, enzymes of the protein kinase family that are regulated through association with cyclins and other proteins.
-GO:0043225,Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + inorganic anion(out) = ADP + phosphate + inorganic anion(in).
-GO:0005385,Enables the transfer of zinc (Zn) ions from one side of a membrane to the other.
-GO:0005262,Enables the facilitated diffusion of a calcium ion (by an energy-independent process) involving passage through a transmembrane aqueous pore or channel without evidence for a carrier-mediated mechanism.
-GO:0015106,Enables the transfer of bicarbonate from one side of a membrane to the other. Bicarbonate is the hydrogencarbonate ion, HCO3-.
-GO:0015108,Enables the transfer of chloride ions from one side of a membrane to the other.
-GO:0140826,Enables the transfer of zinc from one side of a membrane to the other according to the reaction: H+(out) + Zn2+(in) = H+(in) + Zn2+(out).
-GO:0061860,Facilitating the opening of the ring structure of the PCNA complex, or any of the related sliding clamp complexes, and their removal from the DNA duplex, driven by ATP hydrolysis.
-GO:0005254,Enables the facilitated diffusion of a chloride (by an energy-independent process) involving passage through a transmembrane aqueous pore or channel without evidence for a carrier-mediated mechanism.
-GO:0003689,Facilitating the opening of the ring structure of the PCNA complex, or any of the related sliding clamp complexes, and their closing around the DNA duplex, driven by ATP hydrolysis.
-GO:0002039,Binding to one of the p53 family of proteins.
-GO:0051287,Binding to nicotinamide adenine dinucleotide, a coenzyme involved in many redox and biosynthetic reactions; binding may be to either the oxidized form, NAD+, or the reduced form, NADH.
-GO:0001222,Binding to a transcription corepressor, a protein involved in negative regulation of transcription via protein-protein interactions with transcription factors and other proteins that negatively regulate transcription. Transcription corepressors do not bind DNA directly, but rather mediate protein-protein interactions between repressing transcription factors and the basal transcription machinery.
-GO:1904713,Binding to a beta-catenin destruction complex.
-GO:0051020,Binding to a GTPase, any enzyme that catalyzes the hydrolysis of GTP.
-GO:0003723,Binding to an RNA molecule or a portion thereof.
-GO:0001786,Binding to phosphatidylserine, a class of glycophospholipids in which a phosphatidyl group is esterified to the hydroxyl group of L-serine.
-GO:0071535,Binding to a RING-like zinc finger domain domain of a protein. The RING-like domain is a zinc finger domain that is related to the C3HC4 RING finger domain.
-GO:0005509,Binding to a calcium ion (Ca2+).
-GO:0000287,Binding to a magnesium (Mg) ion.
-GO:0035064,Binding to a histone in which a residue has been modified by methylation.
-GO:0008047,Binds to and increases the activity of an enzyme.
-GO:0005515,Binding to a protein.
-GO:0048306,Binding to a protein or protein complex in the presence of calcium.
-GO:0008134,Binding to a transcription factor, a protein required to initiate or regulate transcription.
-GO:0008270,Binding to a zinc ion (Zn).
-GO:0003682,Binding to chromatin, the network of fibers of DNA, protein, and sometimes RNA, that make up the chromosomes of the eukaryotic nucleus during interphase.
-GO:0061821,Binding to a telomeric D-loop. A telomeric D-loop is a three-stranded DNA displacement loop that forms at the site where the telomeric 3' single-stranded DNA overhang (formed of the repeat sequence TTAGGG in mammals) is tucked back inside the double-stranded component of telomeric DNA molecule, thus forming a t-loop or telomeric-loop and protecting the chromosome terminus.
-GO:0019237,Binding to a centromere, a region of chromosome where the spindle fibers attach during mitosis and meiosis.
-GO:0061849,Binding to telomeric G-quadruplex DNA structures, in which groups of four guanines adopt a flat, cyclic Hoogsteen hydrogen-bonding arrangement known as a guanine tetrad. The stacking of guanine tetrads results in G-quadruplex DNA structures in telomeres.
-GO:0001671,Binds to and increases the activity of an ATP hydrolysis activity.
-GO:0001006,Binding to a sequence of DNA that is a part of a type 3 promoter that controls transcription by RNA polymerase III (Pol III). A type 3 Pol III promoter is composed of elements upstream of the transcription start site, including a TATA box. The human U6 snRNA gene has a type 3 promoter. Type 3 Pol III promoters have not been observed in S. cerevisiae.
-GO:0043130,Binding to ubiquitin, a protein that when covalently bound to other cellular proteins marks them for proteolytic degradation.
-GO:0000149,Binding to a SNARE (soluble N-ethylmaleimide-sensitive factor attached protein receptor) protein.
-GO:0000403,Binding to a DNA segment shaped like a Y. This shape occurs when DNA contains a region of paired double-stranded DNA on one end and a region of unpaired DNA strands on the opposite end.
-GO:0043047,Binding to single-stranded telomere-associated DNA.
-GO:0070530,Binding to a protein upon poly-ubiquitination formed by linkages between lysine residues at position 63 in the target protein.
-GO:0004861,Binds to and stops, prevents or reduces the activity of a cyclin-dependent protein serine/threonine kinase.
-GO:0019901,Binding to a protein kinase, any enzyme that catalyzes the transfer of a phosphate group, usually from ATP, to a protein substrate.
-GO:0004867,Binds to and stops, prevents or reduces the activity of a serine-type endopeptidase.
-GO:0044388,Binding to a small protein activating enzyme, such as ubiquitin-activating enzyme.
-GO:0032139,Binding to a double-stranded DNA region containing a dinucleotide insertion or deletion.
-GO:0035091,Binding to an inositol-containing glycerophospholipid, i.e. phosphatidylinositol (PtdIns) and its phosphorylated derivatives.
-GO:1905773,Binding to 8-hydroxy-2'-deoxyguanosine an oxidized purine residue found in damaged DNA.
-GO:0039706,Binding to a coreceptor. A coreceptor acts in cooperation with a primary receptor to transmit a signal within the cell.
-GO:0030145,Binding to a manganese ion (Mn).
-GO:0044325,Binding to a transmembrane transporter, a protein or protein complex that enables the transfer of a substance, usually a specific substance or a group of related substances, from one side of a membrane to the other.
-GO:0098770,Binding to a member of the FBXO protein family. Members of this family have an F-box protein motif of approximately 50 amino acids that functions as a site of protein-protein interaction.
-GO:0043398,Binding to a Helix Loop Helix domain, a domain of 40-50 residues that occurs in specific DNA-binding proteins that act as transcription factors. The domain is formed of two amphipathic helices joined by a variable length linker region that can form a loop and it mediates protein dimerization.
-GO:0043125,Binding to the protein-tyrosine kinase receptor ErbB-3/HER3.
-GO:0001002,Binding to a sequence of DNA that is a part of a type 1 promoter that controls transcription by RNA polymerase III. Type 1 promoters are found in 5S rRNA genes, downstream of the transcription start site within the sequence of the mature RNA, and require TFIIIA for recognition.
-GO:0032553,Binding to a ribonucleotide, any compound consisting of a ribonucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose moiety.
-GO:1990841,Binding to a section of chromatin that is associated with gene promoter sequences of DNA.
-GO:0031625,Binding to a ubiquitin protein ligase enzyme, any of the E3 proteins.
-GO:0043565,Binding to DNA of a specific nucleotide composition, e.g. GC-rich DNA binding, or with a specific sequence motif or type of DNA e.g. promotor binding or rDNA binding.
-GO:0042826,Binding to histone deacetylase.
-GO:0030983,Binding to a double-stranded DNA region containing one or more mismatches.
-GO:0001003,Binding to a sequence of DNA that is a part of a type 2 promoter that controls transcription by RNA polymerase III. Type 2 promoters consist of an A box and a B box downstream of the transcription start site within the sequence within the sequence of the mature RNA. Type 2 promoters are found in many tRNA genes as well as in other small RNAs.
-GO:0098505,Binding to G-rich, single-stranded, telomere-associated DNA.
-GO:0019900,Binding to a kinase, any enzyme that catalyzes the transfer of a phosphate group.
-GO:0036479,Binds to and stops, prevents or reduces the activity of peroxidase.
-GO:0050661,Binding to nicotinamide-adenine dinucleotide phosphate, a coenzyme involved in many redox and biosynthetic reactions; binding may be to either the oxidized form, NADP+, or the reduced form, NADPH.
-GO:0046872,Binding to a metal ion.
-GO:0019869,Binds to and stops, prevents, or reduces the activity of a chloride channel.
-GO:0051087,Binding to a chaperone protein, a class of proteins that bind to nascent or unfolded polypeptides and ensure correct folding or transport.
-GO:0023026,Binding to a class II major histocompatibility complex.
-GO:0042802,Binding to an identical protein or proteins.
-GO:0035035,Binding to an histone acetyltransferase.
-GO:0003676,Binding to a nucleic acid.
-GO:0008092,Binding to a protein component of a cytoskeleton (actin, microtubule, or intermediate filament cytoskeleton).
-GO:0051059,Binding to NF-kappaB, a transcription factor for eukaryotic RNA polymerase II promoters.
-GO:0003690,Binding to double-stranded DNA.
-GO:0031593,Binding to a protein upon poly-ubiquitination of the target protein.
-GO:0070182,Binding to a DNA polymerase.
-GO:0001221,Binding to a transcription coregulator, a protein involved in regulation of transcription via protein-protein interactions with transcription factors and other transcription regulatory proteins. Cofactors do not bind DNA directly, but rather mediate protein-protein interactions between regulatory transcription factors and the basal transcription machinery.
-GO:0043531,Binding to ADP, adenosine 5'-diphosphate.
-GO:0030971,Binding to a receptor that possesses protein tyrosine kinase activity.
-GO:0019904,Binding to a specific domain of a protein.
-GO:0030332,Binding to cyclins, proteins whose levels in a cell varies markedly during the cell cycle, rising steadily until mitosis, then falling abruptly to zero. As cyclins reach a threshold level, they are thought to drive cells into G2 phase and thus to mitosis.
-GO:0005544,Binding to a phospholipid, a class of lipids containing phosphoric acid as a mono- or diester, in the presence of calcium.
-GO:0032137,Binding to a double-stranded DNA region containing a G/T mispair.
-GO:0046875,Binding to an ephrin receptor.
-GO:0008017,Binding to a microtubule, a filament composed of tubulin monomers.
-GO:0070337,Binding to a 3'-flap structure in DNA. A DNA flap structure is one in which a single-stranded 3'-end of DNA or RNA protrudes from a double-stranded DNA molecule.
-GO:0046790,Binding to a virion, either by binding to components of the capsid or the viral envelope.
-GO:0070061,Binding to the D- or L-enantiomer of fructose, the ketohexose arabino-hex-2-ulose.
-GO:0042393,Binding to a histone, any of a group of water-soluble proteins found in association with the DNA of eukaryotic or archaeal chromosomes. They are involved in the condensation and coiling of chromosomes during cell division and have also been implicated in gene regulation and DNA replication. They may be chemically modified (methylated, acetlyated and others) to regulate gene transcription.
-GO:0005102,Binding to one or more specific sites on a receptor molecule, a macromolecule that undergoes combination with a hormone, neurotransmitter, drug or intracellular messenger to initiate a change in cell function.
-GO:0070064,Binding to a proline-rich region, i.e. a region that contains a high proportion of proline residues, in a protein.
-GO:0031267,Binding to a small monomeric GTPase.
-GO:0048156,Binding to tau protein. tau is a microtubule-associated protein, implicated in Alzheimer's disease, Down Syndrome and ALS.
-GO:0051018,Binding to a protein kinase A.
-GO:0017081,Binds to and modulates the activity of a chloride channel.
-GO:0097602,Binding to a member of the cullin family, hydrophobic proteins that act as scaffolds for ubiquitin ligases (E3).
-GO:0044548,Binding to a S100 protein. S100 is a small calcium and zinc binding protein produced in astrocytes that is implicated in Alzheimer's disease, Down Syndrome and ALS.
-GO:0008327,Binding to a methylated cytosine/guanine dinucleotide.
-GO:0003684,Binding to damaged DNA.
-GO:0097718,Binding to a disordered domain of a protein.
-GO:0002020,Binding to a protease or a peptidase.
-GO:0030544,Binding to a Hsp70 protein, heat shock proteins around 70kDa in size.
-GO:0003779,Binding to monomeric or multimeric forms of actin, including actin filaments.
-GO:0005525,Binding to GTP, guanosine triphosphate.
-GO:0140311,Binding to a protein to prevent it from interacting with other partners or to inhibit its localization to the area of the cell or complex where it is active.
-GO:0005524,Binding to ATP, adenosine 5'-triphosphate, a universally important coenzyme and enzyme regulator.
-GO:0019828,Binds to and stops, prevents or reduces the activity of aspartic-type endopeptidases.
-GO:0000049,Binding to a transfer RNA.
-GO:0051539,Binding to a 4 iron, 4 sulfur (4Fe-4S) cluster; this cluster consists of four iron atoms, with the inorganic sulfur atoms found between the irons and acting as bridging ligands.
-GO:0008022,Binding to a protein C-terminus, the end of a peptide chain at which the 1-carboxyl function of a constituent amino acid is not attached in peptide linkage to another amino-acid residue.
-GO:0000977,Binding to a specific sequence of DNA that is part of a regulatory region that controls the transcription of a gene or cistron by RNA polymerase II.
-GO:0000405,Binding to DNA segment that contains a bubble. A bubble occurs when DNA contains a region of unpaired, single-stranded DNA flanked on both sides by regions of paired, double-stranded DNA.
-GO:0042803,Binding to an identical protein to form a homodimer.
-GO:0030331,Binding to a nuclear estrogen receptor.
-GO:0045296,Binding to cadherin, a type I membrane protein involved in cell adhesion.
-GO:0061629,Binding to a sequence-specific DNA binding RNA polymerase II transcription factor, any of the factors that interact selectively and non-covalently with a specific DNA sequence in order to modulate transcription.
-GO:0005546,Binding to phosphatidylinositol-4,5-bisphosphate, a derivative of phosphatidylinositol in which the inositol ring is phosphorylated at the 4' and 5' positions.
-GO:0019903,Binding to a protein phosphatase.
-GO:0106138,Binding to a Sec61 translocon complex.
-GO:0051879,Binding to Hsp90 proteins, any of a group of heat shock proteins around 90kDa in size.
-GO:0015631,Binding to monomeric or multimeric forms of tubulin, including microtubules.
-GO:0051880,Binding to G-quadruplex DNA structures, in which groups of four guanines adopt a flat, cyclic Hoogsteen hydrogen-bonding arrangement known as a guanine tetrad. The stacking of guanine tetrads results in G-quadruplex DNA structures. G-quadruplex DNA can form under physiological conditions from some G-rich sequences, such as those found in telomeres, immunoglobulin switch regions, gene promoters, fragile X repeats, and the dimerization domain in the human immunodeficiency virus (HIV) genome.
-GO:0046982,Binding to a nonidentical protein to form a heterodimer.
-GO:0044877,Binding to a macromolecular complex.
-GO:0005507,Binding to a copper (Cu) ion.
-GO:0032405,Binding to a MutLalpha mismatch repair complex.
-GO:0042277,Binding to a peptide, an organic compound comprising two or more amino acids linked by peptide bonds.
-GO:0000400,Binding to a DNA segment containing four-way junctions, also known as Holliday junctions, a structure where two DNA double strands are held together by reciprocal exchange of two of the four strands, one strand each from the two original helices.
-GO:0000994,Binding to an RNA polymerase III core enzyme, a multisubunit eukaryotic nuclear RNA polymerase typically composed of seventeen subunits.
-GO:0019834,Binds to and stops, prevents or reduces the activity of phospholipase A2.
-GO:0003688,Binding to a DNA replication origin, a unique DNA sequence of a replicon at which DNA replication is initiated and proceeds bidirectionally or unidirectionally.
-GO:0000166,Binding to a nucleotide, any compound consisting of a nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose or deoxyribose.
-GO:0005096,Binds to and increases the activity of a GTPase, an enzyme that catalyzes the hydrolysis of GTP.
-GO:0047485,Binding to a protein N-terminus, the end of any peptide chain at which the 2-amino (or 2-imino) function of a constituent amino acid is not attached in peptide linkage to another amino-acid residue.
-GO:0051082,Binding to an unfolded protein.
-GO:0030276,Binding to a clathrin heavy or light chain, the main components of the coat of coated vesicles and coated pits, and which also occurs in synaptic vesicles.
-GO:0019843,Binding to a ribosomal RNA.
-GO:0005176,Binding to a protein-tyrosine kinase receptor Neu/ErbB-2/HER2.
-GO:0019899,Binding to an enzyme, a protein with catalytic activity.
-GO:0030165,Binding to a PDZ domain of a protein, a domain found in diverse signaling proteins.
-GO:0017075,Binding to a syntaxin-1 SNAP receptor.
-GO:0008139,Binding to a nuclear localization sequence, a specific peptide sequence that acts as a signal to localize the protein within the nucleus.
-GO:0042609,Binding to a CD4, a receptor found on the surface of T cells, monocytes and macrophages.
-GO:0008201,Binding to heparin, a member of a group of glycosaminoglycans found mainly as an intracellular component of mast cells and which consist predominantly of alternating alpha-(1->4)-linked D-galactose and N-acetyl-D-glucosamine-6-sulfate residues.
-GO:0004860,Binds to and stops, prevents or reduces the activity of a protein kinase.
-GO:0003697,Binding to single-stranded DNA.
-GO:0003714,A transcription coregulator activity that represses or decreases the transcription of specific gene sets via binding to a DNA-bound DNA-binding transcription factor, either on its own or as part of a complex. Corepressors often act by altering chromatin structure and modifications. For example, one class of transcription corepressors modifies chromatin structure through covalent modification of histones. A second class remodels the conformation of chromatin in an ATP-dependent fashion. A third class modulates interactions of DNA-bound DNA-binding transcription factors with other transcription coregulators.
-GO:0003713,A transcription coregulator activity that activates or increases the transcription of specific gene sets via binding to a DNA-bound DNA-binding transcription factor, either on its own or as part of a complex. Coactivators often act by altering chromatin structure and modifications. For example, one class of transcription coactivators modifies chromatin structure through covalent modification of histones. A second class remodels the conformation of chromatin in an ATP-dependent fashion. A third class modulates interactions of DNA-bound DNA-binding transcription factors with other transcription coregulators. A fourth class of coactivator activity is the bridging of a DNA-binding transcription factor to the general (basal) transcription machinery. The Mediator complex, which bridges sequence-specific DNA binding transcription factors and RNA polymerase, is also a transcription coactivator.
-GO:0061656,Isoenergetic transfer of SUMO from one protein to another via the reaction X-SUMO + Y -> Y-SUMO + X, where both the X-SUMO and Y-SUMO linkages are thioester bonds between the C-terminal amino acid of SUMO and a sulfhydryl side group of a cysteine residue.
-GO:0001618,Combining with a virus component and mediating entry of the virus into the cell.
-GO:0004888,Combining with an extracellular or intracellular signal and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity or state as part of signal transduction.
+GO:0030549,"Interacting (directly or indirectly) with acetylcholine receptors such that the proportion of receptors in the active form is increased."
+GO:0001227,"A DNA-binding transcription factor activity that represses or decreases the transcription of specific gene sets transcribed by RNA polymerase II."
+GO:0043138,"Unwinding a DNA helix in the direction 5' to 3', driven by ATP hydrolysis."
+GO:0061749,"Unwinding a DNA helix containing forked DNA, driven by ATP hydrolysis."
+GO:0038023,"Receiving a signal and transmitting it in the cell to initiate a change in cell activity. A signal is a physical entity or change in state that is used to transfer information in order to trigger a response."
+GO:0009378,"Unwinding a DNA helix of DNA containing four-way junctions, including Holliday junctions, driven by ATP hydrolysis."
+GO:0017056,"The action of a molecule that contributes to the structural integrity of the nuclear pore complex, a protein-lined channel in the nuclear envelope that allows the transfer of macromolecules."
+GO:0042626,"Primary active transporter of a solute across a membrane, via the reaction: ATP + H2O = ADP + phosphate, to directly drive the transport of a substance across a membrane. The transport protein may be transiently phosphorylated (P-type transporters), or not (ABC-type transporters and other families of transporters). Primary active transport occurs up the solute's concentration gradient and is driven by a primary energy source."
+GO:0140359,"Primary active transporter characterized by two nucleotide-binding domains and two transmembrane domains. Uses the energy generated from ATP hydrolysis to drive the transport of a substance across a membrane."
+GO:0005125,"The activity of a soluble extracellular gene product that interacts with a receptor to effect a change in the activity of the receptor to control the survival, growth, differentiation and effector function of tissues and cells."
+GO:0008094,"Catalytic activity that acts to modify DNA, driven by ATP hydrolysis."
+GO:0140658,"An activity, driven by ATP hydrolysis, that modulates the contacts between histones and DNA, resulting in a change in chromosome architecture within the nucleosomal array, leading to chromatin remodeling."
+GO:0030674,"The binding activity of a protein that brings together two or more macromolecules in contact, permitting those molecules to function in a coordinated way. The adaptor can bring together two proteins, or a protein and another macromolecule such as a lipid or a nucleic acid."
+GO:0060090,"The binding activity of a molecule that brings together two or more molecules through a selective, non-covalent, often stoichiometric interaction, permitting those molecules to function in a coordinated way."
+GO:0030159,"The binding activity of a molecule that provides a physical support for the assembly of a multiprotein receptor signaling complex."
+GO:0098641,"Any cadherin binding that occurs as part of the process of cell-cell adhesion."
+GO:0004693,"Cyclin-dependent catalysis of the reactions: ATP + protein serine = ADP + protein serine phosphate, and ATP + protein threonine = ADP + protein threonine phosphate."
+GO:0097472,"Cyclin-dependent catalysis of the phosphorylation of an amino acid residue in a protein, usually according to the reaction: a protein + ATP = a phosphoprotein + ADP."
+GO:0034211,"GTP dependent catalysis of the reaction: ATP + a protein serine/threonine = ADP + protein serine/threonine phosphate."
+GO:0030337,"An enzyme regulator activity that increases the processivity of polymerization by DNA polymerase, by allowing the polymerase to move rapidly along DNA while remaining topologically bound to it."
+GO:0003746,"Functions in chain elongation during polypeptide synthesis at the ribosome."
+GO:0140678,"A molecular function regulator that inhibits or decreases the activity of its target via non-covalent binding that does not result in covalent modification to the target."
+GO:0140677,"A molecular function regulator that activates or increases the activity of its target via non-covalent binding that does not result in covalent modification to the target."
+GO:0003677,"Any molecular function by which a gene product interacts selectively and non-covalently with DNA (deoxyribonucleic acid)."
+GO:0003674,"A molecular process that can be carried out by the action of a single macromolecular machine, usually via direct physical interactions with other molecular entities. Function in this sense denotes an action, or activity, that a gene product (or a complex) performs. These actions are described from two distinct but related perspectives: (1) biochemical activity, and (2) role as a component in a larger system/process."
+GO:0140664,"A molecule that recognises toxic DNA structures, and initiates a signalling response, driven by ATP hydrolysis."
+GO:0018064,"Catalysis of the reaction: L-histidyl-[protein] + S-adenosyl-L-methionine = N(tele)-methyl-L-histidyl-[protein] + S-adenosyl-L-homocysteine."
+GO:0016887,"Catalysis of the reaction: ATP + H2O = ADP + H+ phosphate. ATP hydrolysis is used in some reactions as an energy source, for example to catalyze a reaction or drive transport against a concentration gradient."
+GO:0004722,"Catalysis of the reaction: protein serine phosphate + H2O = protein serine + phosphate, and protein threonine phosphate + H2O = protein threonine + phosphate."
+GO:0004540,"Catalysis of the hydrolysis of phosphodiester bonds in chains of RNA."
+GO:0042800,"Catalysis of the reaction: S-adenosyl-L-methionine + histone H3 L-lysine (position 4) = S-adenosyl-L-homocysteine + histone H3 N6-methyl-L-lysine (position 4). This reaction is the addition of up to three methyl groups to the lysine residue at position 4 of the histone H3 protein."
+GO:0046538,"Catalysis of the reaction: 2-phospho-D-glycerate = 3-phospho-D-glycerate; this reaction requires the cofactor 2,3-bisphosphoglycerate."
+GO:0008353,"Catalysis of the reaction: ATP + RNA polymerase II large subunit CTD heptapeptide repeat (YSPTSPS) = ADP + H+ + phosphorylated RNA polymerase II."
+GO:0004332,"Catalysis of the reaction: D-fructose 1,6-bisphosphate = glycerone phosphate + D-glyceraldehyde-3-phosphate."
+GO:0047184,"Catalysis of the reaction: 1-acyl-sn-glycero-3-phosphocholine + acyl-CoA = phosphatidylcholine + CoA."
+GO:0017108,"Catalysis of the cleavage of a 5' flap structure in DNA, but not other DNA structures; processes the 5' ends of Okazaki fragments in lagging strand DNA synthesis."
+GO:0000701,"Catalysis of the removal of purines present in mismatches, especially opposite oxidized purines, by cleaving the N-C1' glycosidic bond between the target damaged DNA base and the deoxyribose sugar. The reaction releases a free base and leaves an apurinic (AP) site."
+GO:0009008,"Catalysis of the transfer of a methyl group to a DNA molecule."
+GO:0008409,"Catalysis of the hydrolysis of ester linkages within nucleic acids by removing nucleotide residues from the 5' end."
+GO:0004386,"Catalysis of the reaction: ATP + H2O = ADP + phosphate, to drive the unwinding of a DNA or RNA helix."
+GO:0004602,"Catalysis of the reaction: 2 glutathione + hydrogen peroxide = oxidized glutathione + 2 H2O."
+GO:0019912,"Catalysis of the reaction: ATP + a protein = ADP + a phosphoprotein; increases the activity of a cyclin-dependent protein kinase (CDK)."
+GO:0017125,"Catalysis of the insertion of a dCMP residue opposite a template abasic site in DNA."
+GO:0003678,"Unwinding of a DNA helix, driven by ATP hydrolysis."
+GO:0004623,"Catalysis of the reaction: a 1,2-diacyl-sn-glycero-3-phospholipid + H2O = 1-acyl-sn-glycero-3-phospholipid + a fatty acid. This reaction removes the fatty acid attached to the sn2-position. Substrates include phosphatidylcholine, phosphatidylethanolamine, choline plasmalogen and phosphatides."
+GO:0004365,"Catalysis of the reaction: D-glyceraldehyde 3-phosphate + phosphate + NAD+ = 3-phospho-D-glyceroyl phosphate + NADH + H+."
+GO:0004706,"Catalysis of the reaction: JNKK + ATP = JNKK phosphate + ADP. This reaction is the phosphorylation and activation of JUN kinase kinases (JNKKs)."
+GO:0004082,"Catalysis of the reaction: 3-phospho-D-glyceroyl phosphate = 2,3-bisphospho-D-glycerate."
+GO:0004521,"Catalysis of the hydrolysis of ester linkages within ribonucleic acid by creating internal breaks."
+GO:0019788,"Catalysis of the transfer of NEDD8 from one protein to another via the reaction X-NEDD8 + Y --> Y-NEDD8 + X, where both X-NEDD8 and Y-NEDD8 are covalent linkages."
+GO:0050321,"Catalysis of the reaction: ATP + tau-protein = ADP + O-phospho-tau-protein."
+GO:0004709,"Catalysis of the phosphorylation and activation of a MAP kinase kinase; each MAP kinase kinase can be phosphorylated by any of several MAP kinase kinase kinases."
+GO:0016301,"Catalysis of the transfer of a phosphate group, usually from ATP, to a substrate molecule."
+GO:0106310,"Catalysis of the reactions: ATP + protein serine = ADP + protein serine phosphate."
+GO:0003896,"Catalysis of the synthesis of a short RNA primer on a DNA template, providing a free 3'-OH that can be extended by DNA-directed DNA polymerases."
+GO:0008310,"Catalysis of the sequential cleavage of mononucleotides from a free 3' terminus of a single-stranded DNA molecule."
+GO:0004222,"Catalysis of the hydrolysis of internal, alpha-peptide bonds in a polypeptide chain by a mechanism in which water acts as a nucleophile, one or two metal ions hold the water molecule in place, and charged amino acid side chains are ligands for the metal ions."
+GO:0000150,"Catalysis of the identification and base-pairing of homologous sequences between single-stranded DNA and double-stranded DNA."
+GO:0016787,"Catalysis of the hydrolysis of various bonds, e.g. C-O, C-N, C-C, phosphoric anhydride bonds, etc."
+GO:0004674,"Catalysis of the reactions: ATP + protein serine = ADP + protein serine phosphate, and ATP + protein threonine = ADP + protein threonine phosphate."
+GO:0003924,"Catalysis of the reaction: GTP + H2O = GDP + H+ + phosphate."
+GO:0046975,"Catalysis of the reaction: S-adenosyl-L-methionine + histone H3 L-lysine (position 36) = S-adenosyl-L-homocysteine + histone H3 N6-methyl-L-lysine (position 36). This reaction is the addition of a methyl group to the lysine residue at position 36 of the histone H3 protein."
+GO:0061630,"Catalysis of the transfer of ubiquitin to a substrate protein via the reaction X-ubiquitin + S -> X + S-ubiquitin, where X is either an E2 or E3 enzyme, the X-ubiquitin linkage is a thioester bond, and the S-ubiquitin linkage is an amide bond: an isopeptide bond between the C-terminal glycine of ubiquitin and the epsilon-amino group of lysine residues in the substrate or, in the linear extension of ubiquitin chains, a peptide bond the between the C-terminal glycine and N-terminal methionine of ubiquitin residues."
+GO:0061663,"Catalysis of the transfer of NEDD8 to a substrate protein via the reaction X-NEDD8 + S --> X + S-NEDD8, where X is either an E2 or E3 enzyme, the X-NEDD8 linkage is a thioester bond, and the S-NEDD8 linkage is an isopeptide bond between the C-terminal amino acid of NEDD8 and the epsilon-amino group of lysine residues in the substrate."
+GO:0008408,"Catalysis of the hydrolysis of ester linkages within nucleic acids by removing nucleotide residues from the 3' end."
+GO:0048256,"Catalysis of the cleavage of a flap structure in DNA, but not other DNA structures; processes the ends of Okazaki fragments in lagging strand DNA synthesis."
+GO:0019789,"Catalysis of the transfer of SUMO from one protein to another via the reaction X-SUMO + Y --> Y-SUMO + X, where both X-SUMO and Y-SUMO are covalent linkages."
+GO:0003887,"Catalysis of the reaction: deoxynucleoside triphosphate + DNA(n) = diphosphate + DNA(n+1); the synthesis of DNA from deoxyribonucleotide triphosphates in the presence of a DNA template and a 3'hydroxyl group."
+GO:0016818,"Catalysis of the hydrolysis of any acid anhydride which contains phosphorus."
+GO:0061731,"Catalysis of the formation of 2'-deoxyribonucleoside diphosphate from ribonucleoside diphosphate, using either thioredoxin disulfide or glutaredoxin disulfide as an acceptor."
+GO:0008309,"Catalysis of the sequential cleavage of mononucleotides from a free 5' or 3' terminus of a double-stranded DNA molecule."
+GO:0004519,"Catalysis of the hydrolysis of ester linkages within nucleic acids by creating internal breaks."
+GO:0003910,"Catalysis of the reaction: ATP + deoxyribonucleotide(n) + deoxyribonucleotide(m) = AMP + diphosphate + deoxyribonucleotide(n+m)."
+GO:0004618,"Catalysis of the reaction: 3-phospho-D-glycerate + ATP = 3-phospho-D-glyceroyl phosphate + ADP + H+."
+GO:0004672,"Catalysis of the phosphorylation of an amino acid residue in a protein, usually according to the reaction: a protein + ATP = a phosphoprotein + ADP."
+GO:0004748,"Catalysis of the reaction: 2'-deoxyribonucleoside diphosphate + thioredoxin disulfide + H2O = ribonucleoside diphosphate + thioredoxin. Thioredoxin disulfide is the oxidized form of thioredoxin."
+GO:0004523,"Catalysis of the endonucleolytic cleavage of RNA in RNA-DNA hybrids to 5'-phosphomonoesters."
+GO:0003909,"Catalysis of the formation of a phosphodiester bond between the 3'-hydroxyl group at the end of one DNA chain and the 5'-phosphate group at the end of another. This reaction requires an energy source such as ATP or NAD+."
+GO:0008296,"Catalysis of the sequential cleavage of mononucleotides from a free 3' terminus of a DNA molecule."
+GO:0004527,"Catalysis of the hydrolysis of ester linkages within nucleic acids by removing nucleotide residues from the 3' or 5' end."
+GO:0035605,"Catalysis of the transfer of a nitric oxide (NO) group to a sulphur atom within a cysteine residue of a protein."
+GO:0004619,"Catalysis of the reaction: 2-phospho-D-glycerate = 3-phospho-D-glycerate."
+GO:0047134,"Catalysis of the reaction: protein-dithiol + NAD(P)+ = protein-disulfide + NAD(P)H + H+."
+GO:0035173,"Catalysis of the transfer of a phosphate group to a histone."
+GO:0004634,"Catalysis of the reaction: 2-phospho-D-glycerate = phosphoenolpyruvate + H2O."
+GO:0051920,"Catalysis of the reaction: [protein]-dithol + ROOH = [protein]-disulfide + H2O + ROH."
+GO:0008929,"Catalysis of the reaction: glycerone phosphate = methylglyoxal + phosphate."
+GO:0047499,"Catalysis of the reaction: phosphatidylcholine + H2O = 1-acylglycerophosphocholine + a carboxylate. This reaction does not require Ca2+."
+GO:0017116,"Catalysis of the reaction: ATP + H2O = ADP + phosphate, in the presence of single-stranded DNA; drives the unwinding of a DNA helix."
+GO:0003886,"Catalysis of the reaction: S-adenosyl-L-methionine + DNA containing cytosine = S-adenosyl-L-homocysteine + DNA containing 5-methylcytosine."
+GO:0016853,"Catalysis of the geometric or structural changes within one molecule. Isomerase is the systematic name for any enzyme of EC class 5."
+GO:0004807,"Catalysis of the reaction: D-glyceraldehyde 3-phosphate = glycerone phosphate."
+GO:0005260,"Enables passage of a chloride ion through a transmembrane channel that opens when ATP is bound by the channel complex or one of its constituent parts on the intracellular side of the plasma membrane."
+GO:0005385,"Enables the transfer of zinc (Zn) ions from one side of a membrane to the other."
+GO:0003689,"Facilitating the opening of the ring structure of the PCNA complex, or any of the related sliding clamp complexes, and their closing around the DNA duplex, driven by ATP hydrolysis."
+GO:0015108,"Enables the transfer of chloride ions from one side of a membrane to the other."
+GO:0016538,"Modulates the activity of a cyclin-dependent protein serine/threonine kinase, enzymes of the protein kinase family that are regulated through association with cyclins and other proteins."
+GO:0015106,"Enables the transfer of bicarbonate from one side of a membrane to the other. Bicarbonate is the hydrogencarbonate ion, HCO3-."
+GO:0005254,"Enables the facilitated diffusion of a chloride (by an energy-independent process) involving passage through a transmembrane aqueous pore or channel without evidence for a carrier-mediated mechanism."
+GO:0140826,"Enables the transfer of zinc from one side of a membrane to the other according to the reaction: H+(out) + Zn2+(in) = H+(in) + Zn2+(out)."
+GO:0043225,"Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + inorganic anion(out) = ADP + phosphate + inorganic anion(in)."
+GO:0005262,"Enables the facilitated diffusion of a calcium ion (by an energy-independent process) involving passage through a transmembrane aqueous pore or channel without evidence for a carrier-mediated mechanism."
+GO:0061860,"Facilitating the opening of the ring structure of the PCNA complex, or any of the related sliding clamp complexes, and their removal from the DNA duplex, driven by ATP hydrolysis."
+GO:0003723,"Binding to an RNA molecule or a portion thereof."
+GO:0030983,"Binding to a double-stranded DNA region containing one or more mismatches."
+GO:0044325,"Binding to a transmembrane transporter, a protein or protein complex that enables the transfer of a substance, usually a specific substance or a group of related substances, from one side of a membrane to the other."
+GO:0061629,"Binding to a sequence-specific DNA binding RNA polymerase II transcription factor, any of the factors that interact selectively and non-covalently with a specific DNA sequence in order to modulate transcription."
+GO:0047485,"Binding to a protein N-terminus, the end of any peptide chain at which the 2-amino (or 2-imino) function of a constituent amino acid is not attached in peptide linkage to another amino-acid residue."
+GO:0005515,"Binding to a protein."
+GO:1905773,"Binding to 8-hydroxy-2'-deoxyguanosine an oxidized purine residue found in damaged DNA."
+GO:0015631,"Binding to monomeric or multimeric forms of tubulin, including microtubules."
+GO:0003684,"Binding to damaged DNA."
+GO:0046875,"Binding to an ephrin receptor."
+GO:0045296,"Binding to cadherin, a type I membrane protein involved in cell adhesion."
+GO:0043125,"Binding to the protein-tyrosine kinase receptor ErbB-3/HER3."
+GO:0001221,"Binding to a transcription coregulator, a protein involved in regulation of transcription via protein-protein interactions with transcription factors and other transcription regulatory proteins. Cofactors do not bind DNA directly, but rather mediate protein-protein interactions between regulatory transcription factors and the basal transcription machinery."
+GO:0070182,"Binding to a DNA polymerase."
+GO:0005525,"Binding to GTP, guanosine triphosphate."
+GO:0030145,"Binding to a manganese ion (Mn)."
+GO:0031267,"Binding to a small monomeric GTPase."
+GO:0003690,"Binding to double-stranded DNA."
+GO:0042802,"Binding to an identical protein or proteins."
+GO:0031593,"Binding to a protein upon poly-ubiquitination of the target protein."
+GO:0097718,"Binding to a disordered domain of a protein."
+GO:0030332,"Binding to cyclins, proteins whose levels in a cell varies markedly during the cell cycle, rising steadily until mitosis, then falling abruptly to zero. As cyclins reach a threshold level, they are thought to drive cells into G2 phase and thus to mitosis."
+GO:0003676,"Binding to a nucleic acid."
+GO:0046790,"Binding to a virion, either by binding to components of the capsid or the viral envelope."
+GO:0005509,"Binding to a calcium ion (Ca2+)."
+GO:0001006,"Binding to a sequence of DNA that is a part of a type 3 promoter that controls transcription by RNA polymerase III (Pol III). A type 3 Pol III promoter is composed of elements upstream of the transcription start site, including a TATA box. The human U6 snRNA gene has a type 3 promoter. Type 3 Pol III promoters have not been observed in S. cerevisiae."
+GO:0008134,"Binding to a transcription factor, a protein required to initiate or regulate transcription."
+GO:0043565,"Binding to DNA of a specific nucleotide composition, e.g. GC-rich DNA binding, or with a specific sequence motif or type of DNA e.g. promotor binding or rDNA binding."
+GO:0000149,"Binding to a SNARE (soluble N-ethylmaleimide-sensitive factor attached protein receptor) protein."
+GO:0042277,"Binding to a peptide, an organic compound comprising two or more amino acids linked by peptide bonds."
+GO:0019869,"Binds to and stops, prevents, or reduces the activity of a chloride channel."
+GO:0046872,"Binding to a metal ion."
+GO:0071535,"Binding to a RING-like zinc finger domain domain of a protein. The RING-like domain is a zinc finger domain that is related to the C3HC4 RING finger domain."
+GO:0004861,"Binds to and stops, prevents or reduces the activity of a cyclin-dependent protein serine/threonine kinase."
+GO:0000166,"Binding to a nucleotide, any compound consisting of a nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose or deoxyribose."
+GO:0019900,"Binding to a kinase, any enzyme that catalyzes the transfer of a phosphate group."
+GO:0070061,"Binding to the D- or L-enantiomer of fructose, the ketohexose arabino-hex-2-ulose."
+GO:0000994,"Binding to an RNA polymerase III core enzyme, a multisubunit eukaryotic nuclear RNA polymerase typically composed of seventeen subunits."
+GO:0019834,"Binds to and stops, prevents or reduces the activity of phospholipase A2."
+GO:0008092,"Binding to a protein component of a cytoskeleton (actin, microtubule, or intermediate filament cytoskeleton)."
+GO:0030165,"Binding to a PDZ domain of a protein, a domain found in diverse signaling proteins."
+GO:0046982,"Binding to a nonidentical protein to form a heterodimer."
+GO:0032553,"Binding to a ribonucleotide, any compound consisting of a ribonucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose moiety."
+GO:0070530,"Binding to a protein upon poly-ubiquitination formed by linkages between lysine residues at position 63 in the target protein."
+GO:0044877,"Binding to a macromolecular complex."
+GO:0005102,"Binding to one or more specific sites on a receptor molecule, a macromolecule that undergoes combination with a hormone, neurotransmitter, drug or intracellular messenger to initiate a change in cell function."
+GO:0048306,"Binding to a protein or protein complex in the presence of calcium."
+GO:1904713,"Binding to a beta-catenin destruction complex."
+GO:0030331,"Binding to a nuclear estrogen receptor."
+GO:0019828,"Binds to and stops, prevents or reduces the activity of aspartic-type endopeptidases."
+GO:0032405,"Binding to a MutLalpha mismatch repair complex."
+GO:0001222,"Binding to a transcription corepressor, a protein involved in negative regulation of transcription via protein-protein interactions with transcription factors and other proteins that negatively regulate transcription. Transcription corepressors do not bind DNA directly, but rather mediate protein-protein interactions between repressing transcription factors and the basal transcription machinery."
+GO:0031625,"Binding to a ubiquitin protein ligase enzyme, any of the E3 proteins."
+GO:0140311,"Binding to a protein to prevent it from interacting with other partners or to inhibit its localization to the area of the cell or complex where it is active."
+GO:0098770,"Binding to a member of the FBXO protein family. Members of this family have an F-box protein motif of approximately 50 amino acids that functions as a site of protein-protein interaction."
+GO:0008270,"Binding to a zinc ion (Zn)."
+GO:0019904,"Binding to a specific domain of a protein."
+GO:0097602,"Binding to a member of the cullin family, hydrophobic proteins that act as scaffolds for ubiquitin ligases (E3)."
+GO:0030971,"Binding to a receptor that possesses protein tyrosine kinase activity."
+GO:0001002,"Binding to a sequence of DNA that is a part of a type 1 promoter that controls transcription by RNA polymerase III. Type 1 promoters are found in 5S rRNA genes, downstream of the transcription start site within the sequence of the mature RNA, and require TFIIIA for recognition."
+GO:0043130,"Binding to ubiquitin, a protein that when covalently bound to other cellular proteins marks them for proteolytic degradation."
+GO:0042803,"Binding to an identical protein to form a homodimer."
+GO:0030544,"Binding to a Hsp70 protein, heat shock proteins around 70kDa in size."
+GO:0019899,"Binding to an enzyme, a protein with catalytic activity."
+GO:0008201,"Binding to heparin, a member of a group of glycosaminoglycans found mainly as an intracellular component of mast cells and which consist predominantly of alternating alpha-(1->4)-linked D-galactose and N-acetyl-D-glucosamine-6-sulfate residues."
+GO:0098505,"Binding to G-rich, single-stranded, telomere-associated DNA."
+GO:0000403,"Binding to a DNA segment shaped like a Y. This shape occurs when DNA contains a region of paired double-stranded DNA on one end and a region of unpaired DNA strands on the opposite end."
+GO:0019843,"Binding to a ribosomal RNA."
+GO:0051018,"Binding to a protein kinase A."
+GO:0051020,"Binding to a GTPase, any enzyme that catalyzes the hydrolysis of GTP."
+GO:0044388,"Binding to a small protein activating enzyme, such as ubiquitin-activating enzyme."
+GO:0039706,"Binding to a coreceptor. A coreceptor acts in cooperation with a primary receptor to transmit a signal within the cell."
+GO:0043531,"Binding to ADP, adenosine 5'-diphosphate."
+GO:0042393,"Binding to a histone, any of a group of water-soluble proteins found in association with the DNA of eukaryotic or archaeal chromosomes. They are involved in the condensation and coiling of chromosomes during cell division and have also been implicated in gene regulation and DNA replication. They may be chemically modified (methylated, acetlyated and others) to regulate gene transcription."
+GO:0001671,"Binds to and increases the activity of an ATP hydrolysis activity."
+GO:0000400,"Binding to a DNA segment containing four-way junctions, also known as Holliday junctions, a structure where two DNA double strands are held together by reciprocal exchange of two of the four strands, one strand each from the two original helices."
+GO:0003688,"Binding to a DNA replication origin, a unique DNA sequence of a replicon at which DNA replication is initiated and proceeds bidirectionally or unidirectionally."
+GO:0030276,"Binding to a clathrin heavy or light chain, the main components of the coat of coated vesicles and coated pits, and which also occurs in synaptic vesicles."
+GO:0023026,"Binding to a class II major histocompatibility complex."
+GO:0070337,"Binding to a 3'-flap structure in DNA. A DNA flap structure is one in which a single-stranded 3'-end of DNA or RNA protrudes from a double-stranded DNA molecule."
+GO:0051879,"Binding to Hsp90 proteins, any of a group of heat shock proteins around 90kDa in size."
+GO:0043047,"Binding to single-stranded telomere-associated DNA."
+GO:0036479,"Binds to and stops, prevents or reduces the activity of peroxidase."
+GO:0000405,"Binding to DNA segment that contains a bubble. A bubble occurs when DNA contains a region of unpaired, single-stranded DNA flanked on both sides by regions of paired, double-stranded DNA."
+GO:0050661,"Binding to nicotinamide-adenine dinucleotide phosphate, a coenzyme involved in many redox and biosynthetic reactions; binding may be to either the oxidized form, NADP+, or the reduced form, NADPH."
+GO:0051082,"Binding to an unfolded protein."
+GO:0004867,"Binds to and stops, prevents or reduces the activity of a serine-type endopeptidase."
+GO:0005176,"Binding to a protein-tyrosine kinase receptor Neu/ErbB-2/HER2."
+GO:0005524,"Binding to ATP, adenosine 5'-triphosphate, a universally important coenzyme and enzyme regulator."
+GO:0003682,"Binding to chromatin, the network of fibers of DNA, protein, and sometimes RNA, that make up the chromosomes of the eukaryotic nucleus during interphase."
+GO:0019903,"Binding to a protein phosphatase."
+GO:0042609,"Binding to a CD4, a receptor found on the surface of T cells, monocytes and macrophages."
+GO:0043398,"Binding to a Helix Loop Helix domain, a domain of 40-50 residues that occurs in specific DNA-binding proteins that act as transcription factors. The domain is formed of two amphipathic helices joined by a variable length linker region that can form a loop and it mediates protein dimerization."
+GO:0051539,"Binding to a 4 iron, 4 sulfur (4Fe-4S) cluster; this cluster consists of four iron atoms, with the inorganic sulfur atoms found between the irons and acting as bridging ligands."
+GO:0005096,"Binds to and increases the activity of a GTPase, an enzyme that catalyzes the hydrolysis of GTP."
+GO:0008017,"Binding to a microtubule, a filament composed of tubulin monomers."
+GO:0017081,"Binds to and modulates the activity of a chloride channel."
+GO:0002020,"Binding to a protease or a peptidase."
+GO:0005544,"Binding to a phospholipid, a class of lipids containing phosphoric acid as a mono- or diester, in the presence of calcium."
+GO:0004860,"Binds to and stops, prevents or reduces the activity of a protein kinase."
+GO:0051059,"Binding to NF-kappaB, a transcription factor for eukaryotic RNA polymerase II promoters."
+GO:0008022,"Binding to a protein C-terminus, the end of a peptide chain at which the 1-carboxyl function of a constituent amino acid is not attached in peptide linkage to another amino-acid residue."
+GO:0061849,"Binding to telomeric G-quadruplex DNA structures, in which groups of four guanines adopt a flat, cyclic Hoogsteen hydrogen-bonding arrangement known as a guanine tetrad. The stacking of guanine tetrads results in G-quadruplex DNA structures in telomeres."
+GO:0003697,"Binding to single-stranded DNA."
+GO:0032139,"Binding to a double-stranded DNA region containing a dinucleotide insertion or deletion."
+GO:0051880,"Binding to G-quadruplex DNA structures, in which groups of four guanines adopt a flat, cyclic Hoogsteen hydrogen-bonding arrangement known as a guanine tetrad. The stacking of guanine tetrads results in G-quadruplex DNA structures. G-quadruplex DNA can form under physiological conditions from some G-rich sequences, such as those found in telomeres, immunoglobulin switch regions, gene promoters, fragile X repeats, and the dimerization domain in the human immunodeficiency virus (HIV) genome."
+GO:0003779,"Binding to monomeric or multimeric forms of actin, including actin filaments."
+GO:0002039,"Binding to one of the p53 family of proteins."
+GO:0008327,"Binding to a methylated cytosine/guanine dinucleotide."
+GO:0019901,"Binding to a protein kinase, any enzyme that catalyzes the transfer of a phosphate group, usually from ATP, to a protein substrate."
+GO:1990841,"Binding to a section of chromatin that is associated with gene promoter sequences of DNA."
+GO:0000977,"Binding to a specific sequence of DNA that is part of a regulatory region that controls the transcription of a gene or cistron by RNA polymerase II."
+GO:0035064,"Binding to a histone in which a residue has been modified by methylation."
+GO:0042826,"Binding to histone deacetylase."
+GO:0106138,"Binding to a Sec61 translocon complex."
+GO:0070064,"Binding to a proline-rich region, i.e. a region that contains a high proportion of proline residues, in a protein."
+GO:0008047,"Binds to and increases the activity of an enzyme."
+GO:0035035,"Binding to an histone acetyltransferase."
+GO:0017075,"Binding to a syntaxin-1 SNAP receptor."
+GO:0019237,"Binding to a centromere, a region of chromosome where the spindle fibers attach during mitosis and meiosis."
+GO:0044548,"Binding to a S100 protein. S100 is a small calcium and zinc binding protein produced in astrocytes that is implicated in Alzheimer's disease, Down Syndrome and ALS."
+GO:0035091,"Binding to an inositol-containing glycerophospholipid, i.e. phosphatidylinositol (PtdIns) and its phosphorylated derivatives."
+GO:0008139,"Binding to a nuclear localization sequence, a specific peptide sequence that acts as a signal to localize the protein within the nucleus."
+GO:0001003,"Binding to a sequence of DNA that is a part of a type 2 promoter that controls transcription by RNA polymerase III. Type 2 promoters consist of an A box and a B box downstream of the transcription start site within the sequence within the sequence of the mature RNA. Type 2 promoters are found in many tRNA genes as well as in other small RNAs."
+GO:0005507,"Binding to a copper (Cu) ion."
+GO:0051087,"Binding to a chaperone protein, a class of proteins that bind to nascent or unfolded polypeptides and ensure correct folding or transport."
+GO:0005546,"Binding to phosphatidylinositol-4,5-bisphosphate, a derivative of phosphatidylinositol in which the inositol ring is phosphorylated at the 4' and 5' positions."
+GO:0051287,"Binding to nicotinamide adenine dinucleotide, a coenzyme involved in many redox and biosynthetic reactions; binding may be to either the oxidized form, NAD+, or the reduced form, NADH."
+GO:0000287,"Binding to a magnesium (Mg) ion."
+GO:0000049,"Binding to a transfer RNA."
+GO:0048156,"Binding to tau protein. tau is a microtubule-associated protein, implicated in Alzheimer's disease, Down Syndrome and ALS."
+GO:0032137,"Binding to a double-stranded DNA region containing a G/T mispair."
+GO:0061821,"Binding to a telomeric D-loop. A telomeric D-loop is a three-stranded DNA displacement loop that forms at the site where the telomeric 3' single-stranded DNA overhang (formed of the repeat sequence TTAGGG in mammals) is tucked back inside the double-stranded component of telomeric DNA molecule, thus forming a t-loop or telomeric-loop and protecting the chromosome terminus."
+GO:0001786,"Binding to phosphatidylserine, a class of glycophospholipids in which a phosphatidyl group is esterified to the hydroxyl group of L-serine."
+GO:0003714,"A transcription coregulator activity that represses or decreases the transcription of specific gene sets via binding to a DNA-bound DNA-binding transcription factor, either on its own or as part of a complex. Corepressors often act by altering chromatin structure and modifications. For example, one class of transcription corepressors modifies chromatin structure through covalent modification of histones. A second class remodels the conformation of chromatin in an ATP-dependent fashion. A third class modulates interactions of DNA-bound DNA-binding transcription factors with other transcription coregulators."
+GO:0003713,"A transcription coregulator activity that activates or increases the transcription of specific gene sets via binding to a DNA-bound DNA-binding transcription factor, either on its own or as part of a complex. Coactivators often act by altering chromatin structure and modifications. For example, one class of transcription coactivators modifies chromatin structure through covalent modification of histones. A second class remodels the conformation of chromatin in an ATP-dependent fashion. A third class modulates interactions of DNA-bound DNA-binding transcription factors with other transcription coregulators. A fourth class of coactivator activity is the bridging of a DNA-binding transcription factor to the general (basal) transcription machinery. The Mediator complex, which bridges sequence-specific DNA binding transcription factors and RNA polymerase, is also a transcription coactivator."
+GO:0061656,"Isoenergetic transfer of SUMO from one protein to another via the reaction X-SUMO + Y -> Y-SUMO + X, where both the X-SUMO and Y-SUMO linkages are thioester bonds between the C-terminal amino acid of SUMO and a sulfhydryl side group of a cysteine residue."
+GO:0004888,"Combining with an extracellular or intracellular signal and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity or state as part of signal transduction."
+GO:0001618,"Combining with a virus component and mediating entry of the virus into the cell."

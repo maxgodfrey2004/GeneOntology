@@ -1,154 +1,154 @@
-GO:0005657,The Y-shaped region of a replicating DNA molecule, resulting from the separation of the DNA strands and in which the synthesis of new strands takes place. Also includes associated protein complexes.
-GO:0043596,The Y-shaped region of a nuclear replicating DNA molecule, resulting from the separation of the DNA strands and in which the synthesis of new strands takes place. Also includes associated protein complexes.
-GO:0001726,Projection at the leading edge of a crawling cell; the protrusions are supported by a microfilament meshwork.
-GO:0005912,A cell-cell junction composed of the epithelial cadherin-catenin complex. The epithelial cadherins, or E-cadherins, of each interacting cell extend through the plasma membrane into the extracellular space and bind to each other. The E-cadherins bind to catenins on the cytoplasmic side of the membrane, where the E-cadherin-catenin complex binds to cytoskeletal components and regulatory and signaling molecules.
-GO:0005925,A cell-substrate junction that anchors the cell to the extracellular matrix and that forms a point of termination of actin filaments. In insects focal adhesion has also been referred to as hemi-adherens junction (HAJ).
-GO:0030054,A cellular component that forms a specialized region of connection between two or more cells, or between a cell and the extracellular matrix, or between two membrane-bound components of a cell, such as flagella.
-GO:0000228,A chromosome that encodes the nuclear genome and is found in the nucleus of a eukaryotic cell during the cell cycle phases when the nucleus is intact.
-GO:0016605,A class of nuclear body; they react against SP100 auto-antibodies (PML, promyelocytic leukemia); cells typically contain 10-30 PML bodies per nucleus; alterations in the localization of PML bodies occurs after viral infection.
-GO:0015030,A class of nuclear body, first seen after silver staining by Ramon y Cajal in 1903, enriched in small nuclear ribonucleoproteins, and certain general RNA polymerase II transcription factors; ultrastructurally, they appear as a tangle of coiled, electron-dense threads roughly 0.5 micrometers in diameter; involved in aspects of snRNP biogenesis; the protein coilin serves as a marker for Cajal bodies. Some argue that Cajal bodies are the sites for preassembly of transcriptosomes, unitary particles involved in transcription and processing of RNA.
-GO:0005604,A collagen-containing extracellular matrix consisting of a thin layer of dense material found in various animal tissues interposed between the cells and the adjacent connective tissue. It consists of the basal lamina plus an associated layer of reticulin fibers.
-GO:0005737,The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
-GO:0005902,Thin cylindrical membrane-covered projections on the surface of an animal cell containing a core bundle of actin filaments. Present in especially large numbers on the absorptive surface of intestinal cells.
-GO:0016363,The dense fibrillar network lying on the inner side of the nuclear membrane.
-GO:0016234,A discrete intracellular part formed of aggregated molecules such as proteins or other biopolymers.
-GO:0016607,A discrete extra-nucleolar subnuclear domain, 20-50 in number, in which splicing factors are seen to be localized by immunofluorescence microscopy.
-GO:0005635,The double lipid bilayer enclosing the nucleus and separating its contents from the rest of the cytoplasm; includes the intermembrane space, a gap of width 20-40 nm (also called the perinuclear space).
-GO:0014069,An electron dense network of proteins within and adjacent to the postsynaptic membrane of an asymmetric, neuron-neuron synapse. Its major components include neurotransmitter receptors and the proteins that spatially and functionally organize them such as anchoring and scaffolding molecules, signaling enzymes and cytoskeletal components.
-GO:0000781,The end of a linear chromosome, required for the integrity and maintenance of the end. A chromosome telomere usually includes a region of telomerase-encoded repeats the length of which rarely exceeds 20 bp each and that permits the formation of a telomeric loop (T-loop). The telomeric repeat region is usually preceded by a sub-telomeric region that is gene-poor but rich in repetitive elements. Some telomeres only consist of the latter part (for eg. D. melanogaster telomeres).
-GO:0070971,An endoplasmic reticulum part at which COPII-coated vesicles are produced.
-GO:0030337,An enzyme regulator activity that increases the processivity of polymerization by DNA polymerase, by allowing the polymerase to move rapidly along DNA while remaining topologically bound to it.
-GO:0032473,The external (cytoplasmic) face of the mitochondrial outer membrane.
-GO:0009986,The external part of the cell wall and/or plasma membrane.
-GO:0062023,An extracellular matrix consisting mainly of proteins (especially collagen) and glycosaminoglycans (mostly as proteoglycans) that provides not only essential physical scaffolding for the cellular constituents but can also initiate crucial biochemical and biomechanical cues required for tissue morphogenesis, differentiation and homeostasis. The components are secreted by cells in the vicinity and form a sheet underlying or overlying cells such as endothelial and epithelial cells.
-GO:0005652,The fibrous, electron-dense layer lying on the nucleoplasmic side of the inner membrane of a cell nucleus, composed of lamin filaments. The polypeptides of the lamina are thought to be concerned in the dissolution of the nuclear envelope and its re-formation during mitosis. The lamina is composed of lamin A and lamin C filaments cross-linked into an orthogonal lattice, which is attached via lamin B to the inner nuclear membrane through interactions with a lamin B receptor, an IFAP, in the membrane.
-GO:0005759,The gel-like material, with considerable fine structure, that lies in the matrix space, or lumen, of a mitochondrion. It contains the enzymes of the tricarboxylic acid cycle and, in some organisms, the enzymes concerned with fatty acid oxidation.
-GO:0000794,A highly compacted molecule of DNA and associated proteins resulting in a cytologically distinct nuclear chromosome.
-GO:0000793,A highly compacted molecule of DNA and associated proteins resulting in a cytologically distinct structure.
-GO:0016235,An inclusion body formed by dynein-dependent retrograde transport of an aggregated protein on microtubules.
-GO:0043195,Terminal inflated portion of the axon, containing the specialized apparatus necessary to release neurotransmitters. The axon terminus is considered to be the whole region of thickening and the terminal bouton is a specialized region of it.
-GO:0005743,The inner, i.e. lumen-facing, lipid bilayer of the mitochondrial envelope. It is highly folded to form cristae.
-GO:0005815,An intracellular structure that can catalyze gamma-tubulin-dependent microtubule nucleation and that can anchor microtubules by interacting with their minus ends, plus ends or sides.
-GO:0005811,An intracellular non-membrane-bounded organelle comprising a matrix of coalesced lipids surrounded by a phospholipid monolayer. May include associated proteins.
-GO:0042405,An intranuclear focus at which aggregated proteins have been sequestered.
-GO:0005783,The irregular network of unit membranes, visible only by electron microscopy, that occurs in the cytoplasm of many eukaryotic cells. The membranes form a complex meshwork of tubular channels, which are often expanded into slitlike cavities called cisternae. The ER takes two forms, rough (or granular), with ribosomes adhering to the outer surface, and smooth (with no ribosomes attached).
-GO:0031594,The junction between the axon of a motor neuron and a muscle fiber. In response to the arrival of action potentials, the presynaptic button releases molecules of neurotransmitters into the synaptic cleft. These diffuse across the cleft and transmit the signal to the postsynaptic membrane of the muscle fiber, leading to a change in post-synaptic potential.
-GO:0009897,The leaflet of the plasma membrane that faces away from the cytoplasm and any proteins embedded or anchored in it or attached to its surface.
-GO:0030658,The lipid bilayer surrounding a transport vesicle.
-GO:0010008,The lipid bilayer surrounding an endosome.
-GO:0055038,The lipid bilayer surrounding a recycling endosome.
-GO:0031902,The lipid bilayer surrounding a late endosome.
-GO:0005765,The lipid bilayer surrounding the lysosome and separating its contents from the cell cytoplasm.
-GO:0030669,The lipid bilayer surrounding a clathrin-coated endocytic vesicle.
-GO:0000139,The lipid bilayer surrounding any of the compartments of the Golgi apparatus.
-GO:0012507,The lipid bilayer surrounding a vesicle transporting substances from the endoplasmic reticulum to the Golgi.
-GO:0005789,The lipid bilayer surrounding the endoplasmic reticulum.
-GO:0030660,The lipid bilayer surrounding a vesicle associated with the Golgi apparatus.
-GO:0016020,A lipid bilayer along with all the proteins and protein complexes embedded in it an attached to it.
-GO:0031901,The lipid bilayer surrounding an early endosome.
-GO:0030670,The lipid bilayer surrounding a phagocytic vesicle.
-GO:0030667,The lipid bilayer surrounding a secretory granule.
-GO:0030672,The lipid bilayer surrounding a synaptic vesicle.
-GO:0030424,The long process of a neuron that conducts nerve impulses, usually away from the cell body to the terminals and varicosities, which are sites of storage and release of neurotransmitter.
-GO:0099400,A membrane microdomain that forms a necklace around the bulb (crater) of a caveola.  Intramembrane particles are concentrated in this region and cytoskeletal components, including actin, are highly enriched in the area underlying it.
-GO:0005886,The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
-GO:0005794,A membrane-bound cytoplasmic organelle of the endomembrane system that further processes the core oligosaccharides (e.g. N-glycans) added to proteins in the endoplasmic reticulum and packages them into membrane-bound vesicles. The Golgi apparatus operates at the intersection of the secretory, lysosomal, and endocytic pathways.
-GO:0097487,A membrane-bounded vesicle wholly contained within a multivesicular body.
-GO:0005769,A membrane-bounded organelle that receives incoming material from primary endocytic vesicles that have been generated by clathrin-dependent and clathrin-independent endocytosis; vesicles fuse with the early endosome to deliver cargo for sorting into recycling or degradation pathways.
-GO:0005634,A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
-GO:1904813,Any membrane-enclosed lumen that is part of a ficolin-1-rich granule.
-GO:1904724,Any membrane-enclosed lumen that is part of a tertiary granule.
-GO:0005876,Any microtubule that is part of a mitotic or meiotic spindle; anchored at one spindle pole.
-GO:0031430,The midline of aligned thick filaments in a sarcomere; location of specific proteins that link thick filaments. Depending on muscle type the M band consists of different numbers of M lines.
-GO:0030426,The migrating motile tip of a growing neuron projection, where actin accumulates, and the actin cytoskeleton is the most dynamic.
-GO:0000776,A multisubunit complex that is located at the centromeric region of DNA and provides an attachment point for the spindle microtubules.
-GO:0005802,The network of interconnected tubular and cisternal structures located within the Golgi apparatus on the side distal to the endoplasmic reticulum, from which secretory vesicles emerge. The trans-Golgi network is important in the later stages of protein secretion where it is thought to play a key role in the sorting and targeting of secreted proteins to the correct destination.
-GO:0030425,A neuron projection that has a short, tapering, morphology. Dendrites receive and integrate signals from other neurons or from sensory stimuli, and conduct nerve impulses towards the axon or the cell body. In most neurons, the impulse is conveyed from dendrites to axon via the cell body, but in some types of unipolar neuron, the impulse does not travel via the cell body.
-GO:0016604,Extra-nucleolar nuclear domains usually visualized by confocal microscopy and fluorescent antibodies to specific proteins.
-GO:0001674,The nucleus of the female germ cell, a reproductive cell in females.
-GO:0001673,The nucleus of a male germ cell, a reproductive cell in males.
-GO:0005923,An occluding cell-cell junction that is composed of a branching network of sealing strands that completely encircles the apical end of each cell in an epithelial sheet; the outer leaflets of the two interacting plasma membranes are seen to be tightly apposed where sealing strands are present. Each sealing strand is composed of a long row of transmembrane adhesion proteins embedded in each of the two interacting plasma membranes.
-GO:0031965,Either of the lipid bilayers that surround the nucleus and form the nuclear envelope; excludes the intermembrane space.
-GO:0031966,Either of the lipid bilayers that surround the mitochondrion and form the mitochondrial envelope.
-GO:0032839,All of the contents of a dendrite, excluding the surrounding plasma membrane.
-GO:0000701,Catalysis of the removal of purines present in mismatches, especially opposite oxidized purines, by cleaving the N-C1' glycosidic bond between the target damaged DNA base and the deoxyribose sugar. The reaction releases a free base and leaves an apurinic (AP) site.
-GO:0045121,Any of the small (10-200 nm), heterogeneous, highly dynamic, sterol- and sphingolipid-enriched membrane domains that compartmentalize cellular processes. Small rafts can sometimes be stabilized to form larger platforms through protein-protein and protein-lipid interactions.
-GO:0000785,The ordered and organized complex of DNA, protein, and sometimes RNA, that forms the chromosome.
-GO:0055037,An organelle consisting of a network of tubules that functions in targeting molecules, such as receptors transporters and lipids, to the plasma membrane.
-GO:0044753,Intermediate organelles formed during macroautophagy through the fusion between autophagosomes and endosomes.
-GO:0042383,The outer membrane of a muscle cell, consisting of the plasma membrane, a covering basement membrane (about 100 nm thick and sometimes common to more than one fiber), and the associated loose network of collagen fibers.
-GO:0005741,The outer, i.e. cytoplasm-facing, lipid bilayer of the mitochondrial envelope.
-GO:0005640,The outer, i.e. cytoplasm-facing, lipid bilayer of the nuclear envelope; continuous with the endoplasmic reticulum of the cell and sometimes studded with ribosomes.
-GO:0098794,The part of a synapse that is part of the post-synaptic cell.
-GO:0098793,The part of a synapse that is part of the presynaptic cell.
-GO:0015629,The part of the cytoskeleton (the internal framework of a cell) composed of actin and associated proteins. Includes actin cytoskeleton-associated complexes.
-GO:0015630,The part of the cytoskeleton (the internal framework of a cell) composed of microtubules and associated proteins.
-GO:0005829,The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes.
-GO:0005615,That part of a multicellular organism outside the cells proper, usually taken to be outside the plasma membranes, and occupied by fluid.
-GO:0005654,That part of the nuclear content other than the chromosomes or the nucleolus.
-GO:0061827,The part of the late spermatid or spermatozoon that contains the nucleus and acrosome.
-GO:0032587,The portion of the plasma membrane surrounding a ruffle.
-GO:0043204,The portion of the cell soma (neuronal cell body) that excludes the nucleus.
-GO:0030864,The portion of the actin cytoskeleton, comprising filamentous actin and associated proteins, that lies just beneath the plasma membrane.
-GO:0043025,The portion of a neuron that includes the nucleus, but excludes cell projections such as axons and dendrites.
-GO:0043005,A prolongation or process extending from a nerve cell, e.g. an axon or dendrite.
-GO:0000800,A proteinaceous core found between sister chromatids during meiotic prophase.
-GO:0000795,A proteinaceous scaffold found between homologous chromosomes during meiosis. It consists of 2 lateral elements and a central element, all running parallel to each other. Transverse filaments connect the lateral elements to the central element.
-GO:0090734,A region of a chromosome at which DNA damage has occurred. DNA damage signaling and repair proteins accumulate at the lesion to respond to the damage and repair the DNA to form a continuous DNA helix.
-GO:0035749,The region of the myelin sheath nearest to the axon.
-GO:0031674,A region of a sarcomere that appears as a light band on each side of the Z disc, comprising a region of the sarcomere where thin (actin) filaments are not overlapped by thick (myosin) filaments; contains actin, troponin, and tropomyosin; each sarcomere includes half of an I band at each end.
-GO:0099523,The region of the cytosol consisting of all cytosol that is part of the presynapse.
-GO:0016324,The region of the plasma membrane located at the apical end of the cell.
-GO:0005938,The region of a cell that lies just beneath the plasma membrane and often, but not always, contains a network of actin filaments and associated proteins.
-GO:0016323,The region of the plasma membrane that includes the basal end and sides of the cell. Often used in reference to animal polarized epithelial membranes, where the basal membrane is the part attached to the extracellular matrix, or in plant cells, where the basal membrane is defined with respect to the zygotic axis.
-GO:0035861,A region of a chromosome at which a DNA double-strand break has occurred. DNA damage signaling and repair proteins accumulate at the lesion to respond to the damage and repair the DNA to form a continuous DNA helix.
-GO:0036464,A ribonucleoprotein granule located in the cytoplasm.
-GO:0005739,A semiautonomous, self replicating organelle that occurs in varying numbers, shapes, and sizes in the cytoplasm of virtually all eukaryotic cells. It is notably the site of tissue respiration.
-GO:0000806,The sex chromosome present in males of species in which the male is the heterogametic sex; generally, the sex chromosome that pairs with the X chromosome in the heterogametic sex. The Y chromosome is absent from the cells of females and present in one copy in the somatic cells of males.
-GO:0000805,The sex chromosome present in both sexes of species in which the male is the heterogametic sex. Two copies of the X chromosome are present in each somatic cell of females and one copy is present in males.
-GO:0098574,The side (leaflet) of the lysosomal membrane that faces the cytoplasm.
-GO:0048471,Cytoplasm situated near, or occurring around, the nucleus.
-GO:0005764,A small lytic vacuole that has cell cycle-independent morphology found in most animal cells and that contains a variety of hydrolases, most of which have their maximal activities in the pH range 5-6. The contained enzymes display latency if properly isolated. About 40 different lysosomal hydrolases are known and lysosomes have a great variety of morphologies and functions.
-GO:0030141,A small subcellular vesicle, surrounded by a membrane, that is formed from the Golgi apparatus and contains a highly concentrated protein destined for secretion. Secretory granules move towards the periphery of the cell and upon stimulation, their membranes fuse with the cell membrane, and their protein load is exteriorized. Processing of the contained protein may take place in secretory granules.
-GO:0005730,A small, dense body one or more of which are present in the nucleus of eukaryotic cells. It is rich in RNA and protein, is not bounded by a limiting membrane, and is not seen during mitosis. Its prime function is the transcription of the nucleolar DNA into 45S ribosomal-precursor RNA, the processing of this RNA into 5.8S, 18S, and 28S components of ribosomal RNA, and the association of these components with 5S RNA and proteins synthesized outside the nucleolus. This association results in the formation of ribonucleoprotein precursors; these pass into the cytoplasm and mature into the 40S and 60S subunits of the ribosome.
-GO:0031982,Any small, fluid-filled, spherical organelle enclosed by membrane.
-GO:0005576,The space external to the outermost structure of a cell. For cells without external protective or external encapsulating structures this refers to space outside of the plasma membrane. This term covers the host cell environment outside an intracellular parasite.
-GO:0072686,A spindle that forms as part of mitosis. Mitotic and meiotic spindles contain distinctive complements of proteins associated with microtubules.
-GO:0030175,Thin, stiff, actin-based protrusion extended by the leading edge of a motile cell such as a crawling fibroblast or amoeba, or an axonal or dendritic growth cone, or a dendritic shaft.
-GO:0005813,A structure comprised of a core structure (in most organisms, a pair of centrioles) and peripheral material from which a microtubule-based structure, such as a spindle apparatus, is organized. Centrosomes occur close to the nucleus during interphase in many eukaryotic cells, though in animal cells it changes continually during the cell-division cycle.
-GO:0005694,A structure composed of a very long molecule of DNA and associated proteins (e.g. histones) that carries hereditary information.
-GO:0043231,Organized structure of distinctive morphology and function, bounded by a single or double lipid bilayer membrane and occurring within the cell. Includes the nucleus, mitochondria, plastids, vacuoles, and vesicles. Excludes the plasma membrane.
-GO:0098685,A synapse between the Schaffer collateral axon of a CA3 pyramidal cell and a CA1 pyramidal cell.
-GO:0098978,A synapse that uses glutamate as a neurotransmitter.
-GO:0005721,Heterochromatin that is located adjacent to the CENP-A rich centromere 'central core' and characterized by methylated H3 histone at lysine 9 (H3K9me2/H3K9me3).
-GO:0030027,A thin sheetlike process extended by the leading edge of a migrating cell or extending cell process; contains a dense meshwork of actin filaments.
-GO:0030496,A thin cytoplasmic bridge formed between daughter cells at the end of cytokinesis. The midbody forms where the contractile ring constricts, and may persist for some time before finally breaking to complete cytokinesis.
-GO:0042470,A tissue-specific, membrane-bounded cytoplasmic organelle within which melanin pigments are synthesized and stored. Melanosomes are synthesized in melanocyte cells.
-GO:0005515,Binding to a protein.
-GO:0003682,Binding to chromatin, the network of fibers of DNA, protein, and sometimes RNA, that make up the chromosomes of the eukaryotic nucleus during interphase.
-GO:0032139,Binding to a double-stranded DNA region containing a dinucleotide insertion or deletion.
-GO:0042802,Binding to an identical protein or proteins.
-GO:0035035,Binding to an histone acetyltransferase.
-GO:0070182,Binding to a DNA polymerase.
-GO:0030971,Binding to a receptor that possesses protein tyrosine kinase activity.
-GO:0003684,Binding to damaged DNA.
-GO:0008022,Binding to a protein C-terminus, the end of a peptide chain at which the 1-carboxyl function of a constituent amino acid is not attached in peptide linkage to another amino-acid residue.
-GO:0030331,Binding to a nuclear estrogen receptor.
-GO:0044877,Binding to a macromolecular complex.
-GO:0032405,Binding to a MutLalpha mismatch repair complex.
-GO:0019899,Binding to an enzyme, a protein with catalytic activity.
-GO:0035985,A transcriptionally-silent heterochromatin structure present in senescent cells. Contains the condensed chromatin of one chromosome and is enriched for histone modifications. Thought to repress expression of proliferation-promoting genes.
-GO:0044754,A type of secondary lysosome in which a primary lysosome has fused with the outer membrane of an autophagosome. It is involved in the second step of autophagy in which it degrades contents with acidic lysosomal hydrolases.
-GO:0001533,A type of plasma membrane that has been modified through addition of distinct intracellular and extracellular components, including ceramide, found in cornifying epithelial cells (corneocytes).
-GO:0005768,A vacuole to which materials ingested by endocytosis are delivered.
-GO:0030140,A vesicle that mediates transport between the trans-Golgi network and other parts of the cell.
-GO:0005798,Any vesicle associated with the Golgi complex and involved in mediating transport within the Golgi or between the Golgi and other parts of the cell.
-GO:0031410,A vesicle found in the cytoplasm of a cell.
-GO:0070062,A vesicle that is released into the extracellular region by fusion of the limiting endosomal membrane of a multivesicular body with the plasma membrane. Extracellular exosomes, also simply called exosomes, have a diameter of about 40-100 nm.
-GO:0031093,The volume enclosed by the membrane of the platelet alpha granule.
-GO:0034774,The volume enclosed by the membrane of a secretory granule.
-GO:0035580,The volume enclosed by the membrane of a specific granule, a granule with a membranous, tubular internal structure, found primarily in mature neutrophil cells. Most are released into the extracellular fluid. Specific granules contain lactoferrin, lysozyme, vitamin B12 binding protein and elastase.
-GO:0005788,The volume enclosed by the membranes of the endoplasmic reticulum.
-GO:0031905,The volume enclosed by the membrane of an early endosome.
-GO:0035578,The volume enclosed by the membrane of an azurophil granule, a primary lysosomal granule found in neutrophil granulocytes that contains a wide range of hydrolytic enzymes and is released into the extracellular fluid.
-GO:0043220,Regions within compact myelin in which the cytoplasmic faces of the enveloping myelin sheath are not tightly juxtaposed, and include cytoplasm from the cell responsible for making the myelin. Schmidt-Lanterman incisures occur in the compact myelin internode, while lateral loops are analogous structures found in the paranodal region adjacent to the nodes of Ranvier.
+GO:0005657,"The Y-shaped region of a replicating DNA molecule, resulting from the separation of the DNA strands and in which the synthesis of new strands takes place. Also includes associated protein complexes."
+GO:0043596,"The Y-shaped region of a nuclear replicating DNA molecule, resulting from the separation of the DNA strands and in which the synthesis of new strands takes place. Also includes associated protein complexes."
+GO:0001726,"Projection at the leading edge of a crawling cell; the protrusions are supported by a microfilament meshwork."
+GO:0005912,"A cell-cell junction composed of the epithelial cadherin-catenin complex. The epithelial cadherins, or E-cadherins, of each interacting cell extend through the plasma membrane into the extracellular space and bind to each other. The E-cadherins bind to catenins on the cytoplasmic side of the membrane, where the E-cadherin-catenin complex binds to cytoskeletal components and regulatory and signaling molecules."
+GO:0005925,"A cell-substrate junction that anchors the cell to the extracellular matrix and that forms a point of termination of actin filaments. In insects focal adhesion has also been referred to as hemi-adherens junction (HAJ)."
+GO:0030054,"A cellular component that forms a specialized region of connection between two or more cells, or between a cell and the extracellular matrix, or between two membrane-bound components of a cell, such as flagella."
+GO:0000228,"A chromosome that encodes the nuclear genome and is found in the nucleus of a eukaryotic cell during the cell cycle phases when the nucleus is intact."
+GO:0015030,"A class of nuclear body, first seen after silver staining by Ramon y Cajal in 1903, enriched in small nuclear ribonucleoproteins, and certain general RNA polymerase II transcription factors; ultrastructurally, they appear as a tangle of coiled, electron-dense threads roughly 0.5 micrometers in diameter; involved in aspects of snRNP biogenesis; the protein coilin serves as a marker for Cajal bodies. Some argue that Cajal bodies are the sites for preassembly of transcriptosomes, unitary particles involved in transcription and processing of RNA."
+GO:0016605,"A class of nuclear body; they react against SP100 auto-antibodies (PML, promyelocytic leukemia); cells typically contain 10-30 PML bodies per nucleus; alterations in the localization of PML bodies occurs after viral infection."
+GO:0005604,"A collagen-containing extracellular matrix consisting of a thin layer of dense material found in various animal tissues interposed between the cells and the adjacent connective tissue. It consists of the basal lamina plus an associated layer of reticulin fibers."
+GO:0005737,"The contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures."
+GO:0005902,"Thin cylindrical membrane-covered projections on the surface of an animal cell containing a core bundle of actin filaments. Present in especially large numbers on the absorptive surface of intestinal cells."
+GO:0016363,"The dense fibrillar network lying on the inner side of the nuclear membrane."
+GO:0016607,"A discrete extra-nucleolar subnuclear domain, 20-50 in number, in which splicing factors are seen to be localized by immunofluorescence microscopy."
+GO:0016234,"A discrete intracellular part formed of aggregated molecules such as proteins or other biopolymers."
+GO:0005635,"The double lipid bilayer enclosing the nucleus and separating its contents from the rest of the cytoplasm; includes the intermembrane space, a gap of width 20-40 nm (also called the perinuclear space)."
+GO:0014069,"An electron dense network of proteins within and adjacent to the postsynaptic membrane of an asymmetric, neuron-neuron synapse. Its major components include neurotransmitter receptors and the proteins that spatially and functionally organize them such as anchoring and scaffolding molecules, signaling enzymes and cytoskeletal components."
+GO:0000781,"The end of a linear chromosome, required for the integrity and maintenance of the end. A chromosome telomere usually includes a region of telomerase-encoded repeats the length of which rarely exceeds 20 bp each and that permits the formation of a telomeric loop (T-loop). The telomeric repeat region is usually preceded by a sub-telomeric region that is gene-poor but rich in repetitive elements. Some telomeres only consist of the latter part (for eg. D. melanogaster telomeres)."
+GO:0070971,"An endoplasmic reticulum part at which COPII-coated vesicles are produced."
+GO:0030337,"An enzyme regulator activity that increases the processivity of polymerization by DNA polymerase, by allowing the polymerase to move rapidly along DNA while remaining topologically bound to it."
+GO:0009986,"The external part of the cell wall and/or plasma membrane."
+GO:0032473,"The external (cytoplasmic) face of the mitochondrial outer membrane."
+GO:0062023,"An extracellular matrix consisting mainly of proteins (especially collagen) and glycosaminoglycans (mostly as proteoglycans) that provides not only essential physical scaffolding for the cellular constituents but can also initiate crucial biochemical and biomechanical cues required for tissue morphogenesis, differentiation and homeostasis. The components are secreted by cells in the vicinity and form a sheet underlying or overlying cells such as endothelial and epithelial cells."
+GO:0005652,"The fibrous, electron-dense layer lying on the nucleoplasmic side of the inner membrane of a cell nucleus, composed of lamin filaments. The polypeptides of the lamina are thought to be concerned in the dissolution of the nuclear envelope and its re-formation during mitosis. The lamina is composed of lamin A and lamin C filaments cross-linked into an orthogonal lattice, which is attached via lamin B to the inner nuclear membrane through interactions with a lamin B receptor, an IFAP, in the membrane."
+GO:0005759,"The gel-like material, with considerable fine structure, that lies in the matrix space, or lumen, of a mitochondrion. It contains the enzymes of the tricarboxylic acid cycle and, in some organisms, the enzymes concerned with fatty acid oxidation."
+GO:0000793,"A highly compacted molecule of DNA and associated proteins resulting in a cytologically distinct structure."
+GO:0000794,"A highly compacted molecule of DNA and associated proteins resulting in a cytologically distinct nuclear chromosome."
+GO:0016235,"An inclusion body formed by dynein-dependent retrograde transport of an aggregated protein on microtubules."
+GO:0043195,"Terminal inflated portion of the axon, containing the specialized apparatus necessary to release neurotransmitters. The axon terminus is considered to be the whole region of thickening and the terminal bouton is a specialized region of it."
+GO:0005743,"The inner, i.e. lumen-facing, lipid bilayer of the mitochondrial envelope. It is highly folded to form cristae."
+GO:0005815,"An intracellular structure that can catalyze gamma-tubulin-dependent microtubule nucleation and that can anchor microtubules by interacting with their minus ends, plus ends or sides."
+GO:0005811,"An intracellular non-membrane-bounded organelle comprising a matrix of coalesced lipids surrounded by a phospholipid monolayer. May include associated proteins."
+GO:0042405,"An intranuclear focus at which aggregated proteins have been sequestered."
+GO:0005783,"The irregular network of unit membranes, visible only by electron microscopy, that occurs in the cytoplasm of many eukaryotic cells. The membranes form a complex meshwork of tubular channels, which are often expanded into slitlike cavities called cisternae. The ER takes two forms, rough (or granular), with ribosomes adhering to the outer surface, and smooth (with no ribosomes attached)."
+GO:0031594,"The junction between the axon of a motor neuron and a muscle fiber. In response to the arrival of action potentials, the presynaptic button releases molecules of neurotransmitters into the synaptic cleft. These diffuse across the cleft and transmit the signal to the postsynaptic membrane of the muscle fiber, leading to a change in post-synaptic potential."
+GO:0009897,"The leaflet of the plasma membrane that faces away from the cytoplasm and any proteins embedded or anchored in it or attached to its surface."
+GO:0030658,"The lipid bilayer surrounding a transport vesicle."
+GO:0055038,"The lipid bilayer surrounding a recycling endosome."
+GO:0031902,"The lipid bilayer surrounding a late endosome."
+GO:0030667,"The lipid bilayer surrounding a secretory granule."
+GO:0030670,"The lipid bilayer surrounding a phagocytic vesicle."
+GO:0031901,"The lipid bilayer surrounding an early endosome."
+GO:0005789,"The lipid bilayer surrounding the endoplasmic reticulum."
+GO:0016020,"A lipid bilayer along with all the proteins and protein complexes embedded in it an attached to it."
+GO:0000139,"The lipid bilayer surrounding any of the compartments of the Golgi apparatus."
+GO:0010008,"The lipid bilayer surrounding an endosome."
+GO:0012507,"The lipid bilayer surrounding a vesicle transporting substances from the endoplasmic reticulum to the Golgi."
+GO:0030660,"The lipid bilayer surrounding a vesicle associated with the Golgi apparatus."
+GO:0005765,"The lipid bilayer surrounding the lysosome and separating its contents from the cell cytoplasm."
+GO:0030669,"The lipid bilayer surrounding a clathrin-coated endocytic vesicle."
+GO:0030672,"The lipid bilayer surrounding a synaptic vesicle."
+GO:0030424,"The long process of a neuron that conducts nerve impulses, usually away from the cell body to the terminals and varicosities, which are sites of storage and release of neurotransmitter."
+GO:0099400,"A membrane microdomain that forms a necklace around the bulb (crater) of a caveola.  Intramembrane particles are concentrated in this region and cytoskeletal components, including actin, are highly enriched in the area underlying it."
+GO:0005886,"The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins."
+GO:0005794,"A membrane-bound cytoplasmic organelle of the endomembrane system that further processes the core oligosaccharides (e.g. N-glycans) added to proteins in the endoplasmic reticulum and packages them into membrane-bound vesicles. The Golgi apparatus operates at the intersection of the secretory, lysosomal, and endocytic pathways."
+GO:0097487,"A membrane-bounded vesicle wholly contained within a multivesicular body."
+GO:0005634,"A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent."
+GO:0005769,"A membrane-bounded organelle that receives incoming material from primary endocytic vesicles that have been generated by clathrin-dependent and clathrin-independent endocytosis; vesicles fuse with the early endosome to deliver cargo for sorting into recycling or degradation pathways."
+GO:1904813,"Any membrane-enclosed lumen that is part of a ficolin-1-rich granule."
+GO:1904724,"Any membrane-enclosed lumen that is part of a tertiary granule."
+GO:0005876,"Any microtubule that is part of a mitotic or meiotic spindle; anchored at one spindle pole."
+GO:0031430,"The midline of aligned thick filaments in a sarcomere; location of specific proteins that link thick filaments. Depending on muscle type the M band consists of different numbers of M lines."
+GO:0030426,"The migrating motile tip of a growing neuron projection, where actin accumulates, and the actin cytoskeleton is the most dynamic."
+GO:0000776,"A multisubunit complex that is located at the centromeric region of DNA and provides an attachment point for the spindle microtubules."
+GO:0005802,"The network of interconnected tubular and cisternal structures located within the Golgi apparatus on the side distal to the endoplasmic reticulum, from which secretory vesicles emerge. The trans-Golgi network is important in the later stages of protein secretion where it is thought to play a key role in the sorting and targeting of secreted proteins to the correct destination."
+GO:0030425,"A neuron projection that has a short, tapering, morphology. Dendrites receive and integrate signals from other neurons or from sensory stimuli, and conduct nerve impulses towards the axon or the cell body. In most neurons, the impulse is conveyed from dendrites to axon via the cell body, but in some types of unipolar neuron, the impulse does not travel via the cell body."
+GO:0016604,"Extra-nucleolar nuclear domains usually visualized by confocal microscopy and fluorescent antibodies to specific proteins."
+GO:0001674,"The nucleus of the female germ cell, a reproductive cell in females."
+GO:0001673,"The nucleus of a male germ cell, a reproductive cell in males."
+GO:0005923,"An occluding cell-cell junction that is composed of a branching network of sealing strands that completely encircles the apical end of each cell in an epithelial sheet; the outer leaflets of the two interacting plasma membranes are seen to be tightly apposed where sealing strands are present. Each sealing strand is composed of a long row of transmembrane adhesion proteins embedded in each of the two interacting plasma membranes."
+GO:0045121,"Any of the small (10-200 nm), heterogeneous, highly dynamic, sterol- and sphingolipid-enriched membrane domains that compartmentalize cellular processes. Small rafts can sometimes be stabilized to form larger platforms through protein-protein and protein-lipid interactions."
+GO:0000701,"Catalysis of the removal of purines present in mismatches, especially opposite oxidized purines, by cleaving the N-C1' glycosidic bond between the target damaged DNA base and the deoxyribose sugar. The reaction releases a free base and leaves an apurinic (AP) site."
+GO:0031966,"Either of the lipid bilayers that surround the mitochondrion and form the mitochondrial envelope."
+GO:0032839,"All of the contents of a dendrite, excluding the surrounding plasma membrane."
+GO:0031965,"Either of the lipid bilayers that surround the nucleus and form the nuclear envelope; excludes the intermembrane space."
+GO:0000785,"The ordered and organized complex of DNA, protein, and sometimes RNA, that forms the chromosome."
+GO:0055037,"An organelle consisting of a network of tubules that functions in targeting molecules, such as receptors transporters and lipids, to the plasma membrane."
+GO:0044753,"Intermediate organelles formed during macroautophagy through the fusion between autophagosomes and endosomes."
+GO:0042383,"The outer membrane of a muscle cell, consisting of the plasma membrane, a covering basement membrane (about 100 nm thick and sometimes common to more than one fiber), and the associated loose network of collagen fibers."
+GO:0005640,"The outer, i.e. cytoplasm-facing, lipid bilayer of the nuclear envelope; continuous with the endoplasmic reticulum of the cell and sometimes studded with ribosomes."
+GO:0005741,"The outer, i.e. cytoplasm-facing, lipid bilayer of the mitochondrial envelope."
+GO:0015630,"The part of the cytoskeleton (the internal framework of a cell) composed of microtubules and associated proteins."
+GO:0015629,"The part of the cytoskeleton (the internal framework of a cell) composed of actin and associated proteins. Includes actin cytoskeleton-associated complexes."
+GO:0005654,"That part of the nuclear content other than the chromosomes or the nucleolus."
+GO:0098793,"The part of a synapse that is part of the presynaptic cell."
+GO:0098794,"The part of a synapse that is part of the post-synaptic cell."
+GO:0061827,"The part of the late spermatid or spermatozoon that contains the nucleus and acrosome."
+GO:0005615,"That part of a multicellular organism outside the cells proper, usually taken to be outside the plasma membranes, and occupied by fluid."
+GO:0005829,"The part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes."
+GO:0030864,"The portion of the actin cytoskeleton, comprising filamentous actin and associated proteins, that lies just beneath the plasma membrane."
+GO:0043204,"The portion of the cell soma (neuronal cell body) that excludes the nucleus."
+GO:0032587,"The portion of the plasma membrane surrounding a ruffle."
+GO:0043025,"The portion of a neuron that includes the nucleus, but excludes cell projections such as axons and dendrites."
+GO:0043005,"A prolongation or process extending from a nerve cell, e.g. an axon or dendrite."
+GO:0000800,"A proteinaceous core found between sister chromatids during meiotic prophase."
+GO:0000795,"A proteinaceous scaffold found between homologous chromosomes during meiosis. It consists of 2 lateral elements and a central element, all running parallel to each other. Transverse filaments connect the lateral elements to the central element."
+GO:0005938,"The region of a cell that lies just beneath the plasma membrane and often, but not always, contains a network of actin filaments and associated proteins."
+GO:0016324,"The region of the plasma membrane located at the apical end of the cell."
+GO:0035861,"A region of a chromosome at which a DNA double-strand break has occurred. DNA damage signaling and repair proteins accumulate at the lesion to respond to the damage and repair the DNA to form a continuous DNA helix."
+GO:0035749,"The region of the myelin sheath nearest to the axon."
+GO:0090734,"A region of a chromosome at which DNA damage has occurred. DNA damage signaling and repair proteins accumulate at the lesion to respond to the damage and repair the DNA to form a continuous DNA helix."
+GO:0016323,"The region of the plasma membrane that includes the basal end and sides of the cell. Often used in reference to animal polarized epithelial membranes, where the basal membrane is the part attached to the extracellular matrix, or in plant cells, where the basal membrane is defined with respect to the zygotic axis."
+GO:0031674,"A region of a sarcomere that appears as a light band on each side of the Z disc, comprising a region of the sarcomere where thin (actin) filaments are not overlapped by thick (myosin) filaments; contains actin, troponin, and tropomyosin; each sarcomere includes half of an I band at each end."
+GO:0099523,"The region of the cytosol consisting of all cytosol that is part of the presynapse."
+GO:0036464,"A ribonucleoprotein granule located in the cytoplasm."
+GO:0005739,"A semiautonomous, self replicating organelle that occurs in varying numbers, shapes, and sizes in the cytoplasm of virtually all eukaryotic cells. It is notably the site of tissue respiration."
+GO:0000806,"The sex chromosome present in males of species in which the male is the heterogametic sex; generally, the sex chromosome that pairs with the X chromosome in the heterogametic sex. The Y chromosome is absent from the cells of females and present in one copy in the somatic cells of males."
+GO:0000805,"The sex chromosome present in both sexes of species in which the male is the heterogametic sex. Two copies of the X chromosome are present in each somatic cell of females and one copy is present in males."
+GO:0098574,"The side (leaflet) of the lysosomal membrane that faces the cytoplasm."
+GO:0048471,"Cytoplasm situated near, or occurring around, the nucleus."
+GO:0005764,"A small lytic vacuole that has cell cycle-independent morphology found in most animal cells and that contains a variety of hydrolases, most of which have their maximal activities in the pH range 5-6. The contained enzymes display latency if properly isolated. About 40 different lysosomal hydrolases are known and lysosomes have a great variety of morphologies and functions."
+GO:0030141,"A small subcellular vesicle, surrounded by a membrane, that is formed from the Golgi apparatus and contains a highly concentrated protein destined for secretion. Secretory granules move towards the periphery of the cell and upon stimulation, their membranes fuse with the cell membrane, and their protein load is exteriorized. Processing of the contained protein may take place in secretory granules."
+GO:0031982,"Any small, fluid-filled, spherical organelle enclosed by membrane."
+GO:0005730,"A small, dense body one or more of which are present in the nucleus of eukaryotic cells. It is rich in RNA and protein, is not bounded by a limiting membrane, and is not seen during mitosis. Its prime function is the transcription of the nucleolar DNA into 45S ribosomal-precursor RNA, the processing of this RNA into 5.8S, 18S, and 28S components of ribosomal RNA, and the association of these components with 5S RNA and proteins synthesized outside the nucleolus. This association results in the formation of ribonucleoprotein precursors; these pass into the cytoplasm and mature into the 40S and 60S subunits of the ribosome."
+GO:0005576,"The space external to the outermost structure of a cell. For cells without external protective or external encapsulating structures this refers to space outside of the plasma membrane. This term covers the host cell environment outside an intracellular parasite."
+GO:0072686,"A spindle that forms as part of mitosis. Mitotic and meiotic spindles contain distinctive complements of proteins associated with microtubules."
+GO:0030175,"Thin, stiff, actin-based protrusion extended by the leading edge of a motile cell such as a crawling fibroblast or amoeba, or an axonal or dendritic growth cone, or a dendritic shaft."
+GO:0043231,"Organized structure of distinctive morphology and function, bounded by a single or double lipid bilayer membrane and occurring within the cell. Includes the nucleus, mitochondria, plastids, vacuoles, and vesicles. Excludes the plasma membrane."
+GO:0005694,"A structure composed of a very long molecule of DNA and associated proteins (e.g. histones) that carries hereditary information."
+GO:0005813,"A structure comprised of a core structure (in most organisms, a pair of centrioles) and peripheral material from which a microtubule-based structure, such as a spindle apparatus, is organized. Centrosomes occur close to the nucleus during interphase in many eukaryotic cells, though in animal cells it changes continually during the cell-division cycle."
+GO:0098978,"A synapse that uses glutamate as a neurotransmitter."
+GO:0098685,"A synapse between the Schaffer collateral axon of a CA3 pyramidal cell and a CA1 pyramidal cell."
+GO:0005721,"Heterochromatin that is located adjacent to the CENP-A rich centromere 'central core' and characterized by methylated H3 histone at lysine 9 (H3K9me2/H3K9me3)."
+GO:0030027,"A thin sheetlike process extended by the leading edge of a migrating cell or extending cell process; contains a dense meshwork of actin filaments."
+GO:0030496,"A thin cytoplasmic bridge formed between daughter cells at the end of cytokinesis. The midbody forms where the contractile ring constricts, and may persist for some time before finally breaking to complete cytokinesis."
+GO:0042470,"A tissue-specific, membrane-bounded cytoplasmic organelle within which melanin pigments are synthesized and stored. Melanosomes are synthesized in melanocyte cells."
+GO:0005515,"Binding to a protein."
+GO:0003684,"Binding to damaged DNA."
+GO:0070182,"Binding to a DNA polymerase."
+GO:0042802,"Binding to an identical protein or proteins."
+GO:0044877,"Binding to a macromolecular complex."
+GO:0030331,"Binding to a nuclear estrogen receptor."
+GO:0032405,"Binding to a MutLalpha mismatch repair complex."
+GO:0030971,"Binding to a receptor that possesses protein tyrosine kinase activity."
+GO:0019899,"Binding to an enzyme, a protein with catalytic activity."
+GO:0003682,"Binding to chromatin, the network of fibers of DNA, protein, and sometimes RNA, that make up the chromosomes of the eukaryotic nucleus during interphase."
+GO:0008022,"Binding to a protein C-terminus, the end of a peptide chain at which the 1-carboxyl function of a constituent amino acid is not attached in peptide linkage to another amino-acid residue."
+GO:0032139,"Binding to a double-stranded DNA region containing a dinucleotide insertion or deletion."
+GO:0035035,"Binding to an histone acetyltransferase."
+GO:0035985,"A transcriptionally-silent heterochromatin structure present in senescent cells. Contains the condensed chromatin of one chromosome and is enriched for histone modifications. Thought to repress expression of proliferation-promoting genes."
+GO:0044754,"A type of secondary lysosome in which a primary lysosome has fused with the outer membrane of an autophagosome. It is involved in the second step of autophagy in which it degrades contents with acidic lysosomal hydrolases."
+GO:0001533,"A type of plasma membrane that has been modified through addition of distinct intracellular and extracellular components, including ceramide, found in cornifying epithelial cells (corneocytes)."
+GO:0005768,"A vacuole to which materials ingested by endocytosis are delivered."
+GO:0005798,"Any vesicle associated with the Golgi complex and involved in mediating transport within the Golgi or between the Golgi and other parts of the cell."
+GO:0030140,"A vesicle that mediates transport between the trans-Golgi network and other parts of the cell."
+GO:0070062,"A vesicle that is released into the extracellular region by fusion of the limiting endosomal membrane of a multivesicular body with the plasma membrane. Extracellular exosomes, also simply called exosomes, have a diameter of about 40-100 nm."
+GO:0031410,"A vesicle found in the cytoplasm of a cell."
+GO:0035580,"The volume enclosed by the membrane of a specific granule, a granule with a membranous, tubular internal structure, found primarily in mature neutrophil cells. Most are released into the extracellular fluid. Specific granules contain lactoferrin, lysozyme, vitamin B12 binding protein and elastase."
+GO:0035578,"The volume enclosed by the membrane of an azurophil granule, a primary lysosomal granule found in neutrophil granulocytes that contains a wide range of hydrolytic enzymes and is released into the extracellular fluid."
+GO:0005788,"The volume enclosed by the membranes of the endoplasmic reticulum."
+GO:0031905,"The volume enclosed by the membrane of an early endosome."
+GO:0034774,"The volume enclosed by the membrane of a secretory granule."
+GO:0031093,"The volume enclosed by the membrane of the platelet alpha granule."
+GO:0043220,"Regions within compact myelin in which the cytoplasmic faces of the enveloping myelin sheath are not tightly juxtaposed, and include cytoplasm from the cell responsible for making the myelin. Schmidt-Lanterman incisures occur in the compact myelin internode, while lateral loops are analogous structures found in the paranodal region adjacent to the nodes of Ranvier."

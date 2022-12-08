@@ -47,7 +47,7 @@ def load_go_obo():
         if line.startswith('is_a'):
           is_a.append(line.split()[1])
         elif line.startswith('def'):
-          def_ = line.split('"')[1]
+          def_ = '"' + line.split('"')[1] + '"'
         elif line.startswith('id'):
           goid = line.split()[1]
         elif line.startswith('name'):
