@@ -141,7 +141,7 @@ if __name__ == '__main__':
       mf_id_counts[goid] = mf_id_counts.get(goid, 0) + 1
   entries = [f'{goid},{GO_DATA[goid].def_},{mf_id_counts[goid]}' for goid in mf_id_counts]
   entries.sort(key=lambda x: int(x.split(',')[-1]), reverse=True)
-  entries = ['GOid', 'Molecular Function Annotation Description', 'Frequency'] + entries
+  entries = ['GOid,Molecular Function Annotation Description,Frequency'] + entries
   print(*entries, sep='\n', file=open('results/molecular_function.csv', 'w'))
 
   # Retrieve all cellular components in the system
@@ -151,7 +151,7 @@ if __name__ == '__main__':
       cc_id_counts[goid] = cc_id_counts.get(goid, 0) + 1
   entries = [f'{goid},{GO_DATA[goid].def_},{cc_id_counts[goid]}' for goid in cc_id_counts]
   entries.sort(key=lambda x: int(x.split(',')[-1]), reverse=True)
-  entries = ['GOid', 'Cellular Component Annotation Description', 'Frequency'] + entries
+  entries = ['GOid,Cellular Component Annotation Description,Frequency'] + entries
   print(*entries, sep='\n', file=open('results/cellular_component.csv', 'w'))
 
   # Retrieve all biological processes in the system
@@ -161,6 +161,6 @@ if __name__ == '__main__':
       bp_id_counts[goid] = bp_id_counts.get(goid, 0) + 1
   entries = [f'{goid},{GO_DATA[goid].def_},{bp_id_counts[goid]}' for goid in bp_id_counts]
   entries.sort(key=lambda x: int(x.split(',')[-1]), reverse=True)
-  entries = ['GOid', 'Biological Process Annotation Description', 'Frequency'] + entries
+  entries = ['GOid,Biological Process Annotation Description,Frequency'] + entries
   print(*entries, sep='\n', file=open('results/biological_process.csv', 'w'))
 
